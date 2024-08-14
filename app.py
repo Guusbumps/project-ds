@@ -13,22 +13,26 @@ app = Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
 
 app.layout = html.Div([
-    html.H1('Project Data Science'),
-    html.H2('Nutrition and Cancer Dashboard'),
-    html.Br(),
-    html.Div('Stratification category'),
-    dcc.Dropdown(df.StratificationCategory1.unique(),
+    dcc.Tabs([
+        dcc.Tab(label='Tab one', children=[
+            html.H1('Project Data Science'),
+            html.H2('Nutrition and Cancer Dashboard'),
+            html.Br(),
+            html.Div('Stratification category'),
+            dcc.Dropdown(df.StratificationCategory1.unique(),
                  'Total',
                  id='dropdown-selection'
-    ),
-    dcc.Checklist(
-        ['Show labels'],
-        ['Show labels'],
-        id='checkbox'
-    ),
-    html.Div(id='display-value'),
-    dcc.Graph(id='graph-content')
-])
+            ),
+            dcc.Checklist(
+                ['Show labels'],
+                ['Show labels'],
+                id='checkbox'
+            ),
+            html.Div(id='display-value'),
+            dcc.Graph(id='graph-content')
+            ])
+        ])
+    ])
 
 
 @callback(
