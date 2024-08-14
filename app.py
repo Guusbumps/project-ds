@@ -1,9 +1,9 @@
 from dash import Dash, dcc, html, Input, Output, callback
 import data_wrangling as dw
 import plotly.express as px
+#import statsmodels
 
 # import data
-#df = dw.getNutritionData()
 df = dw.getJoinedNutritionCancerData()
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
@@ -36,7 +36,9 @@ def update_graph(value):
                       x='Data_Value',
                       y='Age-adjusted Death Rate',
                       color='Question',
-                      hover_data=list(dff.columns))
+                      hover_data=list(dff.columns),
+                      trendline="ols"
+                      )
 
 
 if __name__ == '__main__':
