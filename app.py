@@ -16,10 +16,15 @@ app.layout = html.Div([
     html.H1('Project Data Science'),
     html.H2('Nutrition and Cancer Dashboard'),
     html.Br(),
-    html.Div('Year'),
-    dcc.Dropdown(df.Year.unique(),
-                 2017,
+    html.Div('Stratification category'),
+    dcc.Dropdown(df.StratificationCategory1.unique(),
+                 'Total',
                  id='dropdown-selection'
+    ),
+    dcc.Checklist(
+        ['Show labels'],
+        ['Show labels'],
+        id='checkbox'
     ),
     html.Div(id='display-value'),
     dcc.Graph(id='graph-content')
@@ -28,17 +33,22 @@ app.layout = html.Div([
 
 @callback(
     Output('graph-content', 'figure'),
-    Input('dropdown-selection', 'value')
+    Input('dropdown-selection', 'value'),
+    Input('checkbox', 'value')
 )
-def update_graph(value):
-    dff = df[df.Year == value]
-    return px.scatter(dff,
+def update_graph(dropdown_value, checkbox_value):
+    dff = df[df.StratificationCategory1 == dropdown_value]
+    fig = px.scatter(dff,
                       x='Data_Value',
                       y='Age-adjusted Death Rate',
                       color='Question',
+                      facet_col='Stratification1', facet_col_wrap=3,
+                      text='StateAbbr' if checkbox_value == ["Show labels"] else None,
                       hover_data=list(dff.columns),
                       trendline="ols"
                       )
+    fig.update_traces(textposition='top center')
+    return fig
 
 
 if __name__ == '__main__':

@@ -4,10 +4,9 @@ import pandas as pd
 def getNutritionData():
     nutrition_data_raw = pd.read_csv('data/Nutrition__Physical_Activity__and_Obesity_-_BRFSS_fruitveg_20240707.csv')
 
-    # select the "Total" stratification category (no stratification by Age, Education, Gender, Income, Race/Ethnicity)
-    nutrition_data_total = nutrition_data_raw[nutrition_data_raw['StratificationCategory1'] == "Total"]
-
-    df_nutr = nutrition_data_total[['YearStart', 'LocationDesc', 'LocationAbbr', 'Question', 'Data_Value']].copy()
+    df_nutr = nutrition_data_raw[
+        ['YearStart', 'LocationDesc', 'LocationAbbr', 'Question', 'Data_Value', 'StratificationCategory1','Stratification1']].copy()
+    # rename to match the column names in cause of death datasets
     df_nutr.rename(columns={'YearStart': 'Year', 'LocationDesc': 'State', 'LocationAbbr': 'StateAbbr'},
                    inplace=True)
 
