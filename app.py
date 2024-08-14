@@ -1,7 +1,9 @@
 from dash import Dash, dcc, html, Input, Output, callback
+import data_wrangling as dw
+import plotly.express as px
 
-import os
-
+# import data
+df = dw.getNutritionData()
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
@@ -10,17 +12,26 @@ app = Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
 
 app.layout = html.Div([
-    html.H1('Hello World'),
-    dcc.Dropdown(['LA', 'NYC', 'MTL'],
-        'LA',
-        id='dropdown'
+    html.H1('Project Data Science'),
+    html.H2('Nutrition and Cancer Dashboard'),
+    html.Br(),
+    html.Div('State'),
+    dcc.Dropdown(df.State.unique(),
+                 'Illinois',
+                 id='dropdown-selection'
     ),
-    html.Div(id='display-value')
+    html.Div(id='display-value'),
+    dcc.Graph(id='graph-content')
 ])
 
-@callback(Output('display-value', 'children'), Input('dropdown', 'value'))
-def display_value(value):
-    return f'You have selected {value}'
+
+@callback(
+    Output('graph-content', 'figure'),
+    Input('dropdown-selection', 'value')
+)
+def update_graph(value):
+    dff = df[df.State==value]
+    return px.line(dff, x='Year', y='Data_Value')
 
 if __name__ == '__main__':
     app.run(debug=True)
