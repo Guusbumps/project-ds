@@ -3,7 +3,8 @@ import data_wrangling as dw
 import plotly.express as px
 
 # import data
-df = dw.getNutritionData()
+#df = dw.getNutritionData()
+df = dw.getJoinedNutritionCancerData()
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
@@ -15,9 +16,9 @@ app.layout = html.Div([
     html.H1('Project Data Science'),
     html.H2('Nutrition and Cancer Dashboard'),
     html.Br(),
-    html.Div('State'),
-    dcc.Dropdown(df.State.unique(),
-                 'Illinois',
+    html.Div('Year'),
+    dcc.Dropdown(df.Year.unique(),
+                 2017,
                  id='dropdown-selection'
     ),
     html.Div(id='display-value'),
@@ -30,8 +31,13 @@ app.layout = html.Div([
     Input('dropdown-selection', 'value')
 )
 def update_graph(value):
-    dff = df[df.State==value]
-    return px.line(dff, x='Year', y='Data_Value')
+    dff = df[df.Year == value]
+    return px.scatter(dff,
+                      x='Data_Value',
+                      y='Age-adjusted Death Rate',
+                      color='Question',
+                      hover_data=list(dff.columns))
+
 
 if __name__ == '__main__':
     app.run(debug=True)
