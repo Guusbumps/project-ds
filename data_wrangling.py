@@ -22,8 +22,21 @@ def getCancerDeathData():
     return df_cancerdeaths
 
 
+def getCancerSiteDeathData():
+    df_cancersite_deaths = pd.read_csv('data/United States and Puerto Rico Cancer Statistics, 1999-2020 Mortality.txt',
+                                       sep="\t")
+    return df_cancersite_deaths
+
+
 def getJoinedNutritionCancerData():
     df_nutr = getNutritionData()
     df_cancerdeaths = getCancerDeathData()
     df_nutr_cancerdeaths = pd.merge(df_cancerdeaths, df_nutr, how='inner')
     return df_nutr_cancerdeaths
+
+
+def getJoinedNutritionCancerSiteData():
+    df_nutr = getNutritionData()
+    df_cancersitedeaths = getCancerSiteDeathData()
+    df_nutr_cancersitedeaths = pd.merge(df_cancersitedeaths, df_nutr, how='inner')
+    return df_nutr_cancersitedeaths
