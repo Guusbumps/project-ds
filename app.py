@@ -65,7 +65,7 @@ app.layout = html.Div([
                 id='checkbox3'
             ),
             dcc.Checklist(
-                df2[df2['StratificationCategory1'] == "Total"].groupby('Cancer Sites')['Data_Value'].mean().sort_values(ascending=False).index.tolist(),
+                df2[df2['StratificationCategory1'] == "Total"].groupby('Cancer Sites')['Age-Adjusted Rate'].mean().sort_values(ascending=False).index.tolist(),
                 ['All Cancer Sites Combined'],
                 inline=True,
                 id='checklist_sites'
@@ -75,9 +75,6 @@ app.layout = html.Div([
         ])
     ])
 
-##
-df2.groupby('Cancer Sites')['Data_Value'].mean().sort_values(ascending=False).index.tolist()
-##
 
 @callback(
     Output('graph-content', 'figure'),
