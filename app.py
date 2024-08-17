@@ -23,7 +23,7 @@ app.layout = html.Div([
                          2017,
                          id='dropdown-selection-year'
                          ),
-            html.Div('Stratification categoy'),
+            html.Div('Stratification category'),
             dcc.Dropdown(df2['StratificationCategory1'].unique(),
                          'Total',
                          id='dropdown-selection-strat'
@@ -46,13 +46,18 @@ app.layout = html.Div([
                 ['Show labels'],
                 id='checkbox3'
             ),
-            html.Div('Cancer sites shown'),
-            dcc.Checklist(
-                df2[df2['StratificationCategory1'] == "Total"].groupby('Cancer Sites')['Age-Adjusted Rate'].mean().sort_values(ascending=False).index.tolist(),
-                ['Digestive System', 'Respiratory System', 'Lung and Bronchus'],
-                inline=True,
-                id='checklist_sites'
-            ),
+            html.Br(),
+            html.Details([
+                html.Summary(
+                    html.B('Click here to select cancer sites')
+                ),
+                dcc.Checklist(
+                    df2[df2['StratificationCategory1'] == "Total"].groupby('Cancer Sites')['Age-Adjusted Rate'].mean().sort_values(ascending=False).index.tolist(),
+                    ['Digestive System', 'Respiratory System', 'Lung and Bronchus'],
+                    inline=True,
+                    id='checklist_sites'
+                ),
+            ]),
             dcc.Graph(id='cancersites-graph-content')
             ])
         ])
