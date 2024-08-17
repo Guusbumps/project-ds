@@ -66,7 +66,7 @@ app.layout = html.Div([
             ),
             dcc.Checklist(
                 df2[df2['StratificationCategory1'] == "Total"].groupby('Cancer Sites')['Age-Adjusted Rate'].mean().sort_values(ascending=False).index.tolist(),
-                ['All Cancer Sites Combined'],
+                ['Digestive System', 'Respiratory System', 'Lung and Bronchus'],
                 inline=True,
                 id='checklist_sites'
             ),
@@ -147,7 +147,7 @@ def update_cancersites_graph(dropdown_year, checkbox_value, checklist_sites_valu
                          "Percent of adults who report consuming vegetables less than one time daily": "blue",
                      },
                      text='StateAbbr' if checkbox_value == ["Show labels"] else None,
-                     facet_col='Cancer Sites', facet_col_wrap=8,
+                     facet_col='Cancer Sites', facet_col_wrap=4,
                      hover_data=list(dff2.columns),
                      trendline="ols"
                      )
