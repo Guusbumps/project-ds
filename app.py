@@ -18,19 +18,6 @@ app.layout = html.Div([
     html.H2('Nutrition and Cancer Dashboard'),
     dcc.Tabs([
         dcc.Tab(label='Population stratification', children=[
-            html.Div('Stratification category'),
-            dcc.Dropdown(df.StratificationCategory1.unique(),
-                 'Total',
-                 id='dropdown-selection'
-            ),
-            dcc.Checklist(
-                ['Show labels'],
-                ['Show labels'],
-                id='checkbox'
-            ),
-            dcc.Graph(id='graph-content')
-            ]),
-        dcc.Tab(label='Population stratification', children=[
             html.Div('Cancer site'),
             dcc.Dropdown(df2['Cancer Sites'].unique(),
                          'All Cancer Sites Combined',
@@ -75,30 +62,6 @@ app.layout = html.Div([
             ])
         ])
     ])
-
-
-@callback(
-    Output('graph-content', 'figure'),
-    Input('dropdown-selection', 'value'),
-    Input('checkbox', 'value')
-)
-def update_graph(dropdown_value, checkbox_value):
-    dff = df[df.StratificationCategory1 == dropdown_value]
-    fig = px.scatter(dff,
-                     x='Data_Value',
-                     y='Age-adjusted Death Rate',
-                     color='Question',
-                     color_discrete_map={
-                         "Percent of adults who report consuming fruit less than one time daily": "red",
-                         "Percent of adults who report consuming vegetables less than one time daily": "blue",
-                     },
-                     facet_col='Stratification1', facet_col_wrap=3,
-                     text='StateAbbr' if checkbox_value == ["Show labels"] else None,
-                     hover_data=list(dff.columns),
-                     trendline="ols"
-                     )
-    fig.update_traces(textposition='top center')
-    return fig
 
 
 @callback(
