@@ -64,6 +64,7 @@ app.layout = html.Div([
                 ['Show labels'],
                 id='checkbox3'
             ),
+            html.Div('Cancer sites shown'),
             dcc.Checklist(
                 df2[df2['StratificationCategory1'] == "Total"].groupby('Cancer Sites')['Age-Adjusted Rate'].mean().sort_values(ascending=False).index.tolist(),
                 ['Digestive System', 'Respiratory System', 'Lung and Bronchus'],
