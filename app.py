@@ -18,11 +18,6 @@ app.layout = html.Div([
     html.H2('Nutrition and Cancer Dashboard'),
     dcc.Tabs([
         dcc.Tab(label='Population stratification', children=[
-            html.Div('Cancer site'),
-            dcc.Dropdown(df2['Cancer Sites'].unique(),
-                         'All Cancer Sites Combined',
-                         id='dropdown-selection-site'
-                         ),
             html.Div('Year'),
             dcc.Dropdown(df2['Year'].unique(),
                          2017,
@@ -66,13 +61,12 @@ app.layout = html.Div([
 
 @callback(
     Output('stratification-graph-content', 'figure'),
-    Input('dropdown-selection-site', 'value'),
     Input('dropdown-selection-year', 'value'),
     Input('dropdown-selection-strat', 'value'),
     Input('checkbox2', 'value')
 )
-def update_stratification_graph(dropdown_site, dropdown_year, dropdown_strat, checkbox_value):
-    dff2 = df2[df2['Cancer Sites'] == dropdown_site]
+def update_stratification_graph(dropdown_year, dropdown_strat, checkbox_value):
+    dff2 = df2[df2['Cancer Sites'] == "All Cancer Sites Combined"]
     dff2 = dff2[dff2['Year'] == dropdown_year]
     dff2 = dff2[dff2['StratificationCategory1'] == dropdown_strat]
     fig = px.scatter(dff2,
