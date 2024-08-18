@@ -1,11 +1,9 @@
 from dash import Dash, dcc, html, Input, Output, callback
 import data_wrangling as dw
 import plotly.express as px
-#import statsmodels
 
 # import data
-df = dw.getJoinedNutritionCancerData()
-df2 = dw.getJoinedNutritionCancerSiteData()
+df = dw.getJoinedNutritionCancerSiteData()
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
@@ -19,12 +17,12 @@ app.layout = html.Div([
     dcc.Tabs([
         dcc.Tab(label='Population stratification', children=[
             html.Div('Year'),
-            dcc.Dropdown(df2['Year'].unique(),
+            dcc.Dropdown(df['Year'].unique(),
                          2017,
                          id='dropdown-selection-year'
                          ),
             html.Div('Stratification category'),
-            dcc.Dropdown(df2['StratificationCategory1'].unique(),
+            dcc.Dropdown(df['StratificationCategory1'].unique(),
                          'Total',
                          id='dropdown-selection-strat'
                          ),
@@ -37,7 +35,7 @@ app.layout = html.Div([
             ]),
         dcc.Tab(label='Cancer sites', children=[
             html.Div('Year'),
-            dcc.Dropdown(df2['Year'].unique(),
+            dcc.Dropdown(df['Year'].unique(),
                          2017,
                          id='dropdown-selection-year2'
                          ),
@@ -52,7 +50,7 @@ app.layout = html.Div([
                     html.B('Click here to select cancer sites')
                 ),
                 dcc.Checklist(
-                    df2[df2['StratificationCategory1'] == "Total"].groupby('Cancer Sites')['Age-Adjusted Rate'].mean().sort_values(ascending=False).index.tolist(),
+                    df[df['StratificationCategory1'] == "Total"].groupby('Cancer Sites')['Age-Adjusted Rate'].mean().sort_values(ascending=False).index.tolist(),
                     ['Digestive System', 'Respiratory System', 'Lung and Bronchus'],
                     inline=True,
                     id='checklist_sites'
@@ -71,10 +69,10 @@ app.layout = html.Div([
     Input('checkbox2', 'value')
 )
 def update_stratification_graph(dropdown_year, dropdown_strat, checkbox_value):
-    dff2 = df2[df2['Cancer Sites'] == "All Cancer Sites Combined"]
-    dff2 = dff2[dff2['Year'] == dropdown_year]
-    dff2 = dff2[dff2['StratificationCategory1'] == dropdown_strat]
-    fig = px.scatter(dff2,
+    dff = df[df['Cancer Sites'] == "All Cancer Sites Combined"]
+    dff = dff[dff['Year'] == dropdown_year]
+    dff = dff[dff['StratificationCategory1'] == dropdown_strat]
+    fig = px.scatter(dff,
                      x='Data_Value',
                      y='Age-Adjusted Rate',
                      color='Question',
@@ -84,7 +82,7 @@ def update_stratification_graph(dropdown_year, dropdown_strat, checkbox_value):
                      },
                      text='StateAbbr' if checkbox_value == ["Show labels"] else None,
                      facet_col='Stratification1', facet_col_wrap=3,
-                     hover_data=list(dff2.columns),
+                     hover_data=list(dff.columns),
                      trendline="ols"
                      )
     fig.update_traces(textposition='top center')
@@ -98,10 +96,10 @@ def update_stratification_graph(dropdown_year, dropdown_strat, checkbox_value):
     Input('checklist_sites', 'value')
 )
 def update_cancersites_graph(dropdown_year, checkbox_value, checklist_sites_value):
-    dff2 = df2[df2['Year'] == dropdown_year]
-    dff2 = dff2[dff2['StratificationCategory1'] == "Total"]
-    dff2 = dff2[dff2['Cancer Sites'].isin(checklist_sites_value)]
-    fig = px.scatter(dff2,
+    dff = df[df['Year'] == dropdown_year]
+    dff = dff[dff['StratificationCategory1'] == "Total"]
+    dff = dff[dff['Cancer Sites'].isin(checklist_sites_value)]
+    fig = px.scatter(dff,
                      x='Data_Value',
                      y='Age-Adjusted Rate',
                      color='Question',
@@ -111,7 +109,7 @@ def update_cancersites_graph(dropdown_year, checkbox_value, checklist_sites_valu
                      },
                      text='StateAbbr' if checkbox_value == ["Show labels"] else None,
                      facet_col='Cancer Sites', facet_col_wrap=4,
-                     hover_data=list(dff2.columns),
+                     hover_data=list(dff.columns),
                      trendline="ols"
                      )
     fig.update_traces(textposition='top center')

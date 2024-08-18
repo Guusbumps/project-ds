@@ -13,26 +13,10 @@ def getNutritionData():
     return df_nutr
 
 
-def getCancerDeathData():
-    death_data_raw = pd.read_csv('data/NCHS_-_Leading_Causes_of_Death__United_States_20240703.csv')
-    death_data_selection = death_data_raw[['Year', 'Cause Name', 'State', 'Deaths', 'Age-adjusted Death Rate']].copy()
-    df_cancerdeaths = death_data_selection[(death_data_selection['Cause Name'] == 'Cancer') &
-                                           (death_data_selection['State'] != 'United States')]
-
-    return df_cancerdeaths
-
-
 def getCancerSiteDeathData():
     df_cancersite_deaths = pd.read_csv('data/United States and Puerto Rico Cancer Statistics, 1999-2020 Mortality.txt',
                                        sep="\t")
     return df_cancersite_deaths
-
-
-def getJoinedNutritionCancerData():
-    df_nutr = getNutritionData()
-    df_cancerdeaths = getCancerDeathData()
-    df_nutr_cancerdeaths = pd.merge(df_cancerdeaths, df_nutr, how='inner')
-    return df_nutr_cancerdeaths
 
 
 def getJoinedNutritionCancerSiteData():
