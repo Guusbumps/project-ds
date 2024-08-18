@@ -1,0 +1,251 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"State"	"State Code"	"Year"	"Year Code"	"Sex"	"Sex Code"	Deaths	Population	Age-Adjusted Rate	Crude Rate
+	"All Cancer Sites Combined"	"0"	"Alabama"	"01"	"2017"	"2017"	"Female"	"F"	4689	2517486	138.4	186.3
+	"All Cancer Sites Combined"	"0"	"Alabama"	"01"	"2017"	"2017"	"Male"	"M"	5721	2360503	211.6	242.4
+	"All Cancer Sites Combined"	"0"	"Alabama"	"01"	"2019"	"2019"	"Female"	"F"	4660	2536133	131.1	183.7
+	"All Cancer Sites Combined"	"0"	"Alabama"	"01"	"2019"	"2019"	"Male"	"M"	5606	2371832	199.2	236.4
+	"All Cancer Sites Combined"	"0"	"Alaska"	"02"	"2017"	"2017"	"Female"	"F"	411	353997	119.4	116.1
+	"All Cancer Sites Combined"	"0"	"Alaska"	"02"	"2017"	"2017"	"Male"	"M"	515	386986	164.5	133.1
+	"All Cancer Sites Combined"	"0"	"Alaska"	"02"	"2019"	"2019"	"Female"	"F"	447	350790	125.7	127.4
+	"All Cancer Sites Combined"	"0"	"Alaska"	"02"	"2019"	"2019"	"Male"	"M"	574	382813	173.5	149.9
+	"All Cancer Sites Combined"	"0"	"Arizona"	"04"	"2017"	"2017"	"Female"	"F"	5458	3545316	115.1	153.9
+	"All Cancer Sites Combined"	"0"	"Arizona"	"04"	"2017"	"2017"	"Male"	"M"	6550	3502772	158.6	187.0
+	"All Cancer Sites Combined"	"0"	"Arizona"	"04"	"2019"	"2019"	"Female"	"F"	5755	3669041	112.9	156.9
+	"All Cancer Sites Combined"	"0"	"Arizona"	"04"	"2019"	"2019"	"Male"	"M"	6748	3622802	151.1	186.3
+	"All Cancer Sites Combined"	"0"	"Arkansas"	"05"	"2017"	"2017"	"Female"	"F"	3008	1527948	146.8	196.9
+	"All Cancer Sites Combined"	"0"	"Arkansas"	"05"	"2017"	"2017"	"Male"	"M"	3508	1475907	208.6	237.7
+	"All Cancer Sites Combined"	"0"	"Arkansas"	"05"	"2019"	"2019"	"Female"	"F"	2909	1538076	136.5	189.1
+	"All Cancer Sites Combined"	"0"	"Arkansas"	"05"	"2019"	"2019"	"Male"	"M"	3573	1482909	203.1	240.9
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2017"	"2017"	"Female"	"F"	28793	19783962	120.7	145.5
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2017"	"2017"	"Male"	"M"	30722	19553823	160.7	157.1
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2019"	"2019"	"Female"	"F"	28686	19829085	115.8	144.7
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2019"	"2019"	"Male"	"M"	30826	19608525	154.0	157.2
+	"All Cancer Sites Combined"	"0"	"Colorado"	"08"	"2017"	"2017"	"Female"	"F"	3755	2789649	115.1	134.6
+	"All Cancer Sites Combined"	"0"	"Colorado"	"08"	"2017"	"2017"	"Male"	"M"	4074	2827772	152.9	144.1
+	"All Cancer Sites Combined"	"0"	"Colorado"	"08"	"2019"	"2019"	"Female"	"F"	3841	2857610	111.5	134.4
+	"All Cancer Sites Combined"	"0"	"Colorado"	"08"	"2019"	"2019"	"Male"	"M"	4145	2900876	145.0	142.9
+	"All Cancer Sites Combined"	"0"	"Connecticut"	"09"	"2017"	"2017"	"Female"	"F"	3255	1831503	122.0	177.7
+	"All Cancer Sites Combined"	"0"	"Connecticut"	"09"	"2017"	"2017"	"Male"	"M"	3353	1743821	165.6	192.3
+	"All Cancer Sites Combined"	"0"	"Connecticut"	"09"	"2019"	"2019"	"Female"	"F"	3137	1826990	112.6	171.7
+	"All Cancer Sites Combined"	"0"	"Connecticut"	"09"	"2019"	"2019"	"Male"	"M"	3359	1739032	159.2	193.2
+	"All Cancer Sites Combined"	"0"	"Delaware"	"10"	"2017"	"2017"	"Female"	"F"	978	494606	137.9	197.7
+	"All Cancer Sites Combined"	"0"	"Delaware"	"10"	"2017"	"2017"	"Male"	"M"	1107	463336	190.4	238.9
+	"All Cancer Sites Combined"	"0"	"Delaware"	"10"	"2019"	"2019"	"Female"	"F"	954	504571	126.9	189.1
+	"All Cancer Sites Combined"	"0"	"Delaware"	"10"	"2019"	"2019"	"Male"	"M"	1119	472097	182.9	237.0
+	"All Cancer Sites Combined"	"0"	"District of Columbia"	"11"	"2017"	"2017"	"Female"	"F"	562	366336	145.5	153.4
+	"All Cancer Sites Combined"	"0"	"District of Columbia"	"11"	"2017"	"2017"	"Male"	"M"	469	330743	163.3	141.8
+	"All Cancer Sites Combined"	"0"	"District of Columbia"	"11"	"2019"	"2019"	"Female"	"F"	525	372393	131.6	141.0
+	"All Cancer Sites Combined"	"0"	"District of Columbia"	"11"	"2019"	"2019"	"Male"	"M"	500	335860	173.5	148.9
+	"All Cancer Sites Combined"	"0"	"Florida"	"12"	"2017"	"2017"	"Female"	"F"	20653	10720663	123.4	192.6
+	"All Cancer Sites Combined"	"0"	"Florida"	"12"	"2017"	"2017"	"Male"	"M"	24476	10256426	172.5	238.6
+	"All Cancer Sites Combined"	"0"	"Florida"	"12"	"2019"	"2019"	"Female"	"F"	21114	10987074	119.5	192.2
+	"All Cancer Sites Combined"	"0"	"Florida"	"12"	"2019"	"2019"	"Male"	"M"	24469	10504982	161.8	232.9
+	"All Cancer Sites Combined"	"0"	"Georgia"	"13"	"2017"	"2017"	"Female"	"F"	8095	5349075	131.8	151.3
+	"All Cancer Sites Combined"	"0"	"Georgia"	"13"	"2017"	"2017"	"Male"	"M"	9040	5067956	188.4	178.4
+	"All Cancer Sites Combined"	"0"	"Georgia"	"13"	"2019"	"2019"	"Female"	"F"	8316	5462335	127.3	152.2
+	"All Cancer Sites Combined"	"0"	"Georgia"	"13"	"2019"	"2019"	"Male"	"M"	9440	5165685	184.2	182.7
+	"All Cancer Sites Combined"	"0"	"Hawaii"	"15"	"2017"	"2017"	"Female"	"F"	1086	710227	105.3	152.9
+	"All Cancer Sites Combined"	"0"	"Hawaii"	"15"	"2017"	"2017"	"Male"	"M"	1370	715536	157.4	191.5
+	"All Cancer Sites Combined"	"0"	"Hawaii"	"15"	"2019"	"2019"	"Female"	"F"	1180	706419	111.7	167.0
+	"All Cancer Sites Combined"	"0"	"Hawaii"	"15"	"2019"	"2019"	"Male"	"M"	1320	709196	146.1	186.1
+	"All Cancer Sites Combined"	"0"	"Idaho"	"16"	"2017"	"2017"	"Female"	"F"	1380	858030	131.8	160.8
+	"All Cancer Sites Combined"	"0"	"Idaho"	"16"	"2017"	"2017"	"Male"	"M"	1640	861715	180.6	190.3
+	"All Cancer Sites Combined"	"0"	"Idaho"	"16"	"2019"	"2019"	"Female"	"F"	1333	891995	119.1	149.4
+	"All Cancer Sites Combined"	"0"	"Idaho"	"16"	"2019"	"2019"	"Male"	"M"	1595	897065	161.9	177.8
+	"All Cancer Sites Combined"	"0"	"Illinois"	"17"	"2017"	"2017"	"Female"	"F"	11769	6501339	138.3	181.0
+	"All Cancer Sites Combined"	"0"	"Illinois"	"17"	"2017"	"2017"	"Male"	"M"	12381	6278554	188.0	197.2
+	"All Cancer Sites Combined"	"0"	"Illinois"	"17"	"2019"	"2019"	"Female"	"F"	11562	6443120	132.4	179.4
+	"All Cancer Sites Combined"	"0"	"Illinois"	"17"	"2019"	"2019"	"Male"	"M"	12340	6223897	179.9	198.3
+	"All Cancer Sites Combined"	"0"	"Indiana"	"18"	"2017"	"2017"	"Female"	"F"	6354	3378096	145.3	188.1
+	"All Cancer Sites Combined"	"0"	"Indiana"	"18"	"2017"	"2017"	"Male"	"M"	7108	3283972	206.0	216.4
+	"All Cancer Sites Combined"	"0"	"Indiana"	"18"	"2019"	"2019"	"Female"	"F"	6295	3411571	138.6	184.5
+	"All Cancer Sites Combined"	"0"	"Indiana"	"18"	"2019"	"2019"	"Male"	"M"	7220	3319439	198.5	217.5
+	"All Cancer Sites Combined"	"0"	"Iowa"	"19"	"2017"	"2017"	"Female"	"F"	2998	1579862	133.7	189.8
+	"All Cancer Sites Combined"	"0"	"Iowa"	"19"	"2017"	"2017"	"Male"	"M"	3451	1563872	191.0	220.7
+	"All Cancer Sites Combined"	"0"	"Iowa"	"19"	"2019"	"2019"	"Female"	"F"	2915	1586636	126.7	183.7
+	"All Cancer Sites Combined"	"0"	"Iowa"	"19"	"2019"	"2019"	"Male"	"M"	3420	1572960	182.6	217.4
+	"All Cancer Sites Combined"	"0"	"Kansas"	"20"	"2017"	"2017"	"Female"	"F"	2508	1460476	131.8	171.7
+	"All Cancer Sites Combined"	"0"	"Kansas"	"20"	"2017"	"2017"	"Male"	"M"	2985	1450416	191.5	205.8
+	"All Cancer Sites Combined"	"0"	"Kansas"	"20"	"2019"	"2019"	"Female"	"F"	2675	1462080	134.5	183.0
+	"All Cancer Sites Combined"	"0"	"Kansas"	"20"	"2019"	"2019"	"Male"	"M"	2944	1450555	180.8	203.0
+	"All Cancer Sites Combined"	"0"	"Kentucky"	"21"	"2017"	"2017"	"Female"	"F"	4658	2260311	154.7	206.1
+	"All Cancer Sites Combined"	"0"	"Kentucky"	"21"	"2017"	"2017"	"Male"	"M"	5487	2195279	228.5	249.9
+	"All Cancer Sites Combined"	"0"	"Kentucky"	"21"	"2019"	"2019"	"Female"	"F"	4618	2269036	149.2	203.5
+	"All Cancer Sites Combined"	"0"	"Kentucky"	"21"	"2019"	"2019"	"Male"	"M"	5356	2203309	212.5	243.1
+	"All Cancer Sites Combined"	"0"	"Louisiana"	"22"	"2017"	"2017"	"Female"	"F"	4481	2390634	149.2	187.4
+	"All Cancer Sites Combined"	"0"	"Louisiana"	"22"	"2017"	"2017"	"Male"	"M"	5031	2283039	209.5	220.4
+	"All Cancer Sites Combined"	"0"	"Louisiana"	"22"	"2019"	"2019"	"Female"	"F"	4351	2385969	139.1	182.4
+	"All Cancer Sites Combined"	"0"	"Louisiana"	"22"	"2019"	"2019"	"Male"	"M"	5134	2272316	205.7	225.9
+	"All Cancer Sites Combined"	"0"	"Maine"	"23"	"2017"	"2017"	"Female"	"F"	1568	681559	144.0	230.1
+	"All Cancer Sites Combined"	"0"	"Maine"	"23"	"2017"	"2017"	"Male"	"M"	1823	654184	204.6	278.7
+	"All Cancer Sites Combined"	"0"	"Maine"	"23"	"2019"	"2019"	"Female"	"F"	1576	686674	139.4	229.5
+	"All Cancer Sites Combined"	"0"	"Maine"	"23"	"2019"	"2019"	"Male"	"M"	1837	659096	195.3	278.7
+	"All Cancer Sites Combined"	"0"	"Maryland"	"24"	"2017"	"2017"	"Female"	"F"	5306	3106751	132.5	170.8
+	"All Cancer Sites Combined"	"0"	"Maryland"	"24"	"2017"	"2017"	"Male"	"M"	5490	2921435	179.7	187.9
+	"All Cancer Sites Combined"	"0"	"Maryland"	"24"	"2019"	"2019"	"Female"	"F"	5321	3122480	126.8	170.4
+	"All Cancer Sites Combined"	"0"	"Maryland"	"24"	"2019"	"2019"	"Male"	"M"	5421	2932474	169.4	184.9
+	"All Cancer Sites Combined"	"0"	"Massachusetts"	"25"	"2017"	"2017"	"Female"	"F"	6356	3532606	129.4	179.9
+	"All Cancer Sites Combined"	"0"	"Massachusetts"	"25"	"2017"	"2017"	"Male"	"M"	6578	3330954	178.7	197.5
+	"All Cancer Sites Combined"	"0"	"Massachusetts"	"25"	"2019"	"2019"	"Female"	"F"	6104	3548380	120.0	172.0
+	"All Cancer Sites Combined"	"0"	"Massachusetts"	"25"	"2019"	"2019"	"Male"	"M"	6478	3346503	168.5	193.6
+	"All Cancer Sites Combined"	"0"	"Michigan"	"26"	"2017"	"2017"	"Female"	"F"	9881	5064544	140.3	195.1
+	"All Cancer Sites Combined"	"0"	"Michigan"	"26"	"2017"	"2017"	"Male"	"M"	10790	4912208	190.4	219.7
+	"All Cancer Sites Combined"	"0"	"Michigan"	"26"	"2019"	"2019"	"Female"	"F"	10091	5066743	138.7	199.2
+	"All Cancer Sites Combined"	"0"	"Michigan"	"26"	"2019"	"2019"	"Male"	"M"	10832	4918052	182.8	220.2
+	"All Cancer Sites Combined"	"0"	"Minnesota"	"27"	"2017"	"2017"	"Female"	"F"	4677	2796520	127.1	167.2
+	"All Cancer Sites Combined"	"0"	"Minnesota"	"27"	"2017"	"2017"	"Male"	"M"	5219	2772763	174.2	188.2
+	"All Cancer Sites Combined"	"0"	"Minnesota"	"27"	"2019"	"2019"	"Female"	"F"	4673	2830663	121.8	165.1
+	"All Cancer Sites Combined"	"0"	"Minnesota"	"27"	"2019"	"2019"	"Male"	"M"	5369	2809390	170.1	191.1
+	"All Cancer Sites Combined"	"0"	"Mississippi"	"28"	"2017"	"2017"	"Female"	"F"	2983	1539672	150.8	193.7
+	"All Cancer Sites Combined"	"0"	"Mississippi"	"28"	"2017"	"2017"	"Male"	"M"	3543	1451002	228.2	244.2
+	"All Cancer Sites Combined"	"0"	"Mississippi"	"28"	"2019"	"2019"	"Female"	"F"	2942	1534587	144.4	191.7
+	"All Cancer Sites Combined"	"0"	"Mississippi"	"28"	"2019"	"2019"	"Male"	"M"	3645	1443640	226.0	252.5
+	"All Cancer Sites Combined"	"0"	"Missouri"	"29"	"2017"	"2017"	"Female"	"F"	6034	3111381	140.8	193.9
+	"All Cancer Sites Combined"	"0"	"Missouri"	"29"	"2017"	"2017"	"Male"	"M"	6937	3000001	203.1	231.2
+	"All Cancer Sites Combined"	"0"	"Missouri"	"29"	"2019"	"2019"	"Female"	"F"	6080	3127846	137.4	194.4
+	"All Cancer Sites Combined"	"0"	"Missouri"	"29"	"2019"	"2019"	"Male"	"M"	6793	3012629	189.4	225.5
+	"All Cancer Sites Combined"	"0"	"Montana"	"30"	"2017"	"2017"	"Female"	"F"	976	523400	132.2	186.5
+	"All Cancer Sites Combined"	"0"	"Montana"	"30"	"2017"	"2017"	"Male"	"M"	1169	530462	178.0	220.4
+	"All Cancer Sites Combined"	"0"	"Montana"	"30"	"2019"	"2019"	"Female"	"F"	976	531486	124.6	183.6
+	"All Cancer Sites Combined"	"0"	"Montana"	"30"	"2019"	"2019"	"Male"	"M"	1123	538637	161.5	208.5
+	"All Cancer Sites Combined"	"0"	"Nebraska"	"31"	"2017"	"2017"	"Female"	"F"	1667	960422	133.3	173.6
+	"All Cancer Sites Combined"	"0"	"Nebraska"	"31"	"2017"	"2017"	"Male"	"M"	1835	956576	179.6	191.8
+	"All Cancer Sites Combined"	"0"	"Nebraska"	"31"	"2019"	"2019"	"Female"	"F"	1670	967601	130.5	172.6
+	"All Cancer Sites Combined"	"0"	"Nebraska"	"31"	"2019"	"2019"	"Male"	"M"	1812	964970	171.8	187.8
+	"All Cancer Sites Combined"	"0"	"Nevada"	"32"	"2017"	"2017"	"Female"	"F"	2438	1480860	137.4	164.6
+	"All Cancer Sites Combined"	"0"	"Nevada"	"32"	"2017"	"2017"	"Male"	"M"	2845	1491237	178.4	190.8
+	"All Cancer Sites Combined"	"0"	"Nevada"	"32"	"2019"	"2019"	"Female"	"F"	2502	1541266	130.5	162.3
+	"All Cancer Sites Combined"	"0"	"Nevada"	"32"	"2019"	"2019"	"Male"	"M"	2931	1549505	170.9	189.2
+	"All Cancer Sites Combined"	"0"	"New Hampshire"	"33"	"2017"	"2017"	"Female"	"F"	1281	681670	130.6	187.9
+	"All Cancer Sites Combined"	"0"	"New Hampshire"	"33"	"2017"	"2017"	"Male"	"M"	1479	668725	183.8	221.2
+	"All Cancer Sites Combined"	"0"	"New Hampshire"	"33"	"2019"	"2019"	"Female"	"F"	1286	686814	123.8	187.2
+	"All Cancer Sites Combined"	"0"	"New Hampshire"	"33"	"2019"	"2019"	"Male"	"M"	1533	673969	179.6	227.5
+	"All Cancer Sites Combined"	"0"	"New Jersey"	"34"	"2017"	"2017"	"Female"	"F"	8251	4547537	130.4	181.4
+	"All Cancer Sites Combined"	"0"	"New Jersey"	"34"	"2017"	"2017"	"Male"	"M"	8013	4340610	168.3	184.6
+	"All Cancer Sites Combined"	"0"	"New Jersey"	"34"	"2019"	"2019"	"Female"	"F"	7931	4545698	122.0	174.5
+	"All Cancer Sites Combined"	"0"	"New Jersey"	"34"	"2019"	"2019"	"Male"	"M"	7766	4345560	157.6	178.7
+	"All Cancer Sites Combined"	"0"	"New Mexico"	"35"	"2017"	"2017"	"Female"	"F"	1689	1056754	119.8	159.8
+	"All Cancer Sites Combined"	"0"	"New Mexico"	"35"	"2017"	"2017"	"Male"	"M"	1931	1036090	162.6	186.4
+	"All Cancer Sites Combined"	"0"	"New Mexico"	"35"	"2019"	"2019"	"Female"	"F"	1645	1060654	111.6	155.1
+	"All Cancer Sites Combined"	"0"	"New Mexico"	"35"	"2019"	"2019"	"Male"	"M"	1969	1038980	156.4	189.5
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2017"	"2017"	"Female"	"F"	17386	10080806	124.9	172.5
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2017"	"2017"	"Male"	"M"	17570	9513043	166.9	184.7
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2019"	"2019"	"Female"	"F"	16850	10012065	117.7	168.3
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2019"	"2019"	"Male"	"M"	16801	9451066	153.6	177.8
+	"All Cancer Sites Combined"	"0"	"North Carolina"	"37"	"2017"	"2017"	"Female"	"F"	9301	5274812	134.7	176.3
+	"All Cancer Sites Combined"	"0"	"North Carolina"	"37"	"2017"	"2017"	"Male"	"M"	10173	5000946	189.6	203.4
+	"All Cancer Sites Combined"	"0"	"North Carolina"	"37"	"2019"	"2019"	"Female"	"F"	9361	5393755	128.1	173.6
+	"All Cancer Sites Combined"	"0"	"North Carolina"	"37"	"2019"	"2019"	"Male"	"M"	10590	5107629	184.9	207.3
+	"All Cancer Sites Combined"	"0"	"North Dakota"	"38"	"2017"	"2017"	"Female"	"F"	597	369032	122.5	161.8
+	"All Cancer Sites Combined"	"0"	"North Dakota"	"38"	"2017"	"2017"	"Male"	"M"	683	387723	169.7	176.2
+	"All Cancer Sites Combined"	"0"	"North Dakota"	"38"	"2019"	"2019"	"Female"	"F"	595	372678	118.9	159.7
+	"All Cancer Sites Combined"	"0"	"North Dakota"	"38"	"2019"	"2019"	"Male"	"M"	721	391046	168.7	184.4
+	"All Cancer Sites Combined"	"0"	"Ohio"	"39"	"2017"	"2017"	"Female"	"F"	12211	5949075	147.7	205.3
+	"All Cancer Sites Combined"	"0"	"Ohio"	"39"	"2017"	"2017"	"Male"	"M"	13432	5716631	204.3	235.0
+	"All Cancer Sites Combined"	"0"	"Ohio"	"39"	"2019"	"2019"	"Female"	"F"	11952	5962634	140.1	200.4
+	"All Cancer Sites Combined"	"0"	"Ohio"	"39"	"2019"	"2019"	"Male"	"M"	13218	5733873	194.4	230.5
+	"All Cancer Sites Combined"	"0"	"Oklahoma"	"40"	"2017"	"2017"	"Female"	"F"	3795	1984912	151.2	191.2
+	"All Cancer Sites Combined"	"0"	"Oklahoma"	"40"	"2017"	"2017"	"Male"	"M"	4408	1948690	211.6	226.2
+	"All Cancer Sites Combined"	"0"	"Oklahoma"	"40"	"2019"	"2019"	"Female"	"F"	3824	1999160	146.8	191.3
+	"All Cancer Sites Combined"	"0"	"Oklahoma"	"40"	"2019"	"2019"	"Male"	"M"	4485	1961516	206.3	228.6
+	"All Cancer Sites Combined"	"0"	"Oregon"	"41"	"2017"	"2017"	"Female"	"F"	3890	2091485	137.7	186.0
+	"All Cancer Sites Combined"	"0"	"Oregon"	"41"	"2017"	"2017"	"Male"	"M"	4193	2055809	175.8	204.0
+	"All Cancer Sites Combined"	"0"	"Oregon"	"41"	"2019"	"2019"	"Female"	"F"	3894	2126006	130.0	183.2
+	"All Cancer Sites Combined"	"0"	"Oregon"	"41"	"2019"	"2019"	"Male"	"M"	4186	2090110	165.4	200.3
+	"All Cancer Sites Combined"	"0"	"Pennsylvania"	"42"	"2017"	"2017"	"Female"	"F"	13680	6528507	138.9	209.5
+	"All Cancer Sites Combined"	"0"	"Pennsylvania"	"42"	"2017"	"2017"	"Male"	"M"	14705	6266172	191.8	234.7
+	"All Cancer Sites Combined"	"0"	"Pennsylvania"	"42"	"2019"	"2019"	"Female"	"F"	13403	6526489	132.6	205.4
+	"All Cancer Sites Combined"	"0"	"Pennsylvania"	"42"	"2019"	"2019"	"Male"	"M"	14342	6272394	181.4	228.7
+	"All Cancer Sites Combined"	"0"	"Rhode Island"	"44"	"2017"	"2017"	"Female"	"F"	1035	542884	130.7	190.6
+	"All Cancer Sites Combined"	"0"	"Rhode Island"	"44"	"2017"	"2017"	"Male"	"M"	1119	513670	189.2	217.8
+	"All Cancer Sites Combined"	"0"	"Rhode Island"	"44"	"2019"	"2019"	"Female"	"F"	1086	543197	133.0	199.9
+	"All Cancer Sites Combined"	"0"	"Rhode Island"	"44"	"2019"	"2019"	"Male"	"M"	1124	514961	183.0	218.3
+	"All Cancer Sites Combined"	"0"	"South Carolina"	"45"	"2017"	"2017"	"Female"	"F"	4715	2588374	135.9	182.2
+	"All Cancer Sites Combined"	"0"	"South Carolina"	"45"	"2017"	"2017"	"Male"	"M"	5641	2438728	198.6	231.3
+	"All Cancer Sites Combined"	"0"	"South Carolina"	"45"	"2019"	"2019"	"Female"	"F"	4782	2659704	128.0	179.8
+	"All Cancer Sites Combined"	"0"	"South Carolina"	"45"	"2019"	"2019"	"Male"	"M"	5705	2497998	187.3	228.4
+	"All Cancer Sites Combined"	"0"	"South Dakota"	"46"	"2017"	"2017"	"Female"	"F"	832	432891	141.1	192.2
+	"All Cancer Sites Combined"	"0"	"South Dakota"	"46"	"2017"	"2017"	"Male"	"M"	883	440841	180.7	200.3
+	"All Cancer Sites Combined"	"0"	"South Dakota"	"46"	"2019"	"2019"	"Female"	"F"	816	439553	133.3	185.6
+	"All Cancer Sites Combined"	"0"	"South Dakota"	"46"	"2019"	"2019"	"Male"	"M"	921	447574	179.5	205.8
+	"All Cancer Sites Combined"	"0"	"Tennessee"	"47"	"2017"	"2017"	"Female"	"F"	6483	3438006	142.7	188.6
+	"All Cancer Sites Combined"	"0"	"Tennessee"	"47"	"2017"	"2017"	"Male"	"M"	7819	3276742	214.7	238.6
+	"All Cancer Sites Combined"	"0"	"Tennessee"	"47"	"2019"	"2019"	"Female"	"F"	6590	3498429	139.3	188.4
+	"All Cancer Sites Combined"	"0"	"Tennessee"	"47"	"2019"	"2019"	"Male"	"M"	7792	3331896	203.6	233.9
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2017"	"2017"	"Female"	"F"	18933	14238026	125.3	133.0
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2017"	"2017"	"Male"	"M"	21735	14052998	177.3	154.7
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2019"	"2019"	"Female"	"F"	19177	14591903	120.4	131.4
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2019"	"2019"	"Male"	"M"	22311	14394891	170.8	155.0
+	"All Cancer Sites Combined"	"0"	"Utah"	"49"	"2017"	"2017"	"Female"	"F"	1478	1540562	105.9	95.9
+	"All Cancer Sites Combined"	"0"	"Utah"	"49"	"2017"	"2017"	"Male"	"M"	1682	1562978	140.4	107.6
+	"All Cancer Sites Combined"	"0"	"Utah"	"49"	"2019"	"2019"	"Female"	"F"	1500	1589845	100.9	94.3
+	"All Cancer Sites Combined"	"0"	"Utah"	"49"	"2019"	"2019"	"Male"	"M"	1788	1613538	138.8	110.8
+	"All Cancer Sites Combined"	"0"	"Vermont"	"50"	"2017"	"2017"	"Female"	"F"	683	316438	144.9	215.8
+	"All Cancer Sites Combined"	"0"	"Vermont"	"50"	"2017"	"2017"	"Male"	"M"	751	308694	193.5	243.3
+	"All Cancer Sites Combined"	"0"	"Vermont"	"50"	"2019"	"2019"	"Female"	"F"	617	315738	124.6	195.4
+	"All Cancer Sites Combined"	"0"	"Vermont"	"50"	"2019"	"2019"	"Male"	"M"	761	308308	182.3	246.8
+	"All Cancer Sites Combined"	"0"	"Virginia"	"51"	"2017"	"2017"	"Female"	"F"	7076	4302531	129.1	164.5
+	"All Cancer Sites Combined"	"0"	"Virginia"	"51"	"2017"	"2017"	"Male"	"M"	7988	4168480	184.2	191.6
+	"All Cancer Sites Combined"	"0"	"Virginia"	"51"	"2019"	"2019"	"Female"	"F"	7110	4345858	123.8	163.6
+	"All Cancer Sites Combined"	"0"	"Virginia"	"51"	"2019"	"2019"	"Male"	"M"	7935	4210784	174.0	188.4
+	"All Cancer Sites Combined"	"0"	"Washington"	"53"	"2017"	"2017"	"Female"	"F"	6016	3712553	130.1	162.0
+	"All Cancer Sites Combined"	"0"	"Washington"	"53"	"2017"	"2017"	"Male"	"M"	6648	3715398	173.2	178.9
+	"All Cancer Sites Combined"	"0"	"Washington"	"53"	"2019"	"2019"	"Female"	"F"	6185	3802546	127.1	162.7
+	"All Cancer Sites Combined"	"0"	"Washington"	"53"	"2019"	"2019"	"Male"	"M"	6775	3811478	166.8	177.8
+	"All Cancer Sites Combined"	"0"	"West Virginia"	"54"	"2017"	"2017"	"Female"	"F"	2165	918498	154.2	235.7
+	"All Cancer Sites Combined"	"0"	"West Virginia"	"54"	"2017"	"2017"	"Male"	"M"	2489	900185	210.4	276.5
+	"All Cancer Sites Combined"	"0"	"West Virginia"	"54"	"2019"	"2019"	"Female"	"F"	2057	906103	144.8	227.0
+	"All Cancer Sites Combined"	"0"	"West Virginia"	"54"	"2019"	"2019"	"Male"	"M"	2547	889160	210.0	286.5
+	"All Cancer Sites Combined"	"0"	"Wisconsin"	"55"	"2017"	"2017"	"Female"	"F"	5260	2911984	131.0	180.6
+	"All Cancer Sites Combined"	"0"	"Wisconsin"	"55"	"2017"	"2017"	"Male"	"M"	6058	2881163	184.3	210.3
+	"All Cancer Sites Combined"	"0"	"Wisconsin"	"55"	"2019"	"2019"	"Female"	"F"	5397	2925732	130.0	184.5
+	"All Cancer Sites Combined"	"0"	"Wisconsin"	"55"	"2019"	"2019"	"Male"	"M"	6108	2898849	177.8	210.7
+	"All Cancer Sites Combined"	"0"	"Wyoming"	"56"	"2017"	"2017"	"Female"	"F"	425	284115	116.1	149.6
+	"All Cancer Sites Combined"	"0"	"Wyoming"	"56"	"2017"	"2017"	"Male"	"M"	523	295879	157.4	176.8
+	"All Cancer Sites Combined"	"0"	"Wyoming"	"56"	"2019"	"2019"	"Female"	"F"	456	284406	119.7	160.3
+	"All Cancer Sites Combined"	"0"	"Wyoming"	"56"	"2019"	"2019"	"Male"	"M"	560	295710	161.1	189.4
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2020 Mortality Archive"
+"Query Parameters:"
+"Cancer Sites: All Cancer Sites Combined"
+"Year: 2017; 2019"
+"Group By: Cancer Sites; State; Year; Sex"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/CancerMort-v2020.html for more information."
+"---"
+"Query Date: Aug 18, 2024 11:21:07 AM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Mortality: 1999 - 2020, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention; 2023. Accessed at"
+"http://wonder.cdc.gov/CancerMort-v2020.html on Aug 18, 2024 11:21:07 AM"
+"---"
+Caveats:
+"1. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"2. About rate comparisons: <ul><li> For consistency with the data on cancer incidence, the cancer sites in mortality data were"
+"grouped according to the revised SEER recodes dated March 1, 2018 (see SEER Cause of Death Recodes:"
+"http://seer.cancer.gov/codrecode/.). Because NCHS uses different groupings for some sites, the death rates in this report may"
+"differ slightly from those published by NCHS. In addition, under the ICD, there are differences in mortality and incidence"
+"coding. For example, there are several codes for mesothelioma in ICD-10 (depending on the primary site). However in ICD-O-3, one"
+"code captures all of the primary sites that mesothelioma affects. Note that Kaposi sarcoma deaths included in this dataset are"
+"only those deaths with underlying cause of death attributed to Kaposi Sarcoma, and do not include deaths where the condition was"
+"a contributing cause of death, or subsequent to another underlying condition. </li><li> The population used to age-adjust the"
+"rates in this report is the 2000 U.S. standard population, which is in accordance with a 1998 recommendation of the US."
+"Department of Health and Human Services. The 2000 U.S. standard population is based on the proportion of the 2000 population in"
+"specific age groups (younger than 1 year, 1-4 years, 5-9 years, 10-14 years, 15-19 years, . . . 85 years or older); the"
+"proportions of the 2000 population in these age groups serve as weights for calculating age-adjusted incidence and death rates."
+"NCHS, however, uses a different set of age groups in its age adjustment of death rates, and thus the cancer death rates in this"
+"report may differ slightly from those published by NCHS. </li><li> Deaths of persons of unknown age are not included in this"
+"data set. Death rates may differ slightly from other reports where deaths of persons of unknown age are included. </li></ul>"
+"3. Because the vast majority of Kaposi sarcoma (KS) cases have developed in association with human immunodeficiency virus (HIV)"
+"infection and acquired immunodeficiency syndrome (AIDS), HIV/AIDS is listed as the underlying cause of death. Therefore, KS"
+"death counts have been moved to the Miscellaneous category."
+"4. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

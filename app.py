@@ -3,7 +3,8 @@ import data_wrangling as dw
 import plotly.express as px
 
 # import data
-df = dw.getJoinedNutritionCancerSiteData()
+df_strat = dw.getJoinedNutritionCancerData()  # data for all cancer sites combined, stratified by Sex and Race/Ethnicity
+df_sites = dw.getJoinedNutritionCancerSitesData()  # data per cancer site, for whole population
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
@@ -17,12 +18,12 @@ app.layout = html.Div([
     dcc.Tabs([
         dcc.Tab(label='Population stratification', children=[
             html.Div('Year'),
-            dcc.Dropdown(df['Year'].unique(),
+            dcc.Dropdown(df_strat['Year'].unique(),
                          2017,
                          id='dropdown-selection-year'
                          ),
             html.Div('Stratification category'),
-            dcc.Dropdown(df['StratificationCategory1'].unique(),
+            dcc.Dropdown(df_strat['StratificationCategory1'].unique(),
                          'Total',
                          id='dropdown-selection-strat'
                          ),
@@ -35,7 +36,7 @@ app.layout = html.Div([
             ]),
         dcc.Tab(label='Cancer sites', children=[
             html.Div('Year'),
-            dcc.Dropdown(df['Year'].unique(),
+            dcc.Dropdown(df_sites['Year'].unique(),
                          2017,
                          id='dropdown-selection-year2'
                          ),
@@ -50,7 +51,7 @@ app.layout = html.Div([
                     html.B('Click here to select cancer sites')
                 ),
                 dcc.Checklist(
-                    df[df['StratificationCategory1'] == "Total"].groupby('Cancer Sites')['Age-Adjusted Rate'].mean().sort_values(ascending=False).index.tolist(),
+                    df_sites[df_sites['StratificationCategory1'] == "Total"].groupby('Leading Cancer Sites')['Age-Adjusted Rate'].mean().sort_values(ascending=False).index.tolist(),
                     ['Digestive System', 'Respiratory System', 'Lung and Bronchus'],
                     inline=True,
                     id='checklist_sites'
@@ -69,7 +70,7 @@ app.layout = html.Div([
     Input('checkbox2', 'value')
 )
 def update_stratification_graph(dropdown_year, dropdown_strat, checkbox_value):
-    dff = df[df['Cancer Sites'] == "All Cancer Sites Combined"]
+    dff = df_strat[df_strat['Cancer Sites'] == "All Cancer Sites Combined"]
     dff = dff[dff['Year'] == dropdown_year]
     dff = dff[dff['StratificationCategory1'] == dropdown_strat]
     fig = px.scatter(dff,
@@ -96,9 +97,9 @@ def update_stratification_graph(dropdown_year, dropdown_strat, checkbox_value):
     Input('checklist_sites', 'value')
 )
 def update_cancersites_graph(dropdown_year, checkbox_value, checklist_sites_value):
-    dff = df[df['Year'] == dropdown_year]
+    dff = df_sites[df_sites['Year'] == dropdown_year]
     dff = dff[dff['StratificationCategory1'] == "Total"]
-    dff = dff[dff['Cancer Sites'].isin(checklist_sites_value)]
+    dff = dff[dff['Leading Cancer Sites'].isin(checklist_sites_value)]
     fig = px.scatter(dff,
                      x='Data_Value',
                      y='Age-Adjusted Rate',
@@ -108,7 +109,7 @@ def update_cancersites_graph(dropdown_year, checkbox_value, checklist_sites_valu
                          "Percent of adults who report consuming vegetables less than one time daily": "blue",
                      },
                      text='StateAbbr' if checkbox_value == ["Show labels"] else None,
-                     facet_col='Cancer Sites', facet_col_wrap=4,
+                     facet_col='Leading Cancer Sites', facet_col_wrap=4,
                      hover_data=list(dff.columns),
                      trendline="ols"
                      )

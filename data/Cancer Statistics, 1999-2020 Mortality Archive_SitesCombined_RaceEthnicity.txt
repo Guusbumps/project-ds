@@ -1,0 +1,556 @@
+"Notes"	"Cancer Sites"	"Cancer Sites Code"	"State"	"State Code"	"Year"	"Year Code"	"Race"	"Race Code"	"Ethnicity"	"Ethnicity Code"	Deaths	Population	Age-Adjusted Rate	Crude Rate
+	"All Cancer Sites Combined"	"0"	"Alabama"	"01"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	16	29442	44.0	54.3
+	"All Cancer Sites Combined"	"0"	"Alabama"	"01"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	47	78100	80.5	60.2
+	"All Cancer Sites Combined"	"0"	"Alabama"	"01"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2381	1318226	183.9	180.6
+	"All Cancer Sites Combined"	"0"	"Alabama"	"01"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	49	179434	58.7	27.3
+	"All Cancer Sites Combined"	"0"	"Alabama"	"01"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	7894	3243497	169.2	243.4
+	"All Cancer Sites Combined"	"0"	"Alabama"	"01"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	22	29854	57.9	73.7
+	"All Cancer Sites Combined"	"0"	"Alabama"	"01"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	47	81026	71.2	58.0
+	"All Cancer Sites Combined"	"0"	"Alabama"	"01"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2458	1327611	180.4	185.1
+	"All Cancer Sites Combined"	"0"	"Alabama"	"01"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	57	190026	61.0	30.0
+	"All Cancer Sites Combined"	"0"	"Alabama"	"01"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	7665	3248685	157.9	235.9
+	"All Cancer Sites Combined"	"0"	"Alaska"	"02"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	186	120314	213.9	154.6
+	"All Cancer Sites Combined"	"0"	"Alaska"	"02"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	43	62661	94.9	68.6
+	"All Cancer Sites Combined"	"0"	"Alaska"	"02"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	20	32360	97.6	61.8
+	"All Cancer Sites Combined"	"0"	"Alaska"	"02"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	21	39208	108.4	53.6
+	"All Cancer Sites Combined"	"0"	"Alaska"	"02"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	650	472643	133.2	137.5
+	"All Cancer Sites Combined"	"0"	"Alaska"	"02"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	174	120500	195.0	144.4
+	"All Cancer Sites Combined"	"0"	"Alaska"	"02"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	54	63363	104.7	85.2
+	"All Cancer Sites Combined"	"0"	"Alaska"	"02"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	26	32150	157.7	80.9
+	"All Cancer Sites Combined"	"0"	"Alaska"	"02"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	18	39459	116.0	45.6
+	"All Cancer Sites Combined"	"0"	"Alaska"	"02"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	739	463968	143.5	159.3
+	"All Cancer Sites Combined"	"0"	"Arizona"	"04"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Hispanic"	"2135-2"	20	111032	47.8	18.0
+	"All Cancer Sites Combined"	"0"	"Arizona"	"04"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	254	291415	114.2	87.2
+	"All Cancer Sites Combined"	"0"	"Arizona"	"04"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	206	270557	92.5	76.1
+	"All Cancer Sites Combined"	"0"	"Arizona"	"04"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	391	342709	151.6	114.1
+	"All Cancer Sites Combined"	"0"	"Arizona"	"04"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	1427	2004260	115.2	71.2
+	"All Cancer Sites Combined"	"0"	"Arizona"	"04"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	9582	3936087	138.9	243.4
+	"All Cancer Sites Combined"	"0"	"Arizona"	"04"	"2017"	"2017"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	99	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Arizona"	"04"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Hispanic"	"2135-2"	32	118307	57.3	27.0
+	"All Cancer Sites Combined"	"0"	"Arizona"	"04"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	317	296768	127.2	106.8
+	"All Cancer Sites Combined"	"0"	"Arizona"	"04"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	245	287395	95.8	85.2
+	"All Cancer Sites Combined"	"0"	"Arizona"	"04"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	447	369582	161.2	120.9
+	"All Cancer Sites Combined"	"0"	"Arizona"	"04"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	1656	2095797	120.8	79.0
+	"All Cancer Sites Combined"	"0"	"Arizona"	"04"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	9677	4024941	131.6	240.4
+	"All Cancer Sites Combined"	"0"	"Arizona"	"04"	"2019"	"2019"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	94	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Arkansas"	"05"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	21	25132	88.2	83.6
+	"All Cancer Sites Combined"	"0"	"Arkansas"	"05"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	39	61561	106.6	63.4
+	"All Cancer Sites Combined"	"0"	"Arkansas"	"05"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	826	480025	191.6	172.1
+	"All Cancer Sites Combined"	"0"	"Arkansas"	"05"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	45	204806	48.5	22.0
+	"All Cancer Sites Combined"	"0"	"Arkansas"	"05"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	5562	2212059	174.9	251.4
+	"All Cancer Sites Combined"	"0"	"Arkansas"	"05"	"2017"	"2017"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	16	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Arkansas"	"05"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	35	64387	77.3	54.4
+	"All Cancer Sites Combined"	"0"	"Arkansas"	"05"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	852	483947	193.7	176.1
+	"All Cancer Sites Combined"	"0"	"Arkansas"	"05"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	66	214733	70.4	30.7
+	"All Cancer Sites Combined"	"0"	"Arkansas"	"05"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	5516	2210357	167.0	249.6
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Hispanic"	"2135-2"	76	571554	24.9	13.3
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	332	209456	141.0	158.5
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	59	378975	30.2	15.6
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	7118	6176947	102.2	115.2
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2017"	"2017"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	33	403274	17.1	8.2
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	4329	2438933	177.2	177.5
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	11019	13938119	121.3	79.1
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	36475	15220527	151.1	239.6
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2017"	"2017"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	60	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Hispanic"	"2135-2"	84	583193	27.3	14.4
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	315	206907	130.5	152.2
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	55	390115	29.0	14.1
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	7373	6361257	97.8	115.9
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Unknown or Missing"	"UNK"	16	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2019"	"2019"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	36	415587	18.8	8.7
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	4357	2448173	170.8	178.0
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	11753	14099249	119.6	83.4
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	35451	14933129	144.5	237.4
+	"All Cancer Sites Combined"	"0"	"California"	"06"	"2019"	"2019"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	68	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Colorado"	"08"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	37	42443	93.5	87.2
+	"All Cancer Sites Combined"	"0"	"Colorado"	"08"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	134	209378	87.9	64.0
+	"All Cancer Sites Combined"	"0"	"Colorado"	"08"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	303	258827	164.8	117.1
+	"All Cancer Sites Combined"	"0"	"Colorado"	"08"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	863	1086241	133.6	79.4
+	"All Cancer Sites Combined"	"0"	"Colorado"	"08"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	6465	3899597	131.5	165.8
+	"All Cancer Sites Combined"	"0"	"Colorado"	"08"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Hispanic"	"2135-2"	24	68951	78.9	34.8
+	"All Cancer Sites Combined"	"0"	"Colorado"	"08"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	42	43675	113.3	96.2
+	"All Cancer Sites Combined"	"0"	"Colorado"	"08"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	164	221669	92.6	74.0
+	"All Cancer Sites Combined"	"0"	"Colorado"	"08"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	289	269968	144.7	107.0
+	"All Cancer Sites Combined"	"0"	"Colorado"	"08"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	958	1127025	136.7	85.0
+	"All Cancer Sites Combined"	"0"	"Colorado"	"08"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	6477	3968124	125.1	163.2
+	"All Cancer Sites Combined"	"0"	"Colorado"	"08"	"2019"	"2019"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	22	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Connecticut"	"09"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	77	175491	63.0	43.9
+	"All Cancer Sites Combined"	"0"	"Connecticut"	"09"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	497	383833	142.7	129.5
+	"All Cancer Sites Combined"	"0"	"Connecticut"	"09"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	350	479012	118.9	73.1
+	"All Cancer Sites Combined"	"0"	"Connecticut"	"09"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	5666	2433256	144.1	232.9
+	"All Cancer Sites Combined"	"0"	"Connecticut"	"09"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	89	181106	65.6	49.1
+	"All Cancer Sites Combined"	"0"	"Connecticut"	"09"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	532	392360	143.0	135.6
+	"All Cancer Sites Combined"	"0"	"Connecticut"	"09"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	322	499337	100.5	64.5
+	"All Cancer Sites Combined"	"0"	"Connecticut"	"09"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	5533	2381710	136.1	232.3
+	"All Cancer Sites Combined"	"0"	"Delaware"	"10"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	27	40192	80.3	67.2
+	"All Cancer Sites Combined"	"0"	"Delaware"	"10"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	395	217773	189.9	181.4
+	"All Cancer Sites Combined"	"0"	"Delaware"	"10"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	22	71333	62.6	30.8
+	"All Cancer Sites Combined"	"0"	"Delaware"	"10"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1633	607980	162.5	268.6
+	"All Cancer Sites Combined"	"0"	"Delaware"	"10"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	24	42766	62.5	56.1
+	"All Cancer Sites Combined"	"0"	"Delaware"	"10"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	372	225323	165.7	165.1
+	"All Cancer Sites Combined"	"0"	"Delaware"	"10"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	55	75297	133.4	73.0
+	"All Cancer Sites Combined"	"0"	"Delaware"	"10"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1612	610944	151.5	263.9
+	"All Cancer Sites Combined"	"0"	"District of Columbia"	"11"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	17	32026	88.6	53.1
+	"All Cancer Sites Combined"	"0"	"District of Columbia"	"11"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	777	325889	201.5	238.4
+	"All Cancer Sites Combined"	"0"	"District of Columbia"	"11"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	21	58133	73.3	36.1
+	"All Cancer Sites Combined"	"0"	"District of Columbia"	"11"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	209	260987	94.3	80.1
+	"All Cancer Sites Combined"	"0"	"District of Columbia"	"11"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	726	323111	188.7	224.7
+	"All Cancer Sites Combined"	"0"	"District of Columbia"	"11"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	30	60728	88.0	49.4
+	"All Cancer Sites Combined"	"0"	"District of Columbia"	"11"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	251	269824	104.6	93.0
+	"All Cancer Sites Combined"	"0"	"Florida"	"12"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	62	60063	71.0	103.2
+	"All Cancer Sites Combined"	"0"	"Florida"	"12"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	541	650920	84.5	83.1
+	"All Cancer Sites Combined"	"0"	"Florida"	"12"	"2017"	"2017"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	136	311106	69.1	43.7
+	"All Cancer Sites Combined"	"0"	"Florida"	"12"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	4796	3369356	158.1	142.3
+	"All Cancer Sites Combined"	"0"	"Florida"	"12"	"2017"	"2017"	"Black or African American"	"2054-5"	"Unknown or Missing"	"UNK"	19	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Florida"	"12"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	5581	4917585	113.6	113.5
+	"All Cancer Sites Combined"	"0"	"Florida"	"12"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	33914	11565455	154.1	293.2
+	"All Cancer Sites Combined"	"0"	"Florida"	"12"	"2017"	"2017"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	65	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Florida"	"12"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	54	61108	62.1	88.4
+	"All Cancer Sites Combined"	"0"	"Florida"	"12"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	628	684529	85.0	91.7
+	"All Cancer Sites Combined"	"0"	"Florida"	"12"	"2019"	"2019"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	178	336637	87.6	52.9
+	"All Cancer Sites Combined"	"0"	"Florida"	"12"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	5058	3455819	154.8	146.4
+	"All Cancer Sites Combined"	"0"	"Florida"	"12"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	5855	5173635	108.3	113.2
+	"All Cancer Sites Combined"	"0"	"Florida"	"12"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	33792	11669238	146.6	289.6
+	"All Cancer Sites Combined"	"0"	"Georgia"	"13"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	265	460096	78.6	57.6
+	"All Cancer Sites Combined"	"0"	"Georgia"	"13"	"2017"	"2017"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	17	104446	48.0	16.3
+	"All Cancer Sites Combined"	"0"	"Georgia"	"13"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	4764	3340699	170.1	142.6
+	"All Cancer Sites Combined"	"0"	"Georgia"	"13"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	326	832700	90.8	39.1
+	"All Cancer Sites Combined"	"0"	"Georgia"	"13"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	11749	5600365	156.9	209.8
+	"All Cancer Sites Combined"	"0"	"Georgia"	"13"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	343	491262	90.4	69.8
+	"All Cancer Sites Combined"	"0"	"Georgia"	"13"	"2019"	"2019"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	18	111518	35.9	16.1
+	"All Cancer Sites Combined"	"0"	"Georgia"	"13"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	5053	3446528	166.4	146.6
+	"All Cancer Sites Combined"	"0"	"Georgia"	"13"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	342	875545	81.2	39.1
+	"All Cancer Sites Combined"	"0"	"Georgia"	"13"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	11973	5620358	152.5	213.0
+	"All Cancer Sites Combined"	"0"	"Hawaii"	"15"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	58	84517	311.0	68.6
+	"All Cancer Sites Combined"	"0"	"Hawaii"	"15"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	1573	930371	119.2	169.1
+	"All Cancer Sites Combined"	"0"	"Hawaii"	"15"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	18	37341	103.1	48.2
+	"All Cancer Sites Combined"	"0"	"Hawaii"	"15"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	55	51899	160.8	106.0
+	"All Cancer Sites Combined"	"0"	"Hawaii"	"15"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	734	309363	151.0	237.3
+	"All Cancer Sites Combined"	"0"	"Hawaii"	"15"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	61	85844	682.2	71.1
+	"All Cancer Sites Combined"	"0"	"Hawaii"	"15"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	1652	919414	122.4	179.7
+	"All Cancer Sites Combined"	"0"	"Hawaii"	"15"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	25	37655	118.3	66.4
+	"All Cancer Sites Combined"	"0"	"Hawaii"	"15"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	61	53179	175.0	114.7
+	"All Cancer Sites Combined"	"0"	"Hawaii"	"15"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	673	307247	137.4	219.0
+	"All Cancer Sites Combined"	"0"	"Idaho"	"16"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	20	21470	102.6	93.2
+	"All Cancer Sites Combined"	"0"	"Idaho"	"16"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	28	31691	122.7	88.4
+	"All Cancer Sites Combined"	"0"	"Idaho"	"16"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	88	195888	107.4	44.9
+	"All Cancer Sites Combined"	"0"	"Idaho"	"16"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	2870	1433320	156.8	200.2
+	"All Cancer Sites Combined"	"0"	"Idaho"	"16"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	20	22075	101.0	90.6
+	"All Cancer Sites Combined"	"0"	"Idaho"	"16"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	26	33655	109.2	77.3
+	"All Cancer Sites Combined"	"0"	"Idaho"	"16"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	104	208509	103.2	49.9
+	"All Cancer Sites Combined"	"0"	"Idaho"	"16"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	2767	1484389	141.6	186.4
+	"All Cancer Sites Combined"	"0"	"Illinois"	"17"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	16	25955	52.8	61.6
+	"All Cancer Sites Combined"	"0"	"Illinois"	"17"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	521	755694	77.9	68.9
+	"All Cancer Sites Combined"	"0"	"Illinois"	"17"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	3754	1870706	201.8	200.7
+	"All Cancer Sites Combined"	"0"	"Illinois"	"17"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	1261	2006115	113.9	62.9
+	"All Cancer Sites Combined"	"0"	"Illinois"	"17"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	18578	7950403	161.5	233.7
+	"All Cancer Sites Combined"	"0"	"Illinois"	"17"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	20	25994	68.8	76.9
+	"All Cancer Sites Combined"	"0"	"Illinois"	"17"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	601	775576	80.5	77.5
+	"All Cancer Sites Combined"	"0"	"Illinois"	"17"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	3782	1857317	196.1	203.6
+	"All Cancer Sites Combined"	"0"	"Illinois"	"17"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	1299	2030281	105.6	64.0
+	"All Cancer Sites Combined"	"0"	"Illinois"	"17"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	18161	7801887	154.5	232.8
+	"All Cancer Sites Combined"	"0"	"Illinois"	"17"	"2019"	"2019"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	17	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Indiana"	"18"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	73	167064	81.7	43.7
+	"All Cancer Sites Combined"	"0"	"Indiana"	"18"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	989	677849	182.4	145.9
+	"All Cancer Sites Combined"	"0"	"Indiana"	"18"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	186	412594	95.6	45.1
+	"All Cancer Sites Combined"	"0"	"Indiana"	"18"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	12176	5337756	172.9	228.1
+	"All Cancer Sites Combined"	"0"	"Indiana"	"18"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	77	184116	78.5	41.8
+	"All Cancer Sites Combined"	"0"	"Indiana"	"18"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	1068	700534	186.6	152.5
+	"All Cancer Sites Combined"	"0"	"Indiana"	"18"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	225	437081	102.1	51.5
+	"All Cancer Sites Combined"	"0"	"Indiana"	"18"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	12124	5337883	165.5	227.1
+	"All Cancer Sites Combined"	"0"	"Iowa"	"19"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	61	87907	139.7	69.4
+	"All Cancer Sites Combined"	"0"	"Iowa"	"19"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	134	136134	201.6	98.4
+	"All Cancer Sites Combined"	"0"	"Iowa"	"19"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	62	171133	91.8	36.2
+	"All Cancer Sites Combined"	"0"	"Iowa"	"19"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	6176	2720040	158.6	227.1
+	"All Cancer Sites Combined"	"0"	"Iowa"	"19"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	57	92883	123.2	61.4
+	"All Cancer Sites Combined"	"0"	"Iowa"	"19"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	137	145472	206.4	94.2
+	"All Cancer Sites Combined"	"0"	"Iowa"	"19"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	67	180915	90.2	37.0
+	"All Cancer Sites Combined"	"0"	"Iowa"	"19"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	6060	2710101	151.4	223.6
+	"All Cancer Sites Combined"	"0"	"Kansas"	"20"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	52	28224	238.7	184.2
+	"All Cancer Sites Combined"	"0"	"Kansas"	"20"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	68	96914	118.4	70.2
+	"All Cancer Sites Combined"	"0"	"Kansas"	"20"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	284	192480	192.5	147.5
+	"All Cancer Sites Combined"	"0"	"Kansas"	"20"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	168	313337	118.8	53.6
+	"All Cancer Sites Combined"	"0"	"Kansas"	"20"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	4901	2246987	157.7	218.1
+	"All Cancer Sites Combined"	"0"	"Kansas"	"20"	"2017"	"2017"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	16	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Kansas"	"20"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	47	28360	208.4	165.7
+	"All Cancer Sites Combined"	"0"	"Kansas"	"20"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	53	99851	77.7	53.1
+	"All Cancer Sites Combined"	"0"	"Kansas"	"20"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	280	193747	178.7	144.5
+	"All Cancer Sites Combined"	"0"	"Kansas"	"20"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	180	322354	109.6	55.8
+	"All Cancer Sites Combined"	"0"	"Kansas"	"20"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	5012	2233672	155.4	224.4
+	"All Cancer Sites Combined"	"0"	"Kansas"	"20"	"2019"	"2019"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	26	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Kentucky"	"21"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	38	76415	83.6	49.7
+	"All Cancer Sites Combined"	"0"	"Kentucky"	"21"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	577	389113	174.8	148.3
+	"All Cancer Sites Combined"	"0"	"Kentucky"	"21"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	44	145296	72.1	30.3
+	"All Cancer Sites Combined"	"0"	"Kentucky"	"21"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	9471	3815582	189.5	248.2
+	"All Cancer Sites Combined"	"0"	"Kentucky"	"21"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	39	79946	86.1	48.8
+	"All Cancer Sites Combined"	"0"	"Kentucky"	"21"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	629	397029	180.4	158.4
+	"All Cancer Sites Combined"	"0"	"Kentucky"	"21"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	55	154371	78.9	35.6
+	"All Cancer Sites Combined"	"0"	"Kentucky"	"21"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	9238	3810526	178.8	242.4
+	"All Cancer Sites Combined"	"0"	"Louisiana"	"22"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	28	32319	81.8	86.6
+	"All Cancer Sites Combined"	"0"	"Louisiana"	"22"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	73	89357	102.3	81.7
+	"All Cancer Sites Combined"	"0"	"Louisiana"	"22"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2830	1533905	198.9	184.5
+	"All Cancer Sites Combined"	"0"	"Louisiana"	"22"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	128	199689	90.9	64.1
+	"All Cancer Sites Combined"	"0"	"Louisiana"	"22"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	6426	2780282	170.5	231.1
+	"All Cancer Sites Combined"	"0"	"Louisiana"	"22"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	25	32354	71.3	77.3
+	"All Cancer Sites Combined"	"0"	"Louisiana"	"22"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	89	91362	115.0	97.4
+	"All Cancer Sites Combined"	"0"	"Louisiana"	"22"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2954	1534884	197.6	192.5
+	"All Cancer Sites Combined"	"0"	"Louisiana"	"22"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	131	207381	84.0	63.2
+	"All Cancer Sites Combined"	"0"	"Louisiana"	"22"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	6261	2751820	160.8	227.5
+	"All Cancer Sites Combined"	"0"	"Maine"	"23"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	23	10222	282.7	225.0
+	"All Cancer Sites Combined"	"0"	"Maine"	"23"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	16	18171	112.7	88.1
+	"All Cancer Sites Combined"	"0"	"Maine"	"23"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	3321	1260993	170.3	263.4
+	"All Cancer Sites Combined"	"0"	"Maine"	"23"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	25	10401	247.6	240.4
+	"All Cancer Sites Combined"	"0"	"Maine"	"23"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	16	26465	131.7	60.5
+	"All Cancer Sites Combined"	"0"	"Maine"	"23"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	3336	1265658	164.2	263.6
+	"All Cancer Sites Combined"	"0"	"Maryland"	"24"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	336	419975	85.5	80.0
+	"All Cancer Sites Combined"	"0"	"Maryland"	"24"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	3102	1850269	168.9	167.7
+	"All Cancer Sites Combined"	"0"	"Maryland"	"24"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	233	489335	87.3	47.6
+	"All Cancer Sites Combined"	"0"	"Maryland"	"24"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	7092	3138533	153.8	226.0
+	"All Cancer Sites Combined"	"0"	"Maryland"	"24"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	359	431423	80.4	83.2
+	"All Cancer Sites Combined"	"0"	"Maryland"	"24"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	3138	1874084	160.7	167.4
+	"All Cancer Sites Combined"	"0"	"Maryland"	"24"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	228	517989	79.7	44.0
+	"All Cancer Sites Combined"	"0"	"Maryland"	"24"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	6977	3093120	147.4	225.6
+	"All Cancer Sites Combined"	"0"	"Massachusetts"	"25"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	17	15549	105.3	109.3
+	"All Cancer Sites Combined"	"0"	"Massachusetts"	"25"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	341	492038	95.2	69.3
+	"All Cancer Sites Combined"	"0"	"Massachusetts"	"25"	"2017"	"2017"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	42	129079	56.2	32.5
+	"All Cancer Sites Combined"	"0"	"Massachusetts"	"25"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	634	526016	146.4	120.5
+	"All Cancer Sites Combined"	"0"	"Massachusetts"	"25"	"2017"	"2017"	"Black or African American"	"2054-5"	"Unknown or Missing"	"UNK"	18	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Massachusetts"	"25"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	404	640292	111.1	63.1
+	"All Cancer Sites Combined"	"0"	"Massachusetts"	"25"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	11323	5022096	152.3	225.5
+	"All Cancer Sites Combined"	"0"	"Massachusetts"	"25"	"2017"	"2017"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	155	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Massachusetts"	"25"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	338	516897	84.8	65.4
+	"All Cancer Sites Combined"	"0"	"Massachusetts"	"25"	"2019"	"2019"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	42	137432	56.4	30.6
+	"All Cancer Sites Combined"	"0"	"Massachusetts"	"25"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	635	543751	134.6	116.8
+	"All Cancer Sites Combined"	"0"	"Massachusetts"	"25"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	423	672197	106.9	62.9
+	"All Cancer Sites Combined"	"0"	"Massachusetts"	"25"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	11015	4968216	144.0	221.7
+	"All Cancer Sites Combined"	"0"	"Massachusetts"	"25"	"2019"	"2019"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	116	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Michigan"	"26"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	107	70346	159.7	152.1
+	"All Cancer Sites Combined"	"0"	"Michigan"	"26"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	179	348202	75.1	51.4
+	"All Cancer Sites Combined"	"0"	"Michigan"	"26"	"2017"	"2017"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	16	40111	207.9	39.9
+	"All Cancer Sites Combined"	"0"	"Michigan"	"26"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2623	1454778	186.6	180.3
+	"All Cancer Sites Combined"	"0"	"Michigan"	"26"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	293	442278	122.8	66.2
+	"All Cancer Sites Combined"	"0"	"Michigan"	"26"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	17414	7593504	160.5	229.3
+	"All Cancer Sites Combined"	"0"	"Michigan"	"26"	"2017"	"2017"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	27	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Michigan"	"26"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	106	70918	149.3	149.5
+	"All Cancer Sites Combined"	"0"	"Michigan"	"26"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	207	359646	74.3	57.6
+	"All Cancer Sites Combined"	"0"	"Michigan"	"26"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2648	1458479	179.3	181.6
+	"All Cancer Sites Combined"	"0"	"Michigan"	"26"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	288	462473	110.7	62.3
+	"All Cancer Sites Combined"	"0"	"Michigan"	"26"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	17618	7562401	156.8	233.0
+	"All Cancer Sites Combined"	"0"	"Michigan"	"26"	"2019"	"2019"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	28	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Minnesota"	"27"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	109	67185	240.3	162.2
+	"All Cancer Sites Combined"	"0"	"Minnesota"	"27"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	167	295524	106.2	56.5
+	"All Cancer Sites Combined"	"0"	"Minnesota"	"27"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	308	394656	168.6	78.0
+	"All Cancer Sites Combined"	"0"	"Minnesota"	"27"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	113	258473	110.5	43.7
+	"All Cancer Sites Combined"	"0"	"Minnesota"	"27"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	9192	4511428	147.0	203.7
+	"All Cancer Sites Combined"	"0"	"Minnesota"	"27"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	108	67875	207.5	159.1
+	"All Cancer Sites Combined"	"0"	"Minnesota"	"27"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	211	310380	119.9	68.0
+	"All Cancer Sites Combined"	"0"	"Minnesota"	"27"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	321	426820	152.9	75.2
+	"All Cancer Sites Combined"	"0"	"Minnesota"	"27"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	105	271278	96.1	38.7
+	"All Cancer Sites Combined"	"0"	"Minnesota"	"27"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	9283	4519115	142.1	205.4
+	"All Cancer Sites Combined"	"0"	"Mississippi"	"28"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	29	34367	93.3	84.4
+	"All Cancer Sites Combined"	"0"	"Mississippi"	"28"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2155	1133940	209.6	190.0
+	"All Cancer Sites Combined"	"0"	"Mississippi"	"28"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	27	77824	69.5	34.7
+	"All Cancer Sites Combined"	"0"	"Mississippi"	"28"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	4295	1711570	175.5	250.9
+	"All Cancer Sites Combined"	"0"	"Mississippi"	"28"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	30	35645	100.1	84.2
+	"All Cancer Sites Combined"	"0"	"Mississippi"	"28"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2079	1131597	189.8	183.7
+	"All Cancer Sites Combined"	"0"	"Mississippi"	"28"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	35	80818	83.4	43.3
+	"All Cancer Sites Combined"	"0"	"Mississippi"	"28"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	4420	1696105	177.0	260.6
+	"All Cancer Sites Combined"	"0"	"Missouri"	"29"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	26	33056	71.2	78.7
+	"All Cancer Sites Combined"	"0"	"Missouri"	"29"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	79	143254	80.6	55.1
+	"All Cancer Sites Combined"	"0"	"Missouri"	"29"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	1339	752126	199.1	178.0
+	"All Cancer Sites Combined"	"0"	"Missouri"	"29"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	95	223170	86.8	42.6
+	"All Cancer Sites Combined"	"0"	"Missouri"	"29"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	11423	4927014	167.1	231.8
+	"All Cancer Sites Combined"	"0"	"Missouri"	"29"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	23	33771	52.7	68.1
+	"All Cancer Sites Combined"	"0"	"Missouri"	"29"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	103	151705	96.2	67.9
+	"All Cancer Sites Combined"	"0"	"Missouri"	"29"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	1301	757253	184.5	171.8
+	"All Cancer Sites Combined"	"0"	"Missouri"	"29"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	102	234294	77.2	43.5
+	"All Cancer Sites Combined"	"0"	"Missouri"	"29"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	11329	4927910	160.0	229.9
+	"All Cancer Sites Combined"	"0"	"Montana"	"30"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	93	69809	185.0	133.2
+	"All Cancer Sites Combined"	"0"	"Montana"	"30"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	2024	923166	152.2	219.2
+	"All Cancer Sites Combined"	"0"	"Montana"	"30"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	128	70169	228.0	182.4
+	"All Cancer Sites Combined"	"0"	"Montana"	"30"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	17	34278	81.8	49.6
+	"All Cancer Sites Combined"	"0"	"Montana"	"30"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1939	934928	138.3	207.4
+	"All Cancer Sites Combined"	"0"	"Nebraska"	"31"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	16	17399	120.3	92.0
+	"All Cancer Sites Combined"	"0"	"Nebraska"	"31"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	28	52843	104.0	53.0
+	"All Cancer Sites Combined"	"0"	"Nebraska"	"31"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	130	104535	206.0	124.4
+	"All Cancer Sites Combined"	"0"	"Nebraska"	"31"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	73	184880	92.6	39.5
+	"All Cancer Sites Combined"	"0"	"Nebraska"	"31"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	3255	1532335	155.6	212.4
+	"All Cancer Sites Combined"	"0"	"Nebraska"	"31"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	17	17635	135.9	96.4
+	"All Cancer Sites Combined"	"0"	"Nebraska"	"31"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	32	55813	102.0	57.3
+	"All Cancer Sites Combined"	"0"	"Nebraska"	"31"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	130	108265	185.3	120.1
+	"All Cancer Sites Combined"	"0"	"Nebraska"	"31"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	71	193997	76.5	36.6
+	"All Cancer Sites Combined"	"0"	"Nebraska"	"31"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	3230	1529733	149.8	211.1
+	"All Cancer Sites Combined"	"0"	"Nevada"	"32"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	41	29218	145.2	140.3
+	"All Cancer Sites Combined"	"0"	"Nevada"	"32"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	361	282509	112.6	127.8
+	"All Cancer Sites Combined"	"0"	"Nevada"	"32"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	439	294869	177.9	148.9
+	"All Cancer Sites Combined"	"0"	"Nevada"	"32"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	458	763945	113.9	60.0
+	"All Cancer Sites Combined"	"0"	"Nevada"	"32"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	3975	1515110	169.5	262.4
+	"All Cancer Sites Combined"	"0"	"Nevada"	"32"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	41	30134	124.7	136.1
+	"All Cancer Sites Combined"	"0"	"Nevada"	"32"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	372	302512	100.9	123.0
+	"All Cancer Sites Combined"	"0"	"Nevada"	"32"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	437	319034	163.7	137.0
+	"All Cancer Sites Combined"	"0"	"Nevada"	"32"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	477	806504	100.3	59.1
+	"All Cancer Sites Combined"	"0"	"Nevada"	"32"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	4085	1537577	164.7	265.7
+	"All Cancer Sites Combined"	"0"	"New Hampshire"	"33"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	24	41900	87.2	57.3
+	"All Cancer Sites Combined"	"0"	"New Hampshire"	"33"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	16	43582	61.1	36.7
+	"All Cancer Sites Combined"	"0"	"New Hampshire"	"33"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	2705	1231828	156.5	219.6
+	"All Cancer Sites Combined"	"0"	"New Hampshire"	"33"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	17	43444	47.3	39.1
+	"All Cancer Sites Combined"	"0"	"New Hampshire"	"33"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	18	24437	149.8	73.7
+	"All Cancer Sites Combined"	"0"	"New Hampshire"	"33"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	23	47355	106.7	48.6
+	"All Cancer Sites Combined"	"0"	"New Hampshire"	"33"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	2753	1233985	150.1	223.1
+	"All Cancer Sites Combined"	"0"	"New Jersey"	"34"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	613	888476	76.7	69.0
+	"All Cancer Sites Combined"	"0"	"New Jersey"	"34"	"2017"	"2017"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	24	203650	19.6	11.8
+	"All Cancer Sites Combined"	"0"	"New Jersey"	"34"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2083	1192496	174.0	174.7
+	"All Cancer Sites Combined"	"0"	"New Jersey"	"34"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	1142	1506999	105.0	75.8
+	"All Cancer Sites Combined"	"0"	"New Jersey"	"34"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	12375	5004264	155.6	247.3
+	"All Cancer Sites Combined"	"0"	"New Jersey"	"34"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	614	912249	70.4	67.3
+	"All Cancer Sites Combined"	"0"	"New Jersey"	"34"	"2019"	"2019"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	26	215566	20.1	12.1
+	"All Cancer Sites Combined"	"0"	"New Jersey"	"34"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	1990	1196384	159.6	166.3
+	"All Cancer Sites Combined"	"0"	"New Jersey"	"34"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	1183	1551545	97.4	76.2
+	"All Cancer Sites Combined"	"0"	"New Jersey"	"34"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	11864	4918641	147.3	241.2
+	"All Cancer Sites Combined"	"0"	"New Mexico"	"35"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	201	189050	126.6	106.3
+	"All Cancer Sites Combined"	"0"	"New Mexico"	"35"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	33	36268	95.0	91.0
+	"All Cancer Sites Combined"	"0"	"New Mexico"	"35"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	64	45762	158.8	139.9
+	"All Cancer Sites Combined"	"0"	"New Mexico"	"35"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	1246	943802	141.8	132.0
+	"All Cancer Sites Combined"	"0"	"New Mexico"	"35"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	2058	798249	140.8	257.8
+	"All Cancer Sites Combined"	"0"	"New Mexico"	"35"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	202	188551	121.7	107.1
+	"All Cancer Sites Combined"	"0"	"New Mexico"	"35"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	27	37808	66.7	71.4
+	"All Cancer Sites Combined"	"0"	"New Mexico"	"35"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	59	47714	133.8	123.7
+	"All Cancer Sites Combined"	"0"	"New Mexico"	"35"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	1269	954373	135.1	133.0
+	"All Cancer Sites Combined"	"0"	"New Mexico"	"35"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	2036	786295	134.6	258.9
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	57	71669	76.4	79.5
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	1678	1771071	97.7	94.7
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Unknown or Missing"	"UNK"	26	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2017"	"2017"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	117	678195	23.8	17.3
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	4705	2953048	149.6	159.3
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2017"	"2017"	"Black or African American"	"2054-5"	"Unknown or Missing"	"UNK"	143	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	2888	2806303	126.1	102.9
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	25036	11088998	148.6	225.8
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2017"	"2017"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	300	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	52	71493	65.2	72.7
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	1555	1804319	83.3	86.2
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Unknown or Missing"	"UNK"	19	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2019"	"2019"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	227	687271	40.5	33.0
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	4745	2928902	144.8	162.0
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2019"	"2019"	"Black or African American"	"2054-5"	"Unknown or Missing"	"UNK"	108	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	2856	2820232	117.0	101.3
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	23862	10923550	139.5	218.4
+	"All Cancer Sites Combined"	"0"	"New York"	"36"	"2019"	"2019"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	218	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"North Carolina"	"37"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	191	122225	154.0	156.3
+	"All Cancer Sites Combined"	"0"	"North Carolina"	"37"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	180	329570	88.5	54.6
+	"All Cancer Sites Combined"	"0"	"North Carolina"	"37"	"2017"	"2017"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	16	97559	56.7	16.4
+	"All Cancer Sites Combined"	"0"	"North Carolina"	"37"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	4015	2272121	180.4	176.7
+	"All Cancer Sites Combined"	"0"	"North Carolina"	"37"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	287	789905	98.5	36.3
+	"All Cancer Sites Combined"	"0"	"North Carolina"	"37"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	14745	6592887	155.3	223.7
+	"All Cancer Sites Combined"	"0"	"North Carolina"	"37"	"2017"	"2017"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	26	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"North Carolina"	"37"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	205	123730	153.4	165.7
+	"All Cancer Sites Combined"	"0"	"North Carolina"	"37"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	205	355194	85.1	57.7
+	"All Cancer Sites Combined"	"0"	"North Carolina"	"37"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	4236	2323474	179.0	182.3
+	"All Cancer Sites Combined"	"0"	"North Carolina"	"37"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	336	840372	92.1	40.0
+	"All Cancer Sites Combined"	"0"	"North Carolina"	"37"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	14935	6675690	149.3	223.7
+	"All Cancer Sites Combined"	"0"	"North Dakota"	"38"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	50	41201	221.6	121.4
+	"All Cancer Sites Combined"	"0"	"North Dakota"	"38"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1209	647256	140.4	186.8
+	"All Cancer Sites Combined"	"0"	"North Dakota"	"38"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	51	41802	204.0	122.0
+	"All Cancer Sites Combined"	"0"	"North Dakota"	"38"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1245	647362	139.4	192.3
+	"All Cancer Sites Combined"	"0"	"Ohio"	"39"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	18	29939	44.4	60.1
+	"All Cancer Sites Combined"	"0"	"Ohio"	"39"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	171	298340	87.2	57.3
+	"All Cancer Sites Combined"	"0"	"Ohio"	"39"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2884	1565906	196.7	184.2
+	"All Cancer Sites Combined"	"0"	"Ohio"	"39"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	209	373651	100.0	55.9
+	"All Cancer Sites Combined"	"0"	"Ohio"	"39"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	22352	9325847	171.5	239.7
+	"All Cancer Sites Combined"	"0"	"Ohio"	"39"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	19	30506	48.4	62.3
+	"All Cancer Sites Combined"	"0"	"Ohio"	"39"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	190	319457	86.3	59.5
+	"All Cancer Sites Combined"	"0"	"Ohio"	"39"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2673	1593464	174.4	167.7
+	"All Cancer Sites Combined"	"0"	"Ohio"	"39"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	217	397123	97.0	54.6
+	"All Cancer Sites Combined"	"0"	"Ohio"	"39"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	22054	9277877	164.4	237.7
+	"All Cancer Sites Combined"	"0"	"Oklahoma"	"40"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	593	380706	190.0	155.8
+	"All Cancer Sites Combined"	"0"	"Oklahoma"	"40"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	68	102863	100.8	66.1
+	"All Cancer Sites Combined"	"0"	"Oklahoma"	"40"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	541	331326	205.4	163.3
+	"All Cancer Sites Combined"	"0"	"Oklahoma"	"40"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	147	348033	94.3	42.2
+	"All Cancer Sites Combined"	"0"	"Oklahoma"	"40"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	6837	2697855	178.5	253.4
+	"All Cancer Sites Combined"	"0"	"Oklahoma"	"40"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	605	385037	188.4	157.1
+	"All Cancer Sites Combined"	"0"	"Oklahoma"	"40"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	79	107721	102.7	73.3
+	"All Cancer Sites Combined"	"0"	"Oklahoma"	"40"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	535	336158	191.9	159.2
+	"All Cancer Sites Combined"	"0"	"Oklahoma"	"40"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	181	363416	107.9	49.8
+	"All Cancer Sites Combined"	"0"	"Oklahoma"	"40"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	6893	2689742	174.7	256.3
+	"All Cancer Sites Combined"	"0"	"Oregon"	"41"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	89	56303	167.9	158.1
+	"All Cancer Sites Combined"	"0"	"Oregon"	"41"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	211	229017	117.9	92.1
+	"All Cancer Sites Combined"	"0"	"Oregon"	"41"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	106	101825	157.2	104.1
+	"All Cancer Sites Combined"	"0"	"Oregon"	"41"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	199	478037	103.0	41.6
+	"All Cancer Sites Combined"	"0"	"Oregon"	"41"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	7455	3220857	157.6	231.5
+	"All Cancer Sites Combined"	"0"	"Oregon"	"41"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	58	57330	96.1	101.2
+	"All Cancer Sites Combined"	"0"	"Oregon"	"41"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	213	239495	105.8	88.9
+	"All Cancer Sites Combined"	"0"	"Oregon"	"41"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	108	107305	156.9	100.6
+	"All Cancer Sites Combined"	"0"	"Oregon"	"41"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	243	501146	102.1	48.5
+	"All Cancer Sites Combined"	"0"	"Oregon"	"41"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	7427	3245175	149.3	228.9
+	"All Cancer Sites Combined"	"0"	"Oregon"	"41"	"2019"	"2019"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	24	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Pennsylvania"	"42"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	18	22839	61.1	78.8
+	"All Cancer Sites Combined"	"0"	"Pennsylvania"	"42"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	318	473893	89.3	67.1
+	"All Cancer Sites Combined"	"0"	"Pennsylvania"	"42"	"2017"	"2017"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	17	158521	26.8	10.7
+	"All Cancer Sites Combined"	"0"	"Pennsylvania"	"42"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2776	1461945	201.6	189.9
+	"All Cancer Sites Combined"	"0"	"Pennsylvania"	"42"	"2017"	"2017"	"Black or African American"	"2054-5"	"Unknown or Missing"	"UNK"	21	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Pennsylvania"	"42"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	483	726031	123.5	66.5
+	"All Cancer Sites Combined"	"0"	"Pennsylvania"	"42"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	24650	9897541	159.5	249.1
+	"All Cancer Sites Combined"	"0"	"Pennsylvania"	"42"	"2017"	"2017"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	87	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Pennsylvania"	"42"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	314	497079	80.3	63.2
+	"All Cancer Sites Combined"	"0"	"Pennsylvania"	"42"	"2019"	"2019"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	28	174028	34.9	16.1
+	"All Cancer Sites Combined"	"0"	"Pennsylvania"	"42"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2622	1476568	183.8	177.6
+	"All Cancer Sites Combined"	"0"	"Pennsylvania"	"42"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	516	772197	116.7	66.8
+	"All Cancer Sites Combined"	"0"	"Pennsylvania"	"42"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	24207	9796666	153.6	247.1
+	"All Cancer Sites Combined"	"0"	"Pennsylvania"	"42"	"2019"	"2019"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	27	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Rhode Island"	"44"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	21	39371	75.9	53.3
+	"All Cancer Sites Combined"	"0"	"Rhode Island"	"44"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	69	70629	120.4	97.7
+	"All Cancer Sites Combined"	"0"	"Rhode Island"	"44"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	54	124986	81.8	43.2
+	"All Cancer Sites Combined"	"0"	"Rhode Island"	"44"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1999	778270	163.5	256.9
+	"All Cancer Sites Combined"	"0"	"Rhode Island"	"44"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	23	40100	89.1	57.4
+	"All Cancer Sites Combined"	"0"	"Rhode Island"	"44"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	82	73136	134.3	112.1
+	"All Cancer Sites Combined"	"0"	"Rhode Island"	"44"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	84	131837	111.8	63.7
+	"All Cancer Sites Combined"	"0"	"Rhode Island"	"44"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	2001	766835	159.5	260.9
+	"All Cancer Sites Combined"	"0"	"South Carolina"	"45"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	20	20129	81.9	99.4
+	"All Cancer Sites Combined"	"0"	"South Carolina"	"45"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	56	93316	81.0	60.0
+	"All Cancer Sites Combined"	"0"	"South Carolina"	"45"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2623	1380135	187.2	190.1
+	"All Cancer Sites Combined"	"0"	"South Carolina"	"45"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	89	239547	79.6	37.2
+	"All Cancer Sites Combined"	"0"	"South Carolina"	"45"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	7552	3248737	158.7	232.5
+	"All Cancer Sites Combined"	"0"	"South Carolina"	"45"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	18	20676	64.2	87.1
+	"All Cancer Sites Combined"	"0"	"South Carolina"	"45"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	65	102665	76.4	63.3
+	"All Cancer Sites Combined"	"0"	"South Carolina"	"45"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2655	1399718	176.3	189.7
+	"All Cancer Sites Combined"	"0"	"South Carolina"	"45"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	101	260001	75.9	38.8
+	"All Cancer Sites Combined"	"0"	"South Carolina"	"45"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	7631	3325354	150.4	229.5
+	"All Cancer Sites Combined"	"0"	"South Dakota"	"46"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	102	77152	230.1	132.2
+	"All Cancer Sites Combined"	"0"	"South Dakota"	"46"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1581	723912	155.0	218.4
+	"All Cancer Sites Combined"	"0"	"South Dakota"	"46"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	93	77527	204.4	120.0
+	"All Cancer Sites Combined"	"0"	"South Dakota"	"46"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1621	731551	152.7	221.6
+	"All Cancer Sites Combined"	"0"	"Tennessee"	"47"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	17	20045	55.1	84.8
+	"All Cancer Sites Combined"	"0"	"Tennessee"	"47"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	86	133940	88.2	64.2
+	"All Cancer Sites Combined"	"0"	"Tennessee"	"47"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	1981	1164211	197.0	170.2
+	"All Cancer Sites Combined"	"0"	"Tennessee"	"47"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	99	316574	77.2	31.3
+	"All Cancer Sites Combined"	"0"	"Tennessee"	"47"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	12096	5032656	173.6	240.4
+	"All Cancer Sites Combined"	"0"	"Tennessee"	"47"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	85	143297	78.4	59.3
+	"All Cancer Sites Combined"	"0"	"Tennessee"	"47"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	1974	1183477	182.9	166.8
+	"All Cancer Sites Combined"	"0"	"Tennessee"	"47"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	117	340639	77.9	34.3
+	"All Cancer Sites Combined"	"0"	"Tennessee"	"47"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	12175	5091198	167.7	239.1
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	61	104818	52.2	58.2
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	962	1475453	86.2	65.2
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2017"	"2017"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	17	254733	19.9	6.7
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	5056	3485906	179.5	145.0
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	8247	10544252	123.0	78.2
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	26218	12126570	157.7	216.2
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2017"	"2017"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	74	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	55	107768	42.5	51.0
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Hispanic"	"2135-2"	18	92291	50.8	19.5
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	1063	1574712	83.5	67.5
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2019"	"2019"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	25	274279	25.3	9.1
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	5368	3624100	179.3	148.1
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	8535	10900818	116.9	78.3
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	26367	12188877	152.0	216.3
+	"All Cancer Sites Combined"	"0"	"Texas"	"48"	"2019"	"2019"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	44	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Utah"	"49"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	76	118157	102.2	64.3
+	"All Cancer Sites Combined"	"0"	"Utah"	"49"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	27	44035	167.8	61.3
+	"All Cancer Sites Combined"	"0"	"Utah"	"49"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	188	392326	110.5	47.9
+	"All Cancer Sites Combined"	"0"	"Utah"	"49"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	2853	2475521	122.8	115.2
+	"All Cancer Sites Combined"	"0"	"Utah"	"49"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	20	32959	79.4	60.7
+	"All Cancer Sites Combined"	"0"	"Utah"	"49"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	81	126472	101.0	64.0
+	"All Cancer Sites Combined"	"0"	"Utah"	"49"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	24	47760	113.9	50.3
+	"All Cancer Sites Combined"	"0"	"Utah"	"49"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	191	414325	105.4	46.1
+	"All Cancer Sites Combined"	"0"	"Utah"	"49"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	2969	2537073	120.2	117.0
+	"All Cancer Sites Combined"	"0"	"Vermont"	"50"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1418	587757	166.8	241.3
+	"All Cancer Sites Combined"	"0"	"Vermont"	"50"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	1351	584975	152.1	231.0
+	"All Cancer Sites Combined"	"0"	"Virginia"	"51"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	25	25526	85.2	97.9
+	"All Cancer Sites Combined"	"0"	"Virginia"	"51"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	440	610697	90.2	72.0
+	"All Cancer Sites Combined"	"0"	"Virginia"	"51"	"2017"	"2017"	"Black or African American"	"2054-5"	"Hispanic"	"2135-2"	17	72168	101.4	23.6
+	"All Cancer Sites Combined"	"0"	"Virginia"	"51"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	3027	1687947	182.4	179.3
+	"All Cancer Sites Combined"	"0"	"Virginia"	"51"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	245	673557	73.9	36.4
+	"All Cancer Sites Combined"	"0"	"Virginia"	"51"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	11251	5356002	153.3	210.1
+	"All Cancer Sites Combined"	"0"	"Virginia"	"51"	"2017"	"2017"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	30	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Virginia"	"51"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	17	25753	55.0	66.0
+	"All Cancer Sites Combined"	"0"	"Virginia"	"51"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	483	637569	88.2	75.8
+	"All Cancer Sites Combined"	"0"	"Virginia"	"51"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	2867	1711902	164.6	167.5
+	"All Cancer Sites Combined"	"0"	"Virginia"	"51"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	312	709397	82.8	44.0
+	"All Cancer Sites Combined"	"0"	"Virginia"	"51"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	11320	5346316	147.9	211.7
+	"All Cancer Sites Combined"	"0"	"Virginia"	"51"	"2019"	"2019"	"White"	"2106-3"	"Unknown or Missing"	"UNK"	20	Not Applicable	Not Applicable	Not Applicable
+	"All Cancer Sites Combined"	"0"	"Washington"	"53"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Hispanic"	"2135-2"	18	60658	166.0	29.7
+	"All Cancer Sites Combined"	"0"	"Washington"	"53"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	156	111824	158.4	139.5
+	"All Cancer Sites Combined"	"0"	"Washington"	"53"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	710	766293	109.7	92.7
+	"All Cancer Sites Combined"	"0"	"Washington"	"53"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	354	353704	161.5	100.1
+	"All Cancer Sites Combined"	"0"	"Washington"	"53"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	340	817644	97.9	41.6
+	"All Cancer Sites Combined"	"0"	"Washington"	"53"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	11063	5251419	153.4	210.7
+	"All Cancer Sites Combined"	"0"	"Washington"	"53"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	161	113233	147.1	142.2
+	"All Cancer Sites Combined"	"0"	"Washington"	"53"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	757	830311	105.5	91.2
+	"All Cancer Sites Combined"	"0"	"Washington"	"53"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	365	376932	145.9	96.8
+	"All Cancer Sites Combined"	"0"	"Washington"	"53"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	405	864245	100.6	46.9
+	"All Cancer Sites Combined"	"0"	"Washington"	"53"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	11234	5292459	149.3	212.3
+	"All Cancer Sites Combined"	"0"	"West Virginia"	"54"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	133	72382	190.1	183.7
+	"All Cancer Sites Combined"	"0"	"West Virginia"	"54"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	4488	1696340	179.6	264.6
+	"All Cancer Sites Combined"	"0"	"West Virginia"	"54"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	135	72617	190.8	185.9
+	"All Cancer Sites Combined"	"0"	"West Virginia"	"54"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	4451	1670635	175.8	266.4
+	"All Cancer Sites Combined"	"0"	"Wisconsin"	"55"	"2017"	"2017"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	84	56430	183.4	148.9
+	"All Cancer Sites Combined"	"0"	"Wisconsin"	"55"	"2017"	"2017"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	87	180976	103.9	48.1
+	"All Cancer Sites Combined"	"0"	"Wisconsin"	"55"	"2017"	"2017"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	570	403245	215.3	141.4
+	"All Cancer Sites Combined"	"0"	"Wisconsin"	"55"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	178	351090	121.9	50.7
+	"All Cancer Sites Combined"	"0"	"Wisconsin"	"55"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	10392	4754252	152.2	218.6
+	"All Cancer Sites Combined"	"0"	"Wisconsin"	"55"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	98	57203	195.0	171.3
+	"All Cancer Sites Combined"	"0"	"Wisconsin"	"55"	"2019"	"2019"	"Asian or Pacific Islander"	"A-PI"	"Non-Hispanic"	"2186-5"	110	188423	109.4	58.4
+	"All Cancer Sites Combined"	"0"	"Wisconsin"	"55"	"2019"	"2019"	"Black or African American"	"2054-5"	"Non-Hispanic"	"2186-5"	592	409094	215.8	144.7
+	"All Cancer Sites Combined"	"0"	"Wisconsin"	"55"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	182	367665	106.6	49.5
+	"All Cancer Sites Combined"	"0"	"Wisconsin"	"55"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	10519	4751572	148.6	221.4
+	"All Cancer Sites Combined"	"0"	"Wyoming"	"56"	"2017"	"2017"	"White"	"2106-3"	"Hispanic"	"2135-2"	35	51573	116.1	67.9
+	"All Cancer Sites Combined"	"0"	"Wyoming"	"56"	"2017"	"2017"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	894	493560	138.4	181.1
+	"All Cancer Sites Combined"	"0"	"Wyoming"	"56"	"2019"	"2019"	"American Indian or Alaska Native"	"1002-5"	"Non-Hispanic"	"2186-5"	23	13103	231.7	175.5
+	"All Cancer Sites Combined"	"0"	"Wyoming"	"56"	"2019"	"2019"	"White"	"2106-3"	"Hispanic"	"2135-2"	48	52433	127.6	91.5
+	"All Cancer Sites Combined"	"0"	"Wyoming"	"56"	"2019"	"2019"	"White"	"2106-3"	"Non-Hispanic"	"2186-5"	932	492134	137.5	189.4
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2020 Mortality Archive"
+"Query Parameters:"
+"Cancer Sites: All Cancer Sites Combined"
+"Year: 2017; 2019"
+"Group By: Cancer Sites; State; Year; Race; Ethnicity"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/CancerMort-v2020.html for more information."
+"---"
+"Query Date: Aug 18, 2024 11:20:30 AM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Mortality: 1999 - 2020, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention; 2023. Accessed at"
+"http://wonder.cdc.gov/CancerMort-v2020.html on Aug 18, 2024 11:20:30 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. More information: http://wonder.cdc.gov/wonder/help/CancerMort-v2020.html#Suppressed."
+"2. 'Not Applicable' is displayed for Population when it is not available, and for Age Adjusted Rates, Crude Rates, 95%"
+"Confidence Interval, and Standard Error when they cannot be calculated due to lack of denominator population."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. About rate comparisons: <ul><li> For consistency with the data on cancer incidence, the cancer sites in mortality data were"
+"grouped according to the revised SEER recodes dated March 1, 2018 (see SEER Cause of Death Recodes:"
+"http://seer.cancer.gov/codrecode/.). Because NCHS uses different groupings for some sites, the death rates in this report may"
+"differ slightly from those published by NCHS. In addition, under the ICD, there are differences in mortality and incidence"
+"coding. For example, there are several codes for mesothelioma in ICD-10 (depending on the primary site). However in ICD-O-3, one"
+"code captures all of the primary sites that mesothelioma affects. Note that Kaposi sarcoma deaths included in this dataset are"
+"only those deaths with underlying cause of death attributed to Kaposi Sarcoma, and do not include deaths where the condition was"
+"a contributing cause of death, or subsequent to another underlying condition. </li><li> The population used to age-adjust the"
+"rates in this report is the 2000 U.S. standard population, which is in accordance with a 1998 recommendation of the US."
+"Department of Health and Human Services. The 2000 U.S. standard population is based on the proportion of the 2000 population in"
+"specific age groups (younger than 1 year, 1-4 years, 5-9 years, 10-14 years, 15-19 years, . . . 85 years or older); the"
+"proportions of the 2000 population in these age groups serve as weights for calculating age-adjusted incidence and death rates."
+"NCHS, however, uses a different set of age groups in its age adjustment of death rates, and thus the cancer death rates in this"
+"report may differ slightly from those published by NCHS. </li><li> Deaths of persons of unknown age are not included in this"
+"data set. Death rates may differ slightly from other reports where deaths of persons of unknown age are included. </li></ul>"
+"5. Because the vast majority of Kaposi sarcoma (KS) cases have developed in association with human immunodeficiency virus (HIV)"
+"infection and acquired immunodeficiency syndrome (AIDS), HIV/AIDS is listed as the underlying cause of death. Therefore, KS"
+"death counts have been moved to the Miscellaneous category."
+"6. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."

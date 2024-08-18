@@ -1,0 +1,2164 @@
+"Notes"	"Leading Cancer Sites"	"Leading Cancer Sites Code"	"State"	"State Code"	"Year"	"Year Code"	Deaths	Population	Age-Adjusted Rate	Crude Rate
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2017"	"2017"	272	4877989	4.5	5.6
+	"Brain and Other Nervous System"	"31010-31040"	"Alabama"	"01"	"2019"	"2019"	309	4907965	4.9	6.3
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2017"	"2017"	33	740983	4.5	4.5
+	"Brain and Other Nervous System"	"31010-31040"	"Alaska"	"02"	"2019"	"2019"	27	733603	3.7	3.7
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2017"	"2017"	344	7048088	4.1	4.9
+	"Brain and Other Nervous System"	"31010-31040"	"Arizona"	"04"	"2019"	"2019"	380	7291843	4.2	5.2
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2017"	"2017"	159	3003855	4.3	5.3
+	"Brain and Other Nervous System"	"31010-31040"	"Arkansas"	"05"	"2019"	"2019"	180	3020985	4.8	6.0
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2017"	"2017"	1801	39337785	4.1	4.6
+	"Brain and Other Nervous System"	"31010-31040"	"California"	"06"	"2019"	"2019"	1909	39437610	4.2	4.8
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2017"	"2017"	267	5617421	4.3	4.8
+	"Brain and Other Nervous System"	"31010-31040"	"Colorado"	"08"	"2019"	"2019"	296	5758486	4.5	5.1
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2017"	"2017"	186	3575324	4.3	5.2
+	"Brain and Other Nervous System"	"31010-31040"	"Connecticut"	"09"	"2019"	"2019"	200	3566022	4.3	5.6
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2017"	"2017"	51	957942	4.1	5.3
+	"Brain and Other Nervous System"	"31010-31040"	"Delaware"	"10"	"2019"	"2019"	45	976668	3.4	4.6
+	"Brain and Other Nervous System"	"31010-31040"	"District of Columbia"	"11"	"2017"	"2017"	18	697079	2.5	2.6
+	"Brain and Other Nervous System"	"31010-31040"	"District of Columbia"	"11"	"2019"	"2019"	31	708253	4.3	4.4
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2017"	"2017"	1224	20977089	4.3	5.8
+	"Brain and Other Nervous System"	"31010-31040"	"Florida"	"12"	"2019"	"2019"	1254	21492056	4.1	5.8
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2017"	"2017"	458	10417031	4.1	4.4
+	"Brain and Other Nervous System"	"31010-31040"	"Georgia"	"13"	"2019"	"2019"	488	10628020	4.1	4.6
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2017"	"2017"	52	1425763	2.9	3.6
+	"Brain and Other Nervous System"	"31010-31040"	"Hawaii"	"15"	"2019"	"2019"	44	1415615	2.5	3.1
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2017"	"2017"	95	1719745	4.7	5.5
+	"Brain and Other Nervous System"	"31010-31040"	"Idaho"	"16"	"2019"	"2019"	117	1789060	5.6	6.5
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2017"	"2017"	611	12779893	4.1	4.8
+	"Brain and Other Nervous System"	"31010-31040"	"Illinois"	"17"	"2019"	"2019"	616	12667017	4.1	4.9
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2017"	"2017"	350	6662068	4.6	5.3
+	"Brain and Other Nervous System"	"31010-31040"	"Indiana"	"18"	"2019"	"2019"	351	6731010	4.3	5.2
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2017"	"2017"	176	3143734	4.6	5.6
+	"Brain and Other Nervous System"	"31010-31040"	"Iowa"	"19"	"2019"	"2019"	199	3159596	5.1	6.3
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2017"	"2017"	170	2910892	5.0	5.8
+	"Brain and Other Nervous System"	"31010-31040"	"Kansas"	"20"	"2019"	"2019"	173	2912635	5.1	5.9
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2017"	"2017"	246	4455590	4.6	5.5
+	"Brain and Other Nervous System"	"31010-31040"	"Kentucky"	"21"	"2019"	"2019"	244	4472345	4.4	5.5
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2017"	"2017"	252	4673673	4.7	5.4
+	"Brain and Other Nervous System"	"31010-31040"	"Louisiana"	"22"	"2019"	"2019"	234	4658285	4.3	5.0
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2017"	"2017"	96	1335743	5.1	7.2
+	"Brain and Other Nervous System"	"31010-31040"	"Maine"	"23"	"2019"	"2019"	97	1345770	5.4	7.2
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2017"	"2017"	278	6028186	4.0	4.6
+	"Brain and Other Nervous System"	"31010-31040"	"Maryland"	"24"	"2019"	"2019"	270	6054954	3.7	4.5
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2017"	"2017"	397	6863560	4.8	5.8
+	"Brain and Other Nervous System"	"31010-31040"	"Massachusetts"	"25"	"2019"	"2019"	417	6894883	4.9	6.0
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2017"	"2017"	566	9976752	4.5	5.7
+	"Brain and Other Nervous System"	"31010-31040"	"Michigan"	"26"	"2019"	"2019"	605	9984795	4.8	6.1
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2017"	"2017"	307	5569283	4.8	5.5
+	"Brain and Other Nervous System"	"31010-31040"	"Minnesota"	"27"	"2019"	"2019"	301	5640053	4.5	5.3
+	"Brain and Other Nervous System"	"31010-31040"	"Mississippi"	"28"	"2017"	"2017"	156	2990674	4.3	5.2
+	"Brain and Other Nervous System"	"31010-31040"	"Mississippi"	"28"	"2019"	"2019"	201	2978227	5.6	6.7
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2017"	"2017"	340	6111382	4.6	5.6
+	"Brain and Other Nervous System"	"31010-31040"	"Missouri"	"29"	"2019"	"2019"	349	6140475	4.5	5.7
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2017"	"2017"	64	1053862	4.6	6.1
+	"Brain and Other Nervous System"	"31010-31040"	"Montana"	"30"	"2019"	"2019"	67	1070123	4.5	6.3
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2017"	"2017"	110	1916998	4.9	5.7
+	"Brain and Other Nervous System"	"31010-31040"	"Nebraska"	"31"	"2019"	"2019"	117	1932571	5.2	6.1
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2017"	"2017"	173	2972097	5.0	5.8
+	"Brain and Other Nervous System"	"31010-31040"	"Nevada"	"32"	"2019"	"2019"	128	3090771	3.6	4.1
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2017"	"2017"	77	1350395	4.6	5.7
+	"Brain and Other Nervous System"	"31010-31040"	"New Hampshire"	"33"	"2019"	"2019"	94	1360783	4.9	6.9
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2017"	"2017"	460	8888147	4.3	5.2
+	"Brain and Other Nervous System"	"31010-31040"	"New Jersey"	"34"	"2019"	"2019"	481	8891258	4.3	5.4
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2017"	"2017"	113	2092844	4.5	5.4
+	"Brain and Other Nervous System"	"31010-31040"	"New Mexico"	"35"	"2019"	"2019"	117	2099634	4.2	5.6
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2017"	"2017"	922	19593849	3.9	4.7
+	"Brain and Other Nervous System"	"31010-31040"	"New York"	"36"	"2019"	"2019"	893	19463131	3.7	4.6
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2017"	"2017"	517	10275758	4.3	5.0
+	"Brain and Other Nervous System"	"31010-31040"	"North Carolina"	"37"	"2019"	"2019"	504	10501384	3.9	4.8
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2017"	"2017"	36	756755	4.2	4.8
+	"Brain and Other Nervous System"	"31010-31040"	"North Dakota"	"38"	"2019"	"2019"	40	763724	4.8	5.2
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2017"	"2017"	693	11665706	4.9	5.9
+	"Brain and Other Nervous System"	"31010-31040"	"Ohio"	"39"	"2019"	"2019"	674	11696507	4.6	5.8
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2017"	"2017"	215	3933602	4.8	5.5
+	"Brain and Other Nervous System"	"31010-31040"	"Oklahoma"	"40"	"2019"	"2019"	220	3960676	4.7	5.6
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2017"	"2017"	246	4147294	4.7	5.9
+	"Brain and Other Nervous System"	"31010-31040"	"Oregon"	"41"	"2019"	"2019"	237	4216116	4.4	5.6
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2017"	"2017"	732	12794679	4.4	5.7
+	"Brain and Other Nervous System"	"31010-31040"	"Pennsylvania"	"42"	"2019"	"2019"	736	12798883	4.4	5.8
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2017"	"2017"	72	1056554	5.3	6.8
+	"Brain and Other Nervous System"	"31010-31040"	"Rhode Island"	"44"	"2019"	"2019"	75	1058158	5.5	7.1
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2017"	"2017"	295	5027102	4.9	5.9
+	"Brain and Other Nervous System"	"31010-31040"	"South Carolina"	"45"	"2019"	"2019"	300	5157702	4.5	5.8
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2017"	"2017"	59	873732	5.4	6.8
+	"Brain and Other Nervous System"	"31010-31040"	"South Dakota"	"46"	"2019"	"2019"	61	887127	5.9	6.9
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2017"	"2017"	405	6714748	5.0	6.0
+	"Brain and Other Nervous System"	"31010-31040"	"Tennessee"	"47"	"2019"	"2019"	401	6830325	4.8	5.9
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2017"	"2017"	1169	28291024	4.1	4.1
+	"Brain and Other Nervous System"	"31010-31040"	"Texas"	"48"	"2019"	"2019"	1219	28986794	4.1	4.2
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2017"	"2017"	126	3103540	4.7	4.1
+	"Brain and Other Nervous System"	"31010-31040"	"Utah"	"49"	"2019"	"2019"	141	3203383	4.8	4.4
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2017"	"2017"	61	625132	7.4	9.8
+	"Brain and Other Nervous System"	"31010-31040"	"Vermont"	"50"	"2019"	"2019"	45	624046	5.5	7.2
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2017"	"2017"	415	8471011	4.3	4.9
+	"Brain and Other Nervous System"	"31010-31040"	"Virginia"	"51"	"2019"	"2019"	404	8556642	4.0	4.7
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2017"	"2017"	433	7427951	5.1	5.8
+	"Brain and Other Nervous System"	"31010-31040"	"Washington"	"53"	"2019"	"2019"	461	7614024	5.2	6.1
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2017"	"2017"	117	1818683	4.9	6.4
+	"Brain and Other Nervous System"	"31010-31040"	"West Virginia"	"54"	"2019"	"2019"	115	1795263	4.5	6.4
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2017"	"2017"	343	5793147	4.9	5.9
+	"Brain and Other Nervous System"	"31010-31040"	"Wisconsin"	"55"	"2019"	"2019"	338	5824581	4.7	5.8
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2017"	"2017"	46	579994	7.1	7.9
+	"Brain and Other Nervous System"	"31010-31040"	"Wyoming"	"56"	"2019"	"2019"	27	580116	3.4	4.7
+	"Breast"	"26000"	"Alabama"	"01"	"2017"	"2017"	704	4877989	11.9	14.4
+	"Breast"	"26000"	"Alabama"	"01"	"2019"	"2019"	717	4907965	11.4	14.6
+	"Breast"	"26000"	"Alaska"	"02"	"2017"	"2017"	61	740983	8.6	8.2
+	"Breast"	"26000"	"Alaska"	"02"	"2019"	"2019"	68	733603	9.4	9.3
+	"Breast"	"26000"	"Arizona"	"04"	"2017"	"2017"	838	7048088	9.6	11.9
+	"Breast"	"26000"	"Arizona"	"04"	"2019"	"2019"	912	7291843	9.8	12.5
+	"Breast"	"26000"	"Arkansas"	"05"	"2017"	"2017"	424	3003855	11.5	14.1
+	"Breast"	"26000"	"Arkansas"	"05"	"2019"	"2019"	380	3020985	10.1	12.6
+	"Breast"	"26000"	"California"	"06"	"2017"	"2017"	4625	39337785	10.7	11.8
+	"Breast"	"26000"	"California"	"06"	"2019"	"2019"	4569	39437610	10.2	11.6
+	"Breast"	"26000"	"Colorado"	"08"	"2017"	"2017"	638	5617421	10.6	11.4
+	"Breast"	"26000"	"Colorado"	"08"	"2019"	"2019"	614	5758486	9.6	10.7
+	"Breast"	"26000"	"Connecticut"	"09"	"2017"	"2017"	470	3575324	10.2	13.1
+	"Breast"	"26000"	"Connecticut"	"09"	"2019"	"2019"	449	3566022	9.4	12.6
+	"Breast"	"26000"	"Delaware"	"10"	"2017"	"2017"	150	957942	12.1	15.7
+	"Breast"	"26000"	"Delaware"	"10"	"2019"	"2019"	143	976668	11.4	14.6
+	"Breast"	"26000"	"District of Columbia"	"11"	"2017"	"2017"	92	697079	13.7	13.2
+	"Breast"	"26000"	"District of Columbia"	"11"	"2019"	"2019"	99	708253	14.1	14.0
+	"Breast"	"26000"	"Florida"	"12"	"2017"	"2017"	2993	20977089	10.1	14.3
+	"Breast"	"26000"	"Florida"	"12"	"2019"	"2019"	3193	21492056	10.4	14.9
+	"Breast"	"26000"	"Georgia"	"13"	"2017"	"2017"	1358	10417031	12.4	13.0
+	"Breast"	"26000"	"Georgia"	"13"	"2019"	"2019"	1314	10628020	11.2	12.4
+	"Breast"	"26000"	"Hawaii"	"15"	"2017"	"2017"	157	1425763	8.4	11.0
+	"Breast"	"26000"	"Hawaii"	"15"	"2019"	"2019"	193	1415615	10.3	13.6
+	"Breast"	"26000"	"Idaho"	"16"	"2017"	"2017"	225	1719745	11.5	13.1
+	"Breast"	"26000"	"Idaho"	"16"	"2019"	"2019"	206	1789060	10.0	11.5
+	"Breast"	"26000"	"Illinois"	"17"	"2017"	"2017"	1730	12779893	11.4	13.5
+	"Breast"	"26000"	"Illinois"	"17"	"2019"	"2019"	1772	12667017	11.5	14.0
+	"Breast"	"26000"	"Indiana"	"18"	"2017"	"2017"	915	6662068	11.7	13.7
+	"Breast"	"26000"	"Indiana"	"18"	"2019"	"2019"	857	6731010	10.7	12.7
+	"Breast"	"26000"	"Iowa"	"19"	"2017"	"2017"	395	3143734	9.8	12.6
+	"Breast"	"26000"	"Iowa"	"19"	"2019"	"2019"	401	3159596	9.9	12.7
+	"Breast"	"26000"	"Kansas"	"20"	"2017"	"2017"	353	2910892	10.3	12.1
+	"Breast"	"26000"	"Kansas"	"20"	"2019"	"2019"	415	2912635	11.4	14.2
+	"Breast"	"26000"	"Kentucky"	"21"	"2017"	"2017"	642	4455590	12.0	14.4
+	"Breast"	"26000"	"Kentucky"	"21"	"2019"	"2019"	658	4472345	12.1	14.7
+	"Breast"	"26000"	"Louisiana"	"22"	"2017"	"2017"	697	4673673	13.1	14.9
+	"Breast"	"26000"	"Louisiana"	"22"	"2019"	"2019"	674	4658285	12.2	14.5
+	"Breast"	"26000"	"Maine"	"23"	"2017"	"2017"	188	1335743	10.1	14.1
+	"Breast"	"26000"	"Maine"	"23"	"2019"	"2019"	194	1345770	9.7	14.4
+	"Breast"	"26000"	"Maryland"	"24"	"2017"	"2017"	864	6028186	12.1	14.3
+	"Breast"	"26000"	"Maryland"	"24"	"2019"	"2019"	798	6054954	10.9	13.2
+	"Breast"	"26000"	"Massachusetts"	"25"	"2017"	"2017"	902	6863560	10.5	13.1
+	"Breast"	"26000"	"Massachusetts"	"25"	"2019"	"2019"	769	6894883	8.7	11.2
+	"Breast"	"26000"	"Michigan"	"26"	"2017"	"2017"	1334	9976752	10.7	13.4
+	"Breast"	"26000"	"Michigan"	"26"	"2019"	"2019"	1412	9984795	11.0	14.1
+	"Breast"	"26000"	"Minnesota"	"27"	"2017"	"2017"	621	5569283	9.2	11.2
+	"Breast"	"26000"	"Minnesota"	"27"	"2019"	"2019"	651	5640053	9.4	11.5
+	"Breast"	"26000"	"Mississippi"	"28"	"2017"	"2017"	494	2990674	14.3	16.5
+	"Breast"	"26000"	"Mississippi"	"28"	"2019"	"2019"	435	2978227	12.2	14.6
+	"Breast"	"26000"	"Missouri"	"29"	"2017"	"2017"	879	6111382	11.7	14.4
+	"Breast"	"26000"	"Missouri"	"29"	"2019"	"2019"	818	6140475	10.5	13.3
+	"Breast"	"26000"	"Montana"	"30"	"2017"	"2017"	132	1053862	9.6	12.5
+	"Breast"	"26000"	"Montana"	"30"	"2019"	"2019"	158	1070123	10.9	14.8
+	"Breast"	"26000"	"Nebraska"	"31"	"2017"	"2017"	247	1916998	11.0	12.9
+	"Breast"	"26000"	"Nebraska"	"31"	"2019"	"2019"	281	1932571	12.2	14.5
+	"Breast"	"26000"	"Nevada"	"32"	"2017"	"2017"	377	2972097	11.4	12.7
+	"Breast"	"26000"	"Nevada"	"32"	"2019"	"2019"	446	3090771	12.5	14.4
+	"Breast"	"26000"	"New Hampshire"	"33"	"2017"	"2017"	161	1350395	8.8	11.9
+	"Breast"	"26000"	"New Hampshire"	"33"	"2019"	"2019"	202	1360783	10.6	14.8
+	"Breast"	"26000"	"New Jersey"	"34"	"2017"	"2017"	1251	8888147	11.3	14.1
+	"Breast"	"26000"	"New Jersey"	"34"	"2019"	"2019"	1266	8891258	11.2	14.2
+	"Breast"	"26000"	"New Mexico"	"35"	"2017"	"2017"	284	2092844	11.0	13.6
+	"Breast"	"26000"	"New Mexico"	"35"	"2019"	"2019"	289	2099634	11.2	13.8
+	"Breast"	"26000"	"New York"	"36"	"2017"	"2017"	2479	19593849	10.2	12.7
+	"Breast"	"26000"	"New York"	"36"	"2019"	"2019"	2515	19463131	10.2	12.9
+	"Breast"	"26000"	"North Carolina"	"37"	"2017"	"2017"	1464	10275758	12.0	14.2
+	"Breast"	"26000"	"North Carolina"	"37"	"2019"	"2019"	1375	10501384	10.8	13.1
+	"Breast"	"26000"	"North Dakota"	"38"	"2017"	"2017"	97	756755	10.5	12.8
+	"Breast"	"26000"	"North Dakota"	"38"	"2019"	"2019"	68	763724	7.9	8.9
+	"Breast"	"26000"	"Ohio"	"39"	"2017"	"2017"	1780	11665706	12.2	15.3
+	"Breast"	"26000"	"Ohio"	"39"	"2019"	"2019"	1761	11696507	11.8	15.1
+	"Breast"	"26000"	"Oklahoma"	"40"	"2017"	"2017"	560	3933602	12.3	14.2
+	"Breast"	"26000"	"Oklahoma"	"40"	"2019"	"2019"	550	3960676	11.8	13.9
+	"Breast"	"26000"	"Oregon"	"41"	"2017"	"2017"	516	4147294	10.0	12.4
+	"Breast"	"26000"	"Oregon"	"41"	"2019"	"2019"	580	4216116	10.7	13.8
+	"Breast"	"26000"	"Pennsylvania"	"42"	"2017"	"2017"	2012	12794679	11.6	15.7
+	"Breast"	"26000"	"Pennsylvania"	"42"	"2019"	"2019"	1902	12798883	10.9	14.9
+	"Breast"	"26000"	"Rhode Island"	"44"	"2017"	"2017"	129	1056554	9.5	12.2
+	"Breast"	"26000"	"Rhode Island"	"44"	"2019"	"2019"	142	1058158	10.1	13.4
+	"Breast"	"26000"	"South Carolina"	"45"	"2017"	"2017"	708	5027102	11.5	14.1
+	"Breast"	"26000"	"South Carolina"	"45"	"2019"	"2019"	760	5157702	11.5	14.7
+	"Breast"	"26000"	"South Dakota"	"46"	"2017"	"2017"	106	873732	9.8	12.1
+	"Breast"	"26000"	"South Dakota"	"46"	"2019"	"2019"	108	887127	9.8	12.2
+	"Breast"	"26000"	"Tennessee"	"47"	"2017"	"2017"	946	6714748	11.7	14.1
+	"Breast"	"26000"	"Tennessee"	"47"	"2019"	"2019"	980	6830325	11.5	14.3
+	"Breast"	"26000"	"Texas"	"48"	"2017"	"2017"	3017	28291024	10.9	10.7
+	"Breast"	"26000"	"Texas"	"48"	"2019"	"2019"	3175	28986794	10.9	11.0
+	"Breast"	"26000"	"Utah"	"49"	"2017"	"2017"	281	3103540	10.8	9.1
+	"Breast"	"26000"	"Utah"	"49"	"2019"	"2019"	288	3203383	10.2	9.0
+	"Breast"	"26000"	"Vermont"	"50"	"2017"	"2017"	81	625132	9.4	13.0
+	"Breast"	"26000"	"Vermont"	"50"	"2019"	"2019"	83	624046	9.3	13.3
+	"Breast"	"26000"	"Virginia"	"51"	"2017"	"2017"	1189	8471011	12.1	14.0
+	"Breast"	"26000"	"Virginia"	"51"	"2019"	"2019"	1123	8556642	11.0	13.1
+	"Breast"	"26000"	"Washington"	"53"	"2017"	"2017"	896	7427951	10.5	12.1
+	"Breast"	"26000"	"Washington"	"53"	"2019"	"2019"	932	7614024	10.5	12.2
+	"Breast"	"26000"	"West Virginia"	"54"	"2017"	"2017"	302	1818683	12.0	16.6
+	"Breast"	"26000"	"West Virginia"	"54"	"2019"	"2019"	287	1795263	11.3	16.0
+	"Breast"	"26000"	"Wisconsin"	"55"	"2017"	"2017"	687	5793147	9.5	11.9
+	"Breast"	"26000"	"Wisconsin"	"55"	"2019"	"2019"	702	5824581	9.5	12.1
+	"Breast"	"26000"	"Wyoming"	"56"	"2017"	"2017"	59	579994	8.8	10.2
+	"Breast"	"26000"	"Wyoming"	"56"	"2019"	"2019"	63	580116	9.0	10.9
+	"Cervix Uteri"	"27010"	"Alabama"	"01"	"2017"	"2017"	89	2517486	3.1	3.5
+	"Cervix Uteri"	"27010"	"Alabama"	"01"	"2019"	"2019"	84	2536133	2.6	3.3
+	"Cervix Uteri"	"27010"	"Arizona"	"04"	"2017"	"2017"	78	3545316	2.1	2.2
+	"Cervix Uteri"	"27010"	"Arizona"	"04"	"2019"	"2019"	84	3669041	2.0	2.3
+	"Cervix Uteri"	"27010"	"Arkansas"	"05"	"2017"	"2017"	55	1527948	3.3	3.6
+	"Cervix Uteri"	"27010"	"Arkansas"	"05"	"2019"	"2019"	55	1538076	3.1	3.6
+	"Cervix Uteri"	"27010"	"California"	"06"	"2017"	"2017"	490	19783962	2.3	2.5
+	"Cervix Uteri"	"27010"	"California"	"06"	"2019"	"2019"	495	19829085	2.2	2.5
+	"Cervix Uteri"	"27010"	"Colorado"	"08"	"2017"	"2017"	55	2789649	1.9	2.0
+	"Cervix Uteri"	"27010"	"Colorado"	"08"	"2019"	"2019"	53	2857610	1.6	1.9
+	"Cervix Uteri"	"27010"	"Connecticut"	"09"	"2017"	"2017"	25	1831503	1.1	1.4
+	"Cervix Uteri"	"27010"	"Connecticut"	"09"	"2019"	"2019"	26	1826990	1.0	1.4
+	"Cervix Uteri"	"27010"	"Delaware"	"10"	"2017"	"2017"	20	494606	3.1	4.0
+	"Cervix Uteri"	"27010"	"Florida"	"12"	"2017"	"2017"	355	10720663	2.8	3.3
+	"Cervix Uteri"	"27010"	"Florida"	"12"	"2019"	"2019"	362	10987074	2.6	3.3
+	"Cervix Uteri"	"27010"	"Georgia"	"13"	"2017"	"2017"	123	5349075	2.1	2.3
+	"Cervix Uteri"	"27010"	"Georgia"	"13"	"2019"	"2019"	140	5462335	2.4	2.6
+	"Cervix Uteri"	"27010"	"Idaho"	"16"	"2019"	"2019"	18	891995	1.8	2.0
+	"Cervix Uteri"	"27010"	"Illinois"	"17"	"2017"	"2017"	157	6501339	2.1	2.4
+	"Cervix Uteri"	"27010"	"Illinois"	"17"	"2019"	"2019"	151	6443120	2.0	2.3
+	"Cervix Uteri"	"27010"	"Indiana"	"18"	"2017"	"2017"	105	3378096	2.9	3.1
+	"Cervix Uteri"	"27010"	"Indiana"	"18"	"2019"	"2019"	106	3411571	2.8	3.1
+	"Cervix Uteri"	"27010"	"Iowa"	"19"	"2017"	"2017"	25	1579862	1.5	1.6
+	"Cervix Uteri"	"27010"	"Iowa"	"19"	"2019"	"2019"	23	1586636	1.2	1.4
+	"Cervix Uteri"	"27010"	"Kansas"	"20"	"2017"	"2017"	32	1460476	2.1	2.2
+	"Cervix Uteri"	"27010"	"Kansas"	"20"	"2019"	"2019"	37	1462080	2.4	2.5
+	"Cervix Uteri"	"27010"	"Kentucky"	"21"	"2017"	"2017"	65	2260311	2.6	2.9
+	"Cervix Uteri"	"27010"	"Kentucky"	"21"	"2019"	"2019"	72	2269036	2.9	3.2
+	"Cervix Uteri"	"27010"	"Louisiana"	"22"	"2017"	"2017"	96	2390634	3.6	4.0
+	"Cervix Uteri"	"27010"	"Louisiana"	"22"	"2019"	"2019"	80	2385969	3.3	3.4
+	"Cervix Uteri"	"27010"	"Maryland"	"24"	"2017"	"2017"	67	3106751	1.7	2.2
+	"Cervix Uteri"	"27010"	"Maryland"	"24"	"2019"	"2019"	82	3122480	2.2	2.6
+	"Cervix Uteri"	"27010"	"Massachusetts"	"25"	"2017"	"2017"	46	3532606	1.1	1.3
+	"Cervix Uteri"	"27010"	"Massachusetts"	"25"	"2019"	"2019"	61	3548380	1.5	1.7
+	"Cervix Uteri"	"27010"	"Michigan"	"26"	"2017"	"2017"	121	5064544	2.1	2.4
+	"Cervix Uteri"	"27010"	"Michigan"	"26"	"2019"	"2019"	103	5066743	1.7	2.0
+	"Cervix Uteri"	"27010"	"Minnesota"	"27"	"2017"	"2017"	48	2796520	1.4	1.7
+	"Cervix Uteri"	"27010"	"Minnesota"	"27"	"2019"	"2019"	33	2830663	0.9	1.2
+	"Cervix Uteri"	"27010"	"Mississippi"	"28"	"2017"	"2017"	61	1539672	3.6	4.0
+	"Cervix Uteri"	"27010"	"Mississippi"	"28"	"2019"	"2019"	62	1534587	3.7	4.0
+	"Cervix Uteri"	"27010"	"Missouri"	"29"	"2017"	"2017"	87	3111381	2.4	2.8
+	"Cervix Uteri"	"27010"	"Missouri"	"29"	"2019"	"2019"	91	3127846	2.4	2.9
+	"Cervix Uteri"	"27010"	"Nebraska"	"31"	"2017"	"2017"	27	960422	2.2	2.8
+	"Cervix Uteri"	"27010"	"Nebraska"	"31"	"2019"	"2019"	17	967601	1.7	1.8
+	"Cervix Uteri"	"27010"	"Nevada"	"32"	"2017"	"2017"	38	1480860	2.3	2.6
+	"Cervix Uteri"	"27010"	"Nevada"	"32"	"2019"	"2019"	51	1541266	2.7	3.3
+	"Cervix Uteri"	"27010"	"New Hampshire"	"33"	"2019"	"2019"	16	686814	1.8	2.3
+	"Cervix Uteri"	"27010"	"New Jersey"	"34"	"2017"	"2017"	114	4547537	2.0	2.5
+	"Cervix Uteri"	"27010"	"New Jersey"	"34"	"2019"	"2019"	110	4545698	2.0	2.4
+	"Cervix Uteri"	"27010"	"New Mexico"	"35"	"2017"	"2017"	27	1056754	2.4	2.6
+	"Cervix Uteri"	"27010"	"New Mexico"	"35"	"2019"	"2019"	30	1060654	2.7	2.8
+	"Cervix Uteri"	"27010"	"New York"	"36"	"2017"	"2017"	259	10080806	2.1	2.6
+	"Cervix Uteri"	"27010"	"New York"	"36"	"2019"	"2019"	216	10012065	1.8	2.2
+	"Cervix Uteri"	"27010"	"North Carolina"	"37"	"2017"	"2017"	115	5274812	1.8	2.2
+	"Cervix Uteri"	"27010"	"North Carolina"	"37"	"2019"	"2019"	115	5393755	1.8	2.1
+	"Cervix Uteri"	"27010"	"Ohio"	"39"	"2017"	"2017"	174	5949075	2.5	2.9
+	"Cervix Uteri"	"27010"	"Ohio"	"39"	"2019"	"2019"	169	5962634	2.3	2.8
+	"Cervix Uteri"	"27010"	"Oklahoma"	"40"	"2017"	"2017"	86	1984912	4.1	4.3
+	"Cervix Uteri"	"27010"	"Oklahoma"	"40"	"2019"	"2019"	85	1999160	3.9	4.3
+	"Cervix Uteri"	"27010"	"Oregon"	"41"	"2017"	"2017"	47	2091485	1.9	2.2
+	"Cervix Uteri"	"27010"	"Oregon"	"41"	"2019"	"2019"	39	2126006	1.6	1.8
+	"Cervix Uteri"	"27010"	"Pennsylvania"	"42"	"2017"	"2017"	150	6528507	1.8	2.3
+	"Cervix Uteri"	"27010"	"Pennsylvania"	"42"	"2019"	"2019"	146	6526489	1.8	2.2
+	"Cervix Uteri"	"27010"	"South Carolina"	"45"	"2017"	"2017"	66	2588374	2.3	2.5
+	"Cervix Uteri"	"27010"	"South Carolina"	"45"	"2019"	"2019"	71	2659704	2.2	2.7
+	"Cervix Uteri"	"27010"	"Tennessee"	"47"	"2017"	"2017"	103	3438006	2.5	3.0
+	"Cervix Uteri"	"27010"	"Tennessee"	"47"	"2019"	"2019"	110	3498429	2.8	3.1
+	"Cervix Uteri"	"27010"	"Texas"	"48"	"2017"	"2017"	429	14238026	3.0	3.0
+	"Cervix Uteri"	"27010"	"Texas"	"48"	"2019"	"2019"	395	14591903	2.7	2.7
+	"Cervix Uteri"	"27010"	"Utah"	"49"	"2017"	"2017"	30	1540562	2.0	1.9
+	"Cervix Uteri"	"27010"	"Utah"	"49"	"2019"	"2019"	18	1589845	1.3	1.1
+	"Cervix Uteri"	"27010"	"Virginia"	"51"	"2017"	"2017"	83	4302531	1.7	1.9
+	"Cervix Uteri"	"27010"	"Virginia"	"51"	"2019"	"2019"	86	4345858	1.6	2.0
+	"Cervix Uteri"	"27010"	"Washington"	"53"	"2017"	"2017"	72	3712553	1.7	1.9
+	"Cervix Uteri"	"27010"	"Washington"	"53"	"2019"	"2019"	66	3802546	1.6	1.7
+	"Cervix Uteri"	"27010"	"West Virginia"	"54"	"2017"	"2017"	29	918498	2.5	3.2
+	"Cervix Uteri"	"27010"	"West Virginia"	"54"	"2019"	"2019"	39	906103	3.8	4.3
+	"Cervix Uteri"	"27010"	"Wisconsin"	"55"	"2017"	"2017"	47	2911984	1.3	1.6
+	"Cervix Uteri"	"27010"	"Wisconsin"	"55"	"2019"	"2019"	58	2925732	1.6	2.0
+	"Colon and Rectum"	"21041-21052"	"Alabama"	"01"	"2017"	"2017"	954	4877989	15.8	19.6
+	"Colon and Rectum"	"21041-21052"	"Alabama"	"01"	"2019"	"2019"	875	4907965	13.9	17.8
+	"Colon and Rectum"	"21041-21052"	"Alaska"	"02"	"2017"	"2017"	105	740983	15.8	14.2
+	"Colon and Rectum"	"21041-21052"	"Alaska"	"02"	"2019"	"2019"	97	733603	13.8	13.2
+	"Colon and Rectum"	"21041-21052"	"Arizona"	"04"	"2017"	"2017"	1110	7048088	12.6	15.7
+	"Colon and Rectum"	"21041-21052"	"Arizona"	"04"	"2019"	"2019"	1094	7291843	11.7	15.0
+	"Colon and Rectum"	"21041-21052"	"Arkansas"	"05"	"2017"	"2017"	571	3003855	15.5	19.0
+	"Colon and Rectum"	"21041-21052"	"Arkansas"	"05"	"2019"	"2019"	600	3020985	15.5	19.9
+	"Colon and Rectum"	"21041-21052"	"California"	"06"	"2017"	"2017"	5288	39337785	12.2	13.4
+	"Colon and Rectum"	"21041-21052"	"California"	"06"	"2019"	"2019"	5379	39437610	12.0	13.6
+	"Colon and Rectum"	"21041-21052"	"Colorado"	"08"	"2017"	"2017"	705	5617421	11.9	12.6
+	"Colon and Rectum"	"21041-21052"	"Colorado"	"08"	"2019"	"2019"	678	5758486	10.9	11.8
+	"Colon and Rectum"	"21041-21052"	"Connecticut"	"09"	"2017"	"2017"	473	3575324	10.1	13.2
+	"Colon and Rectum"	"21041-21052"	"Connecticut"	"09"	"2019"	"2019"	505	3566022	10.2	14.2
+	"Colon and Rectum"	"21041-21052"	"Delaware"	"10"	"2017"	"2017"	172	957942	13.8	18.0
+	"Colon and Rectum"	"21041-21052"	"Delaware"	"10"	"2019"	"2019"	163	976668	12.3	16.7
+	"Colon and Rectum"	"21041-21052"	"District of Columbia"	"11"	"2017"	"2017"	93	697079	13.5	13.3
+	"Colon and Rectum"	"21041-21052"	"District of Columbia"	"11"	"2019"	"2019"	97	708253	14.2	13.7
+	"Colon and Rectum"	"21041-21052"	"Florida"	"12"	"2017"	"2017"	3966	20977089	12.9	18.9
+	"Colon and Rectum"	"21041-21052"	"Florida"	"12"	"2019"	"2019"	3826	21492056	12.0	17.8
+	"Colon and Rectum"	"21041-21052"	"Georgia"	"13"	"2017"	"2017"	1610	10417031	14.6	15.5
+	"Colon and Rectum"	"21041-21052"	"Georgia"	"13"	"2019"	"2019"	1574	10628020	13.5	14.8
+	"Colon and Rectum"	"21041-21052"	"Hawaii"	"15"	"2017"	"2017"	224	1425763	11.6	15.7
+	"Colon and Rectum"	"21041-21052"	"Hawaii"	"15"	"2019"	"2019"	248	1415615	12.8	17.5
+	"Colon and Rectum"	"21041-21052"	"Idaho"	"16"	"2017"	"2017"	257	1719745	13.2	14.9
+	"Colon and Rectum"	"21041-21052"	"Idaho"	"16"	"2019"	"2019"	252	1789060	12.3	14.1
+	"Colon and Rectum"	"21041-21052"	"Illinois"	"17"	"2017"	"2017"	2223	12779893	14.7	17.4
+	"Colon and Rectum"	"21041-21052"	"Illinois"	"17"	"2019"	"2019"	2141	12667017	13.7	16.9
+	"Colon and Rectum"	"21041-21052"	"Indiana"	"18"	"2017"	"2017"	1222	6662068	15.6	18.3
+	"Colon and Rectum"	"21041-21052"	"Indiana"	"18"	"2019"	"2019"	1199	6731010	14.8	17.8
+	"Colon and Rectum"	"21041-21052"	"Iowa"	"19"	"2017"	"2017"	555	3143734	13.5	17.7
+	"Colon and Rectum"	"21041-21052"	"Iowa"	"19"	"2019"	"2019"	552	3159596	13.2	17.5
+	"Colon and Rectum"	"21041-21052"	"Kansas"	"20"	"2017"	"2017"	508	2910892	14.6	17.5
+	"Colon and Rectum"	"21041-21052"	"Kansas"	"20"	"2019"	"2019"	449	2912635	12.6	15.4
+	"Colon and Rectum"	"21041-21052"	"Kentucky"	"21"	"2017"	"2017"	886	4455590	16.7	19.9
+	"Colon and Rectum"	"21041-21052"	"Kentucky"	"21"	"2019"	"2019"	888	4472345	15.9	19.9
+	"Colon and Rectum"	"21041-21052"	"Louisiana"	"22"	"2017"	"2017"	903	4673673	16.7	19.3
+	"Colon and Rectum"	"21041-21052"	"Louisiana"	"22"	"2019"	"2019"	875	4658285	15.6	18.8
+	"Colon and Rectum"	"21041-21052"	"Maine"	"23"	"2017"	"2017"	242	1335743	12.5	18.1
+	"Colon and Rectum"	"21041-21052"	"Maine"	"23"	"2019"	"2019"	250	1345770	12.6	18.6
+	"Colon and Rectum"	"21041-21052"	"Maryland"	"24"	"2017"	"2017"	947	6028186	13.3	15.7
+	"Colon and Rectum"	"21041-21052"	"Maryland"	"24"	"2019"	"2019"	967	6054954	13.1	16.0
+	"Colon and Rectum"	"21041-21052"	"Massachusetts"	"25"	"2017"	"2017"	975	6863560	11.4	14.2
+	"Colon and Rectum"	"21041-21052"	"Massachusetts"	"25"	"2019"	"2019"	959	6894883	10.8	13.9
+	"Colon and Rectum"	"21041-21052"	"Michigan"	"26"	"2017"	"2017"	1709	9976752	13.6	17.1
+	"Colon and Rectum"	"21041-21052"	"Michigan"	"26"	"2019"	"2019"	1708	9984795	13.1	17.1
+	"Colon and Rectum"	"21041-21052"	"Minnesota"	"27"	"2017"	"2017"	788	5569283	11.8	14.1
+	"Colon and Rectum"	"21041-21052"	"Minnesota"	"27"	"2019"	"2019"	784	5640053	11.2	13.9
+	"Colon and Rectum"	"21041-21052"	"Mississippi"	"28"	"2017"	"2017"	615	2990674	17.1	20.6
+	"Colon and Rectum"	"21041-21052"	"Mississippi"	"28"	"2019"	"2019"	641	2978227	17.7	21.5
+	"Colon and Rectum"	"21041-21052"	"Missouri"	"29"	"2017"	"2017"	1084	6111382	14.1	17.7
+	"Colon and Rectum"	"21041-21052"	"Missouri"	"29"	"2019"	"2019"	1052	6140475	13.3	17.1
+	"Colon and Rectum"	"21041-21052"	"Montana"	"30"	"2017"	"2017"	169	1053862	12.2	16.0
+	"Colon and Rectum"	"21041-21052"	"Montana"	"30"	"2019"	"2019"	176	1070123	12.2	16.4
+	"Colon and Rectum"	"21041-21052"	"Nebraska"	"31"	"2017"	"2017"	312	1916998	13.6	16.3
+	"Colon and Rectum"	"21041-21052"	"Nebraska"	"31"	"2019"	"2019"	340	1932571	14.5	17.6
+	"Colon and Rectum"	"21041-21052"	"Nevada"	"32"	"2017"	"2017"	575	2972097	17.1	19.3
+	"Colon and Rectum"	"21041-21052"	"Nevada"	"32"	"2019"	"2019"	479	3090771	13.2	15.5
+	"Colon and Rectum"	"21041-21052"	"New Hampshire"	"33"	"2017"	"2017"	235	1350395	13.0	17.4
+	"Colon and Rectum"	"21041-21052"	"New Hampshire"	"33"	"2019"	"2019"	210	1360783	11.2	15.4
+	"Colon and Rectum"	"21041-21052"	"New Jersey"	"34"	"2017"	"2017"	1499	8888147	13.3	16.9
+	"Colon and Rectum"	"21041-21052"	"New Jersey"	"34"	"2019"	"2019"	1401	8891258	12.2	15.8
+	"Colon and Rectum"	"21041-21052"	"New Mexico"	"35"	"2017"	"2017"	355	2092844	13.9	17.0
+	"Colon and Rectum"	"21041-21052"	"New Mexico"	"35"	"2019"	"2019"	299	2099634	11.1	14.2
+	"Colon and Rectum"	"21041-21052"	"New York"	"36"	"2017"	"2017"	3154	19593849	12.8	16.1
+	"Colon and Rectum"	"21041-21052"	"New York"	"36"	"2019"	"2019"	2844	19463131	11.3	14.6
+	"Colon and Rectum"	"21041-21052"	"North Carolina"	"37"	"2017"	"2017"	1529	10275758	12.5	14.9
+	"Colon and Rectum"	"21041-21052"	"North Carolina"	"37"	"2019"	"2019"	1622	10501384	12.6	15.4
+	"Colon and Rectum"	"21041-21052"	"North Dakota"	"38"	"2017"	"2017"	101	756755	11.0	13.3
+	"Colon and Rectum"	"21041-21052"	"North Dakota"	"38"	"2019"	"2019"	138	763724	15.0	18.1
+	"Colon and Rectum"	"21041-21052"	"Ohio"	"39"	"2017"	"2017"	2206	11665706	15.0	18.9
+	"Colon and Rectum"	"21041-21052"	"Ohio"	"39"	"2019"	"2019"	2118	11696507	13.8	18.1
+	"Colon and Rectum"	"21041-21052"	"Oklahoma"	"40"	"2017"	"2017"	766	3933602	16.7	19.5
+	"Colon and Rectum"	"21041-21052"	"Oklahoma"	"40"	"2019"	"2019"	720	3960676	15.4	18.2
+	"Colon and Rectum"	"21041-21052"	"Oregon"	"41"	"2017"	"2017"	635	4147294	12.3	15.3
+	"Colon and Rectum"	"21041-21052"	"Oregon"	"41"	"2019"	"2019"	669	4216116	12.4	15.9
+	"Colon and Rectum"	"21041-21052"	"Pennsylvania"	"42"	"2017"	"2017"	2485	12794679	14.1	19.4
+	"Colon and Rectum"	"21041-21052"	"Pennsylvania"	"42"	"2019"	"2019"	2320	12798883	13.0	18.1
+	"Colon and Rectum"	"21041-21052"	"Rhode Island"	"44"	"2017"	"2017"	144	1056554	10.4	13.6
+	"Colon and Rectum"	"21041-21052"	"Rhode Island"	"44"	"2019"	"2019"	168	1058158	11.8	15.9
+	"Colon and Rectum"	"21041-21052"	"South Carolina"	"45"	"2017"	"2017"	865	5027102	13.6	17.2
+	"Colon and Rectum"	"21041-21052"	"South Carolina"	"45"	"2019"	"2019"	878	5157702	13.3	17.0
+	"Colon and Rectum"	"21041-21052"	"South Dakota"	"46"	"2017"	"2017"	161	873732	14.3	18.4
+	"Colon and Rectum"	"21041-21052"	"South Dakota"	"46"	"2019"	"2019"	150	887127	13.7	16.9
+	"Colon and Rectum"	"21041-21052"	"Tennessee"	"47"	"2017"	"2017"	1228	6714748	14.9	18.3
+	"Colon and Rectum"	"21041-21052"	"Tennessee"	"47"	"2019"	"2019"	1258	6830325	15.0	18.4
+	"Colon and Rectum"	"21041-21052"	"Texas"	"48"	"2017"	"2017"	3831	28291024	13.8	13.5
+	"Colon and Rectum"	"21041-21052"	"Texas"	"48"	"2019"	"2019"	4028	28986794	13.8	13.9
+	"Colon and Rectum"	"21041-21052"	"Utah"	"49"	"2017"	"2017"	272	3103540	10.4	8.8
+	"Colon and Rectum"	"21041-21052"	"Utah"	"49"	"2019"	"2019"	321	3203383	11.5	10.0
+	"Colon and Rectum"	"21041-21052"	"Vermont"	"50"	"2017"	"2017"	128	625132	15.4	20.5
+	"Colon and Rectum"	"21041-21052"	"Vermont"	"50"	"2019"	"2019"	109	624046	12.3	17.5
+	"Colon and Rectum"	"21041-21052"	"Virginia"	"51"	"2017"	"2017"	1311	8471011	13.5	15.5
+	"Colon and Rectum"	"21041-21052"	"Virginia"	"51"	"2019"	"2019"	1316	8556642	12.8	15.4
+	"Colon and Rectum"	"21041-21052"	"Washington"	"53"	"2017"	"2017"	1046	7427951	12.4	14.1
+	"Colon and Rectum"	"21041-21052"	"Washington"	"53"	"2019"	"2019"	1071	7614024	12.0	14.1
+	"Colon and Rectum"	"21041-21052"	"West Virginia"	"54"	"2017"	"2017"	394	1818683	15.4	21.7
+	"Colon and Rectum"	"21041-21052"	"West Virginia"	"54"	"2019"	"2019"	423	1795263	15.9	23.6
+	"Colon and Rectum"	"21041-21052"	"Wisconsin"	"55"	"2017"	"2017"	889	5793147	12.3	15.3
+	"Colon and Rectum"	"21041-21052"	"Wisconsin"	"55"	"2019"	"2019"	896	5824581	11.9	15.4
+	"Colon and Rectum"	"21041-21052"	"Wyoming"	"56"	"2017"	"2017"	72	579994	10.4	12.4
+	"Colon and Rectum"	"21041-21052"	"Wyoming"	"56"	"2019"	"2019"	89	580116	12.4	15.3
+	"Corpus Uteri"	"27020"	"Alabama"	"01"	"2017"	"2017"	77	2517486	2.3	3.1
+	"Corpus Uteri"	"27020"	"Alabama"	"01"	"2019"	"2019"	94	2536133	2.6	3.7
+	"Corpus Uteri"	"27020"	"Arizona"	"04"	"2017"	"2017"	110	3545316	2.3	3.1
+	"Corpus Uteri"	"27020"	"Arizona"	"04"	"2019"	"2019"	125	3669041	2.4	3.4
+	"Corpus Uteri"	"27020"	"Arkansas"	"05"	"2017"	"2017"	55	1527948	2.6	3.6
+	"Corpus Uteri"	"27020"	"Arkansas"	"05"	"2019"	"2019"	46	1538076	2.2	3.0
+	"Corpus Uteri"	"27020"	"California"	"06"	"2017"	"2017"	580	19783962	2.4	2.9
+	"Corpus Uteri"	"27020"	"California"	"06"	"2019"	"2019"	714	19829085	2.8	3.6
+	"Corpus Uteri"	"27020"	"Colorado"	"08"	"2017"	"2017"	77	2789649	2.3	2.8
+	"Corpus Uteri"	"27020"	"Colorado"	"08"	"2019"	"2019"	96	2857610	2.7	3.4
+	"Corpus Uteri"	"27020"	"Connecticut"	"09"	"2017"	"2017"	60	1831503	2.3	3.3
+	"Corpus Uteri"	"27020"	"Connecticut"	"09"	"2019"	"2019"	69	1826990	2.5	3.8
+	"Corpus Uteri"	"27020"	"Delaware"	"10"	"2017"	"2017"	19	494606	2.6	3.8
+	"Corpus Uteri"	"27020"	"Delaware"	"10"	"2019"	"2019"	34	504571	4.4	6.7
+	"Corpus Uteri"	"27020"	"District of Columbia"	"11"	"2017"	"2017"	26	366336	6.8	7.1
+	"Corpus Uteri"	"27020"	"District of Columbia"	"11"	"2019"	"2019"	22	372393	5.8	5.9
+	"Corpus Uteri"	"27020"	"Florida"	"12"	"2017"	"2017"	390	10720663	2.3	3.6
+	"Corpus Uteri"	"27020"	"Florida"	"12"	"2019"	"2019"	463	10987074	2.6	4.2
+	"Corpus Uteri"	"27020"	"Georgia"	"13"	"2017"	"2017"	171	5349075	2.6	3.2
+	"Corpus Uteri"	"27020"	"Georgia"	"13"	"2019"	"2019"	199	5462335	2.9	3.6
+	"Corpus Uteri"	"27020"	"Hawaii"	"15"	"2017"	"2017"	35	710227	3.9	4.9
+	"Corpus Uteri"	"27020"	"Hawaii"	"15"	"2019"	"2019"	44	706419	4.3	6.2
+	"Corpus Uteri"	"27020"	"Idaho"	"16"	"2017"	"2017"	39	858030	3.6	4.5
+	"Corpus Uteri"	"27020"	"Idaho"	"16"	"2019"	"2019"	30	891995	2.5	3.4
+	"Corpus Uteri"	"27020"	"Illinois"	"17"	"2017"	"2017"	253	6501339	3.0	3.9
+	"Corpus Uteri"	"27020"	"Illinois"	"17"	"2019"	"2019"	299	6443120	3.3	4.6
+	"Corpus Uteri"	"27020"	"Indiana"	"18"	"2017"	"2017"	124	3378096	2.8	3.7
+	"Corpus Uteri"	"27020"	"Indiana"	"18"	"2019"	"2019"	150	3411571	3.1	4.4
+	"Corpus Uteri"	"27020"	"Iowa"	"19"	"2017"	"2017"	83	1579862	3.7	5.3
+	"Corpus Uteri"	"27020"	"Iowa"	"19"	"2019"	"2019"	77	1586636	3.3	4.9
+	"Corpus Uteri"	"27020"	"Kansas"	"20"	"2017"	"2017"	57	1460476	2.8	3.9
+	"Corpus Uteri"	"27020"	"Kansas"	"20"	"2019"	"2019"	31	1462080	1.4	2.1
+	"Corpus Uteri"	"27020"	"Kentucky"	"21"	"2017"	"2017"	73	2260311	2.5	3.2
+	"Corpus Uteri"	"27020"	"Kentucky"	"21"	"2019"	"2019"	70	2269036	2.2	3.1
+	"Corpus Uteri"	"27020"	"Louisiana"	"22"	"2017"	"2017"	84	2390634	2.7	3.5
+	"Corpus Uteri"	"27020"	"Louisiana"	"22"	"2019"	"2019"	93	2385969	2.9	3.9
+	"Corpus Uteri"	"27020"	"Maine"	"23"	"2017"	"2017"	44	681559	3.8	6.5
+	"Corpus Uteri"	"27020"	"Maine"	"23"	"2019"	"2019"	47	686674	4.0	6.8
+	"Corpus Uteri"	"27020"	"Maryland"	"24"	"2017"	"2017"	135	3106751	3.4	4.3
+	"Corpus Uteri"	"27020"	"Maryland"	"24"	"2019"	"2019"	140	3122480	3.2	4.5
+	"Corpus Uteri"	"27020"	"Massachusetts"	"25"	"2017"	"2017"	135	3532606	2.7	3.8
+	"Corpus Uteri"	"27020"	"Massachusetts"	"25"	"2019"	"2019"	159	3548380	3.0	4.5
+	"Corpus Uteri"	"27020"	"Michigan"	"26"	"2017"	"2017"	217	5064544	3.0	4.3
+	"Corpus Uteri"	"27020"	"Michigan"	"26"	"2019"	"2019"	249	5066743	3.4	4.9
+	"Corpus Uteri"	"27020"	"Minnesota"	"27"	"2017"	"2017"	117	2796520	3.2	4.2
+	"Corpus Uteri"	"27020"	"Minnesota"	"27"	"2019"	"2019"	129	2830663	3.3	4.6
+	"Corpus Uteri"	"27020"	"Mississippi"	"28"	"2017"	"2017"	33	1539672	1.6	2.1
+	"Corpus Uteri"	"27020"	"Mississippi"	"28"	"2019"	"2019"	55	1534587	2.6	3.6
+	"Corpus Uteri"	"27020"	"Missouri"	"29"	"2017"	"2017"	124	3111381	2.8	4.0
+	"Corpus Uteri"	"27020"	"Missouri"	"29"	"2019"	"2019"	125	3127846	2.8	4.0
+	"Corpus Uteri"	"27020"	"Montana"	"30"	"2017"	"2017"	16	523400	2.0	3.1
+	"Corpus Uteri"	"27020"	"Montana"	"30"	"2019"	"2019"	18	531486	2.2	3.4
+	"Corpus Uteri"	"27020"	"Nebraska"	"31"	"2017"	"2017"	34	960422	3.0	3.5
+	"Corpus Uteri"	"27020"	"Nebraska"	"31"	"2019"	"2019"	39	967601	3.3	4.0
+	"Corpus Uteri"	"27020"	"Nevada"	"32"	"2017"	"2017"	35	1480860	1.9	2.4
+	"Corpus Uteri"	"27020"	"Nevada"	"32"	"2019"	"2019"	33	1541266	1.6	2.1
+	"Corpus Uteri"	"27020"	"New Hampshire"	"33"	"2017"	"2017"	38	681670	3.8	5.6
+	"Corpus Uteri"	"27020"	"New Hampshire"	"33"	"2019"	"2019"	36	686814	3.3	5.2
+	"Corpus Uteri"	"27020"	"New Jersey"	"34"	"2017"	"2017"	169	4547537	2.7	3.7
+	"Corpus Uteri"	"27020"	"New Jersey"	"34"	"2019"	"2019"	206	4545698	3.1	4.5
+	"Corpus Uteri"	"27020"	"New Mexico"	"35"	"2017"	"2017"	32	1056754	2.1	3.0
+	"Corpus Uteri"	"27020"	"New Mexico"	"35"	"2019"	"2019"	28	1060654	1.8	2.6
+	"Corpus Uteri"	"27020"	"New York"	"36"	"2017"	"2017"	429	10080806	3.1	4.3
+	"Corpus Uteri"	"27020"	"New York"	"36"	"2019"	"2019"	464	10012065	3.3	4.6
+	"Corpus Uteri"	"27020"	"North Carolina"	"37"	"2017"	"2017"	239	5274812	3.3	4.5
+	"Corpus Uteri"	"27020"	"North Carolina"	"37"	"2019"	"2019"	251	5393755	3.4	4.7
+	"Corpus Uteri"	"27020"	"North Dakota"	"38"	"2019"	"2019"	16	372678	3.2	4.3
+	"Corpus Uteri"	"27020"	"Ohio"	"39"	"2017"	"2017"	291	5949075	3.4	4.9
+	"Corpus Uteri"	"27020"	"Ohio"	"39"	"2019"	"2019"	284	5962634	3.3	4.8
+	"Corpus Uteri"	"27020"	"Oklahoma"	"40"	"2017"	"2017"	60	1984912	2.5	3.0
+	"Corpus Uteri"	"27020"	"Oklahoma"	"40"	"2019"	"2019"	82	1999160	3.1	4.1
+	"Corpus Uteri"	"27020"	"Oregon"	"41"	"2017"	"2017"	82	2091485	2.8	3.9
+	"Corpus Uteri"	"27020"	"Oregon"	"41"	"2019"	"2019"	79	2126006	2.6	3.7
+	"Corpus Uteri"	"27020"	"Pennsylvania"	"42"	"2017"	"2017"	309	6528507	3.2	4.7
+	"Corpus Uteri"	"27020"	"Pennsylvania"	"42"	"2019"	"2019"	353	6526489	3.4	5.4
+	"Corpus Uteri"	"27020"	"Rhode Island"	"44"	"2017"	"2017"	29	542884	3.5	5.3
+	"Corpus Uteri"	"27020"	"Rhode Island"	"44"	"2019"	"2019"	27	543197	3.6	5.0
+	"Corpus Uteri"	"27020"	"South Carolina"	"45"	"2017"	"2017"	110	2588374	3.0	4.2
+	"Corpus Uteri"	"27020"	"South Carolina"	"45"	"2019"	"2019"	132	2659704	3.4	5.0
+	"Corpus Uteri"	"27020"	"South Dakota"	"46"	"2017"	"2017"	20	432891	3.7	4.6
+	"Corpus Uteri"	"27020"	"South Dakota"	"46"	"2019"	"2019"	22	439553	3.1	5.0
+	"Corpus Uteri"	"27020"	"Tennessee"	"47"	"2017"	"2017"	102	3438006	2.2	3.0
+	"Corpus Uteri"	"27020"	"Tennessee"	"47"	"2019"	"2019"	119	3498429	2.4	3.4
+	"Corpus Uteri"	"27020"	"Texas"	"48"	"2017"	"2017"	345	14238026	2.3	2.4
+	"Corpus Uteri"	"27020"	"Texas"	"48"	"2019"	"2019"	427	14591903	2.6	2.9
+	"Corpus Uteri"	"27020"	"Utah"	"49"	"2017"	"2017"	28	1540562	1.9	1.8
+	"Corpus Uteri"	"27020"	"Utah"	"49"	"2019"	"2019"	45	1589845	3.0	2.8
+	"Corpus Uteri"	"27020"	"Vermont"	"50"	"2017"	"2017"	23	316438	4.8	7.3
+	"Corpus Uteri"	"27020"	"Vermont"	"50"	"2019"	"2019"	18	315738	3.5	5.7
+	"Corpus Uteri"	"27020"	"Virginia"	"51"	"2017"	"2017"	142	4302531	2.5	3.3
+	"Corpus Uteri"	"27020"	"Virginia"	"51"	"2019"	"2019"	195	4345858	3.3	4.5
+	"Corpus Uteri"	"27020"	"Washington"	"53"	"2017"	"2017"	131	3712553	2.8	3.5
+	"Corpus Uteri"	"27020"	"Washington"	"53"	"2019"	"2019"	152	3802546	3.1	4.0
+	"Corpus Uteri"	"27020"	"West Virginia"	"54"	"2017"	"2017"	31	918498	2.1	3.4
+	"Corpus Uteri"	"27020"	"West Virginia"	"54"	"2019"	"2019"	40	906103	2.7	4.4
+	"Corpus Uteri"	"27020"	"Wisconsin"	"55"	"2017"	"2017"	128	2911984	3.1	4.4
+	"Corpus Uteri"	"27020"	"Wisconsin"	"55"	"2019"	"2019"	140	2925732	3.3	4.8
+	"Esophagus"	"21010"	"Alabama"	"01"	"2017"	"2017"	254	4877989	4.0	5.2
+	"Esophagus"	"21010"	"Alabama"	"01"	"2019"	"2019"	244	4907965	3.7	5.0
+	"Esophagus"	"21010"	"Alaska"	"02"	"2017"	"2017"	35	740983	4.8	4.7
+	"Esophagus"	"21010"	"Alaska"	"02"	"2019"	"2019"	36	733603	5.4	4.9
+	"Esophagus"	"21010"	"Arizona"	"04"	"2017"	"2017"	333	7048088	3.7	4.7
+	"Esophagus"	"21010"	"Arizona"	"04"	"2019"	"2019"	334	7291843	3.5	4.6
+	"Esophagus"	"21010"	"Arkansas"	"05"	"2017"	"2017"	128	3003855	3.4	4.3
+	"Esophagus"	"21010"	"Arkansas"	"05"	"2019"	"2019"	146	3020985	3.6	4.8
+	"Esophagus"	"21010"	"California"	"06"	"2017"	"2017"	1309	39337785	3.0	3.3
+	"Esophagus"	"21010"	"California"	"06"	"2019"	"2019"	1368	39437610	3.0	3.5
+	"Esophagus"	"21010"	"Colorado"	"08"	"2017"	"2017"	228	5617421	3.8	4.1
+	"Esophagus"	"21010"	"Colorado"	"08"	"2019"	"2019"	204	5758486	3.1	3.5
+	"Esophagus"	"21010"	"Connecticut"	"09"	"2017"	"2017"	159	3575324	3.3	4.4
+	"Esophagus"	"21010"	"Connecticut"	"09"	"2019"	"2019"	200	3566022	4.0	5.6
+	"Esophagus"	"21010"	"Delaware"	"10"	"2017"	"2017"	51	957942	3.8	5.3
+	"Esophagus"	"21010"	"Delaware"	"10"	"2019"	"2019"	35	976668	2.4	3.6
+	"Esophagus"	"21010"	"District of Columbia"	"11"	"2017"	"2017"	18	697079	2.7	2.6
+	"Esophagus"	"21010"	"District of Columbia"	"11"	"2019"	"2019"	17	708253	2.4	2.4
+	"Esophagus"	"21010"	"Florida"	"12"	"2017"	"2017"	1107	20977089	3.5	5.3
+	"Esophagus"	"21010"	"Florida"	"12"	"2019"	"2019"	1168	21492056	3.5	5.4
+	"Esophagus"	"21010"	"Georgia"	"13"	"2017"	"2017"	403	10417031	3.5	3.9
+	"Esophagus"	"21010"	"Georgia"	"13"	"2019"	"2019"	413	10628020	3.4	3.9
+	"Esophagus"	"21010"	"Hawaii"	"15"	"2017"	"2017"	60	1425763	3.2	4.2
+	"Esophagus"	"21010"	"Hawaii"	"15"	"2019"	"2019"	50	1415615	2.7	3.5
+	"Esophagus"	"21010"	"Idaho"	"16"	"2017"	"2017"	98	1719745	5.0	5.7
+	"Esophagus"	"21010"	"Idaho"	"16"	"2019"	"2019"	89	1789060	4.1	5.0
+	"Esophagus"	"21010"	"Illinois"	"17"	"2017"	"2017"	622	12779893	4.0	4.9
+	"Esophagus"	"21010"	"Illinois"	"17"	"2019"	"2019"	652	12667017	4.1	5.1
+	"Esophagus"	"21010"	"Indiana"	"18"	"2017"	"2017"	402	6662068	4.9	6.0
+	"Esophagus"	"21010"	"Indiana"	"18"	"2019"	"2019"	386	6731010	4.7	5.7
+	"Esophagus"	"21010"	"Iowa"	"19"	"2017"	"2017"	200	3143734	4.9	6.4
+	"Esophagus"	"21010"	"Iowa"	"19"	"2019"	"2019"	183	3159596	4.4	5.8
+	"Esophagus"	"21010"	"Kansas"	"20"	"2017"	"2017"	162	2910892	4.6	5.6
+	"Esophagus"	"21010"	"Kansas"	"20"	"2019"	"2019"	161	2912635	4.3	5.5
+	"Esophagus"	"21010"	"Kentucky"	"21"	"2017"	"2017"	279	4455590	5.0	6.3
+	"Esophagus"	"21010"	"Kentucky"	"21"	"2019"	"2019"	245	4472345	4.3	5.5
+	"Esophagus"	"21010"	"Louisiana"	"22"	"2017"	"2017"	215	4673673	3.8	4.6
+	"Esophagus"	"21010"	"Louisiana"	"22"	"2019"	"2019"	207	4658285	3.6	4.4
+	"Esophagus"	"21010"	"Maine"	"23"	"2017"	"2017"	112	1335743	5.6	8.4
+	"Esophagus"	"21010"	"Maine"	"23"	"2019"	"2019"	140	1345770	6.7	10.4
+	"Esophagus"	"21010"	"Maryland"	"24"	"2017"	"2017"	251	6028186	3.5	4.2
+	"Esophagus"	"21010"	"Maryland"	"24"	"2019"	"2019"	301	6054954	4.0	5.0
+	"Esophagus"	"21010"	"Massachusetts"	"25"	"2017"	"2017"	391	6863560	4.4	5.7
+	"Esophagus"	"21010"	"Massachusetts"	"25"	"2019"	"2019"	365	6894883	4.0	5.3
+	"Esophagus"	"21010"	"Michigan"	"26"	"2017"	"2017"	579	9976752	4.4	5.8
+	"Esophagus"	"21010"	"Michigan"	"26"	"2019"	"2019"	693	9984795	5.1	6.9
+	"Esophagus"	"21010"	"Minnesota"	"27"	"2017"	"2017"	286	5569283	4.1	5.1
+	"Esophagus"	"21010"	"Minnesota"	"27"	"2019"	"2019"	294	5640053	4.1	5.2
+	"Esophagus"	"21010"	"Mississippi"	"28"	"2017"	"2017"	113	2990674	3.1	3.8
+	"Esophagus"	"21010"	"Mississippi"	"28"	"2019"	"2019"	152	2978227	4.0	5.1
+	"Esophagus"	"21010"	"Missouri"	"29"	"2017"	"2017"	375	6111382	4.8	6.1
+	"Esophagus"	"21010"	"Missouri"	"29"	"2019"	"2019"	350	6140475	4.3	5.7
+	"Esophagus"	"21010"	"Montana"	"30"	"2017"	"2017"	79	1053862	5.4	7.5
+	"Esophagus"	"21010"	"Montana"	"30"	"2019"	"2019"	60	1070123	3.9	5.6
+	"Esophagus"	"21010"	"Nebraska"	"31"	"2017"	"2017"	106	1916998	4.6	5.5
+	"Esophagus"	"21010"	"Nebraska"	"31"	"2019"	"2019"	116	1932571	5.0	6.0
+	"Esophagus"	"21010"	"Nevada"	"32"	"2017"	"2017"	135	2972097	3.6	4.5
+	"Esophagus"	"21010"	"Nevada"	"32"	"2019"	"2019"	162	3090771	4.3	5.2
+	"Esophagus"	"21010"	"New Hampshire"	"33"	"2017"	"2017"	109	1350395	5.9	8.1
+	"Esophagus"	"21010"	"New Hampshire"	"33"	"2019"	"2019"	87	1360783	4.4	6.4
+	"Esophagus"	"21010"	"New Jersey"	"34"	"2017"	"2017"	401	8888147	3.6	4.5
+	"Esophagus"	"21010"	"New Jersey"	"34"	"2019"	"2019"	364	8891258	3.1	4.1
+	"Esophagus"	"21010"	"New Mexico"	"35"	"2017"	"2017"	102	2092844	3.6	4.9
+	"Esophagus"	"21010"	"New Mexico"	"35"	"2019"	"2019"	97	2099634	3.4	4.6
+	"Esophagus"	"21010"	"New York"	"36"	"2017"	"2017"	878	19593849	3.5	4.5
+	"Esophagus"	"21010"	"New York"	"36"	"2019"	"2019"	826	19463131	3.2	4.2
+	"Esophagus"	"21010"	"North Carolina"	"37"	"2017"	"2017"	446	10275758	3.5	4.3
+	"Esophagus"	"21010"	"North Carolina"	"37"	"2019"	"2019"	467	10501384	3.5	4.4
+	"Esophagus"	"21010"	"North Dakota"	"38"	"2017"	"2017"	31	756755	3.3	4.1
+	"Esophagus"	"21010"	"North Dakota"	"38"	"2019"	"2019"	43	763724	4.6	5.6
+	"Esophagus"	"21010"	"Ohio"	"39"	"2017"	"2017"	723	11665706	4.7	6.2
+	"Esophagus"	"21010"	"Ohio"	"39"	"2019"	"2019"	830	11696507	5.4	7.1
+	"Esophagus"	"21010"	"Oklahoma"	"40"	"2017"	"2017"	186	3933602	3.9	4.7
+	"Esophagus"	"21010"	"Oklahoma"	"40"	"2019"	"2019"	205	3960676	4.2	5.2
+	"Esophagus"	"21010"	"Oregon"	"41"	"2017"	"2017"	248	4147294	4.6	6.0
+	"Esophagus"	"21010"	"Oregon"	"41"	"2019"	"2019"	237	4216116	4.2	5.6
+	"Esophagus"	"21010"	"Pennsylvania"	"42"	"2017"	"2017"	771	12794679	4.4	6.0
+	"Esophagus"	"21010"	"Pennsylvania"	"42"	"2019"	"2019"	812	12798883	4.4	6.3
+	"Esophagus"	"21010"	"Rhode Island"	"44"	"2017"	"2017"	50	1056554	3.5	4.7
+	"Esophagus"	"21010"	"Rhode Island"	"44"	"2019"	"2019"	52	1058158	3.7	4.9
+	"Esophagus"	"21010"	"South Carolina"	"45"	"2017"	"2017"	249	5027102	3.7	5.0
+	"Esophagus"	"21010"	"South Carolina"	"45"	"2019"	"2019"	264	5157702	3.7	5.1
+	"Esophagus"	"21010"	"South Dakota"	"46"	"2017"	"2017"	60	873732	5.8	6.9
+	"Esophagus"	"21010"	"South Dakota"	"46"	"2019"	"2019"	55	887127	4.8	6.2
+	"Esophagus"	"21010"	"Tennessee"	"47"	"2017"	"2017"	360	6714748	4.2	5.4
+	"Esophagus"	"21010"	"Tennessee"	"47"	"2019"	"2019"	400	6830325	4.5	5.9
+	"Esophagus"	"21010"	"Texas"	"48"	"2017"	"2017"	845	28291024	3.0	3.0
+	"Esophagus"	"21010"	"Texas"	"48"	"2019"	"2019"	988	28986794	3.3	3.4
+	"Esophagus"	"21010"	"Utah"	"49"	"2017"	"2017"	80	3103540	2.9	2.6
+	"Esophagus"	"21010"	"Utah"	"49"	"2019"	"2019"	81	3203383	2.8	2.5
+	"Esophagus"	"21010"	"Vermont"	"50"	"2017"	"2017"	49	625132	5.4	7.8
+	"Esophagus"	"21010"	"Vermont"	"50"	"2019"	"2019"	54	624046	5.6	8.7
+	"Esophagus"	"21010"	"Virginia"	"51"	"2017"	"2017"	393	8471011	3.9	4.6
+	"Esophagus"	"21010"	"Virginia"	"51"	"2019"	"2019"	422	8556642	3.9	4.9
+	"Esophagus"	"21010"	"Washington"	"53"	"2017"	"2017"	361	7427951	4.1	4.9
+	"Esophagus"	"21010"	"Washington"	"53"	"2019"	"2019"	371	7614024	4.0	4.9
+	"Esophagus"	"21010"	"West Virginia"	"54"	"2017"	"2017"	136	1818683	5.1	7.5
+	"Esophagus"	"21010"	"West Virginia"	"54"	"2019"	"2019"	144	1795263	5.3	8.0
+	"Esophagus"	"21010"	"Wisconsin"	"55"	"2017"	"2017"	330	5793147	4.4	5.7
+	"Esophagus"	"21010"	"Wisconsin"	"55"	"2019"	"2019"	359	5824581	4.6	6.2
+	"Esophagus"	"21010"	"Wyoming"	"56"	"2017"	"2017"	23	579994	3.0	4.0
+	"Esophagus"	"21010"	"Wyoming"	"56"	"2019"	"2019"	32	580116	4.4	5.5
+	"Gallbladder"	"21080"	"Alabama"	"01"	"2017"	"2017"	35	4877989	0.6	0.7
+	"Gallbladder"	"21080"	"Alabama"	"01"	"2019"	"2019"	25	4907965	0.4	0.5
+	"Gallbladder"	"21080"	"Arizona"	"04"	"2017"	"2017"	39	7048088	0.4	0.6
+	"Gallbladder"	"21080"	"Arizona"	"04"	"2019"	"2019"	48	7291843	0.5	0.7
+	"Gallbladder"	"21080"	"Arkansas"	"05"	"2017"	"2017"	17	3003855	0.5	0.6
+	"Gallbladder"	"21080"	"Arkansas"	"05"	"2019"	"2019"	22	3020985	0.5	0.7
+	"Gallbladder"	"21080"	"California"	"06"	"2017"	"2017"	296	39337785	0.7	0.8
+	"Gallbladder"	"21080"	"California"	"06"	"2019"	"2019"	274	39437610	0.6	0.7
+	"Gallbladder"	"21080"	"Colorado"	"08"	"2017"	"2017"	32	5617421	0.5	0.6
+	"Gallbladder"	"21080"	"Colorado"	"08"	"2019"	"2019"	21	5758486	0.3	0.4
+	"Gallbladder"	"21080"	"Connecticut"	"09"	"2017"	"2017"	16	3575324	0.3	0.4
+	"Gallbladder"	"21080"	"Connecticut"	"09"	"2019"	"2019"	19	3566022	0.4	0.5
+	"Gallbladder"	"21080"	"Florida"	"12"	"2017"	"2017"	150	20977089	0.5	0.7
+	"Gallbladder"	"21080"	"Florida"	"12"	"2019"	"2019"	128	21492056	0.4	0.6
+	"Gallbladder"	"21080"	"Georgia"	"13"	"2017"	"2017"	60	10417031	0.6	0.6
+	"Gallbladder"	"21080"	"Georgia"	"13"	"2019"	"2019"	66	10628020	0.5	0.6
+	"Gallbladder"	"21080"	"Illinois"	"17"	"2017"	"2017"	108	12779893	0.7	0.8
+	"Gallbladder"	"21080"	"Illinois"	"17"	"2019"	"2019"	96	12667017	0.6	0.8
+	"Gallbladder"	"21080"	"Indiana"	"18"	"2017"	"2017"	51	6662068	0.6	0.8
+	"Gallbladder"	"21080"	"Indiana"	"18"	"2019"	"2019"	45	6731010	0.6	0.7
+	"Gallbladder"	"21080"	"Iowa"	"19"	"2017"	"2017"	25	3143734	0.6	0.8
+	"Gallbladder"	"21080"	"Iowa"	"19"	"2019"	"2019"	27	3159596	0.6	0.9
+	"Gallbladder"	"21080"	"Kentucky"	"21"	"2017"	"2017"	25	4455590	0.5	0.6
+	"Gallbladder"	"21080"	"Kentucky"	"21"	"2019"	"2019"	18	4472345	0.3	0.4
+	"Gallbladder"	"21080"	"Louisiana"	"22"	"2017"	"2017"	32	4673673	0.6	0.7
+	"Gallbladder"	"21080"	"Louisiana"	"22"	"2019"	"2019"	41	4658285	0.7	0.9
+	"Gallbladder"	"21080"	"Maryland"	"24"	"2017"	"2017"	34	6028186	0.5	0.6
+	"Gallbladder"	"21080"	"Maryland"	"24"	"2019"	"2019"	31	6054954	0.4	0.5
+	"Gallbladder"	"21080"	"Massachusetts"	"25"	"2017"	"2017"	64	6863560	0.8	0.9
+	"Gallbladder"	"21080"	"Massachusetts"	"25"	"2019"	"2019"	57	6894883	0.6	0.8
+	"Gallbladder"	"21080"	"Michigan"	"26"	"2017"	"2017"	39	9976752	0.3	0.4
+	"Gallbladder"	"21080"	"Michigan"	"26"	"2019"	"2019"	71	9984795	0.5	0.7
+	"Gallbladder"	"21080"	"Minnesota"	"27"	"2017"	"2017"	32	5569283	0.5	0.6
+	"Gallbladder"	"21080"	"Minnesota"	"27"	"2019"	"2019"	33	5640053	0.4	0.6
+	"Gallbladder"	"21080"	"Mississippi"	"28"	"2017"	"2017"	21	2990674	0.6	0.7
+	"Gallbladder"	"21080"	"Missouri"	"29"	"2017"	"2017"	41	6111382	0.5	0.7
+	"Gallbladder"	"21080"	"Missouri"	"29"	"2019"	"2019"	45	6140475	0.6	0.7
+	"Gallbladder"	"21080"	"Nebraska"	"31"	"2017"	"2017"	21	1916998	1.0	1.1
+	"Gallbladder"	"21080"	"New Hampshire"	"33"	"2017"	"2017"	17	1350395	0.9	1.3
+	"Gallbladder"	"21080"	"New Jersey"	"34"	"2017"	"2017"	58	8888147	0.5	0.7
+	"Gallbladder"	"21080"	"New Jersey"	"34"	"2019"	"2019"	43	8891258	0.4	0.5
+	"Gallbladder"	"21080"	"New Mexico"	"35"	"2017"	"2017"	17	2092844	0.7	0.8
+	"Gallbladder"	"21080"	"New York"	"36"	"2017"	"2017"	170	19593849	0.7	0.9
+	"Gallbladder"	"21080"	"New York"	"36"	"2019"	"2019"	174	19463131	0.7	0.9
+	"Gallbladder"	"21080"	"North Carolina"	"37"	"2017"	"2017"	86	10275758	0.7	0.8
+	"Gallbladder"	"21080"	"North Carolina"	"37"	"2019"	"2019"	70	10501384	0.5	0.7
+	"Gallbladder"	"21080"	"Ohio"	"39"	"2017"	"2017"	81	11665706	0.5	0.7
+	"Gallbladder"	"21080"	"Ohio"	"39"	"2019"	"2019"	82	11696507	0.5	0.7
+	"Gallbladder"	"21080"	"Oklahoma"	"40"	"2017"	"2017"	21	3933602	0.5	0.5
+	"Gallbladder"	"21080"	"Oklahoma"	"40"	"2019"	"2019"	17	3960676	0.3	0.4
+	"Gallbladder"	"21080"	"Oregon"	"41"	"2017"	"2017"	22	4147294	0.4	0.5
+	"Gallbladder"	"21080"	"Oregon"	"41"	"2019"	"2019"	37	4216116	0.7	0.9
+	"Gallbladder"	"21080"	"Pennsylvania"	"42"	"2017"	"2017"	95	12794679	0.5	0.7
+	"Gallbladder"	"21080"	"Pennsylvania"	"42"	"2019"	"2019"	89	12798883	0.5	0.7
+	"Gallbladder"	"21080"	"South Carolina"	"45"	"2017"	"2017"	32	5027102	0.5	0.6
+	"Gallbladder"	"21080"	"South Carolina"	"45"	"2019"	"2019"	26	5157702	0.4	0.5
+	"Gallbladder"	"21080"	"Tennessee"	"47"	"2017"	"2017"	38	6714748	0.5	0.6
+	"Gallbladder"	"21080"	"Tennessee"	"47"	"2019"	"2019"	33	6830325	0.4	0.5
+	"Gallbladder"	"21080"	"Texas"	"48"	"2017"	"2017"	157	28291024	0.6	0.6
+	"Gallbladder"	"21080"	"Texas"	"48"	"2019"	"2019"	190	28986794	0.6	0.7
+	"Gallbladder"	"21080"	"Virginia"	"51"	"2017"	"2017"	62	8471011	0.6	0.7
+	"Gallbladder"	"21080"	"Virginia"	"51"	"2019"	"2019"	59	8556642	0.6	0.7
+	"Gallbladder"	"21080"	"Washington"	"53"	"2017"	"2017"	49	7427951	0.6	0.7
+	"Gallbladder"	"21080"	"Washington"	"53"	"2019"	"2019"	49	7614024	0.5	0.6
+	"Gallbladder"	"21080"	"Wisconsin"	"55"	"2017"	"2017"	38	5793147	0.5	0.7
+	"Gallbladder"	"21080"	"Wisconsin"	"55"	"2019"	"2019"	38	5824581	0.5	0.7
+	"Kidney and Renal Pelvis"	"29020"	"Alabama"	"01"	"2017"	"2017"	239	4877989	3.8	4.9
+	"Kidney and Renal Pelvis"	"29020"	"Alabama"	"01"	"2019"	"2019"	222	4907965	3.4	4.5
+	"Kidney and Renal Pelvis"	"29020"	"Alaska"	"02"	"2017"	"2017"	22	740983	3.7	3.0
+	"Kidney and Renal Pelvis"	"29020"	"Alaska"	"02"	"2019"	"2019"	22	733603	3.3	3.0
+	"Kidney and Renal Pelvis"	"29020"	"Arizona"	"04"	"2017"	"2017"	327	7048088	3.7	4.6
+	"Kidney and Renal Pelvis"	"29020"	"Arizona"	"04"	"2019"	"2019"	308	7291843	3.3	4.2
+	"Kidney and Renal Pelvis"	"29020"	"Arkansas"	"05"	"2017"	"2017"	177	3003855	4.7	5.9
+	"Kidney and Renal Pelvis"	"29020"	"Arkansas"	"05"	"2019"	"2019"	176	3020985	4.4	5.8
+	"Kidney and Renal Pelvis"	"29020"	"California"	"06"	"2017"	"2017"	1420	39337785	3.3	3.6
+	"Kidney and Renal Pelvis"	"29020"	"California"	"06"	"2019"	"2019"	1384	39437610	3.0	3.5
+	"Kidney and Renal Pelvis"	"29020"	"Colorado"	"08"	"2017"	"2017"	162	5617421	2.7	2.9
+	"Kidney and Renal Pelvis"	"29020"	"Colorado"	"08"	"2019"	"2019"	179	5758486	2.8	3.1
+	"Kidney and Renal Pelvis"	"29020"	"Connecticut"	"09"	"2017"	"2017"	146	3575324	3.2	4.1
+	"Kidney and Renal Pelvis"	"29020"	"Connecticut"	"09"	"2019"	"2019"	119	3566022	2.4	3.3
+	"Kidney and Renal Pelvis"	"29020"	"Delaware"	"10"	"2017"	"2017"	46	957942	3.6	4.8
+	"Kidney and Renal Pelvis"	"29020"	"Delaware"	"10"	"2019"	"2019"	46	976668	3.3	4.7
+	"Kidney and Renal Pelvis"	"29020"	"Florida"	"12"	"2017"	"2017"	966	20977089	3.1	4.6
+	"Kidney and Renal Pelvis"	"29020"	"Florida"	"12"	"2019"	"2019"	987	21492056	3.0	4.6
+	"Kidney and Renal Pelvis"	"29020"	"Georgia"	"13"	"2017"	"2017"	402	10417031	3.6	3.9
+	"Kidney and Renal Pelvis"	"29020"	"Georgia"	"13"	"2019"	"2019"	404	10628020	3.5	3.8
+	"Kidney and Renal Pelvis"	"29020"	"Hawaii"	"15"	"2017"	"2017"	44	1425763	2.4	3.1
+	"Kidney and Renal Pelvis"	"29020"	"Hawaii"	"15"	"2019"	"2019"	53	1415615	2.6	3.7
+	"Kidney and Renal Pelvis"	"29020"	"Idaho"	"16"	"2017"	"2017"	83	1719745	4.2	4.8
+	"Kidney and Renal Pelvis"	"29020"	"Idaho"	"16"	"2019"	"2019"	65	1789060	3.0	3.6
+	"Kidney and Renal Pelvis"	"29020"	"Illinois"	"17"	"2017"	"2017"	548	12779893	3.6	4.3
+	"Kidney and Renal Pelvis"	"29020"	"Illinois"	"17"	"2019"	"2019"	547	12667017	3.5	4.3
+	"Kidney and Renal Pelvis"	"29020"	"Indiana"	"18"	"2017"	"2017"	336	6662068	4.3	5.0
+	"Kidney and Renal Pelvis"	"29020"	"Indiana"	"18"	"2019"	"2019"	294	6731010	3.6	4.4
+	"Kidney and Renal Pelvis"	"29020"	"Iowa"	"19"	"2017"	"2017"	181	3143734	4.4	5.8
+	"Kidney and Renal Pelvis"	"29020"	"Iowa"	"19"	"2019"	"2019"	163	3159596	3.8	5.2
+	"Kidney and Renal Pelvis"	"29020"	"Kansas"	"20"	"2017"	"2017"	156	2910892	4.6	5.4
+	"Kidney and Renal Pelvis"	"29020"	"Kansas"	"20"	"2019"	"2019"	134	2912635	3.6	4.6
+	"Kidney and Renal Pelvis"	"29020"	"Kentucky"	"21"	"2017"	"2017"	230	4455590	4.2	5.2
+	"Kidney and Renal Pelvis"	"29020"	"Kentucky"	"21"	"2019"	"2019"	254	4472345	4.5	5.7
+	"Kidney and Renal Pelvis"	"29020"	"Louisiana"	"22"	"2017"	"2017"	250	4673673	4.5	5.3
+	"Kidney and Renal Pelvis"	"29020"	"Louisiana"	"22"	"2019"	"2019"	255	4658285	4.5	5.5
+	"Kidney and Renal Pelvis"	"29020"	"Maine"	"23"	"2017"	"2017"	70	1335743	3.5	5.2
+	"Kidney and Renal Pelvis"	"29020"	"Maine"	"23"	"2019"	"2019"	66	1345770	3.2	4.9
+	"Kidney and Renal Pelvis"	"29020"	"Maryland"	"24"	"2017"	"2017"	212	6028186	3.0	3.5
+	"Kidney and Renal Pelvis"	"29020"	"Maryland"	"24"	"2019"	"2019"	252	6054954	3.4	4.2
+	"Kidney and Renal Pelvis"	"29020"	"Massachusetts"	"25"	"2017"	"2017"	244	6863560	2.8	3.6
+	"Kidney and Renal Pelvis"	"29020"	"Massachusetts"	"25"	"2019"	"2019"	241	6894883	2.7	3.5
+	"Kidney and Renal Pelvis"	"29020"	"Michigan"	"26"	"2017"	"2017"	468	9976752	3.7	4.7
+	"Kidney and Renal Pelvis"	"29020"	"Michigan"	"26"	"2019"	"2019"	478	9984795	3.5	4.8
+	"Kidney and Renal Pelvis"	"29020"	"Minnesota"	"27"	"2017"	"2017"	234	5569283	3.4	4.2
+	"Kidney and Renal Pelvis"	"29020"	"Minnesota"	"27"	"2019"	"2019"	276	5640053	3.9	4.9
+	"Kidney and Renal Pelvis"	"29020"	"Mississippi"	"28"	"2017"	"2017"	160	2990674	4.4	5.3
+	"Kidney and Renal Pelvis"	"29020"	"Mississippi"	"28"	"2019"	"2019"	166	2978227	4.5	5.6
+	"Kidney and Renal Pelvis"	"29020"	"Missouri"	"29"	"2017"	"2017"	339	6111382	4.4	5.5
+	"Kidney and Renal Pelvis"	"29020"	"Missouri"	"29"	"2019"	"2019"	304	6140475	3.8	5.0
+	"Kidney and Renal Pelvis"	"29020"	"Montana"	"30"	"2017"	"2017"	49	1053862	3.3	4.6
+	"Kidney and Renal Pelvis"	"29020"	"Montana"	"30"	"2019"	"2019"	64	1070123	4.3	6.0
+	"Kidney and Renal Pelvis"	"29020"	"Nebraska"	"31"	"2017"	"2017"	111	1916998	4.8	5.8
+	"Kidney and Renal Pelvis"	"29020"	"Nebraska"	"31"	"2019"	"2019"	104	1932571	4.4	5.4
+	"Kidney and Renal Pelvis"	"29020"	"Nevada"	"32"	"2017"	"2017"	120	2972097	3.6	4.0
+	"Kidney and Renal Pelvis"	"29020"	"Nevada"	"32"	"2019"	"2019"	119	3090771	3.2	3.9
+	"Kidney and Renal Pelvis"	"29020"	"New Hampshire"	"33"	"2017"	"2017"	58	1350395	3.2	4.3
+	"Kidney and Renal Pelvis"	"29020"	"New Hampshire"	"33"	"2019"	"2019"	64	1360783	3.3	4.7
+	"Kidney and Renal Pelvis"	"29020"	"New Jersey"	"34"	"2017"	"2017"	322	8888147	2.8	3.6
+	"Kidney and Renal Pelvis"	"29020"	"New Jersey"	"34"	"2019"	"2019"	306	8891258	2.7	3.4
+	"Kidney and Renal Pelvis"	"29020"	"New Mexico"	"35"	"2017"	"2017"	96	2092844	3.6	4.6
+	"Kidney and Renal Pelvis"	"29020"	"New Mexico"	"35"	"2019"	"2019"	121	2099634	4.5	5.8
+	"Kidney and Renal Pelvis"	"29020"	"New York"	"36"	"2017"	"2017"	678	19593849	2.8	3.5
+	"Kidney and Renal Pelvis"	"29020"	"New York"	"36"	"2019"	"2019"	642	19463131	2.5	3.3
+	"Kidney and Renal Pelvis"	"29020"	"North Carolina"	"37"	"2017"	"2017"	459	10275758	3.7	4.5
+	"Kidney and Renal Pelvis"	"29020"	"North Carolina"	"37"	"2019"	"2019"	501	10501384	3.8	4.8
+	"Kidney and Renal Pelvis"	"29020"	"North Dakota"	"38"	"2017"	"2017"	27	756755	3.1	3.6
+	"Kidney and Renal Pelvis"	"29020"	"North Dakota"	"38"	"2019"	"2019"	27	763724	2.7	3.5
+	"Kidney and Renal Pelvis"	"29020"	"Ohio"	"39"	"2017"	"2017"	598	11665706	4.0	5.1
+	"Kidney and Renal Pelvis"	"29020"	"Ohio"	"39"	"2019"	"2019"	566	11696507	3.7	4.8
+	"Kidney and Renal Pelvis"	"29020"	"Oklahoma"	"40"	"2017"	"2017"	229	3933602	4.8	5.8
+	"Kidney and Renal Pelvis"	"29020"	"Oklahoma"	"40"	"2019"	"2019"	204	3960676	4.2	5.2
+	"Kidney and Renal Pelvis"	"29020"	"Oregon"	"41"	"2017"	"2017"	190	4147294	3.6	4.6
+	"Kidney and Renal Pelvis"	"29020"	"Oregon"	"41"	"2019"	"2019"	207	4216116	3.6	4.9
+	"Kidney and Renal Pelvis"	"29020"	"Pennsylvania"	"42"	"2017"	"2017"	621	12794679	3.5	4.9
+	"Kidney and Renal Pelvis"	"29020"	"Pennsylvania"	"42"	"2019"	"2019"	607	12798883	3.4	4.7
+	"Kidney and Renal Pelvis"	"29020"	"Rhode Island"	"44"	"2017"	"2017"	50	1056554	3.7	4.7
+	"Kidney and Renal Pelvis"	"29020"	"Rhode Island"	"44"	"2019"	"2019"	41	1058158	2.8	3.9
+	"Kidney and Renal Pelvis"	"29020"	"South Carolina"	"45"	"2017"	"2017"	210	5027102	3.3	4.2
+	"Kidney and Renal Pelvis"	"29020"	"South Carolina"	"45"	"2019"	"2019"	249	5157702	3.6	4.8
+	"Kidney and Renal Pelvis"	"29020"	"South Dakota"	"46"	"2017"	"2017"	43	873732	3.9	4.9
+	"Kidney and Renal Pelvis"	"29020"	"South Dakota"	"46"	"2019"	"2019"	64	887127	5.3	7.2
+	"Kidney and Renal Pelvis"	"29020"	"Tennessee"	"47"	"2017"	"2017"	338	6714748	4.1	5.0
+	"Kidney and Renal Pelvis"	"29020"	"Tennessee"	"47"	"2019"	"2019"	329	6830325	3.9	4.8
+	"Kidney and Renal Pelvis"	"29020"	"Texas"	"48"	"2017"	"2017"	1133	28291024	4.0	4.0
+	"Kidney and Renal Pelvis"	"29020"	"Texas"	"48"	"2019"	"2019"	1169	28986794	4.0	4.0
+	"Kidney and Renal Pelvis"	"29020"	"Utah"	"49"	"2017"	"2017"	79	3103540	3.0	2.5
+	"Kidney and Renal Pelvis"	"29020"	"Utah"	"49"	"2019"	"2019"	80	3203383	2.9	2.5
+	"Kidney and Renal Pelvis"	"29020"	"Vermont"	"50"	"2017"	"2017"	37	625132	4.4	5.9
+	"Kidney and Renal Pelvis"	"29020"	"Vermont"	"50"	"2019"	"2019"	38	624046	3.8	6.1
+	"Kidney and Renal Pelvis"	"29020"	"Virginia"	"51"	"2017"	"2017"	312	8471011	3.1	3.7
+	"Kidney and Renal Pelvis"	"29020"	"Virginia"	"51"	"2019"	"2019"	361	8556642	3.4	4.2
+	"Kidney and Renal Pelvis"	"29020"	"Washington"	"53"	"2017"	"2017"	285	7427951	3.3	3.8
+	"Kidney and Renal Pelvis"	"29020"	"Washington"	"53"	"2019"	"2019"	311	7614024	3.5	4.1
+	"Kidney and Renal Pelvis"	"29020"	"West Virginia"	"54"	"2017"	"2017"	115	1818683	4.5	6.3
+	"Kidney and Renal Pelvis"	"29020"	"West Virginia"	"54"	"2019"	"2019"	115	1795263	4.4	6.4
+	"Kidney and Renal Pelvis"	"29020"	"Wisconsin"	"55"	"2017"	"2017"	285	5793147	3.9	4.9
+	"Kidney and Renal Pelvis"	"29020"	"Wisconsin"	"55"	"2019"	"2019"	289	5824581	3.7	5.0
+	"Kidney and Renal Pelvis"	"29020"	"Wyoming"	"56"	"2017"	"2017"	37	579994	5.2	6.4
+	"Kidney and Renal Pelvis"	"29020"	"Wyoming"	"56"	"2019"	"2019"	34	580116	4.3	5.9
+	"Larynx"	"22020"	"Alabama"	"01"	"2017"	"2017"	75	4877989	1.1	1.5
+	"Larynx"	"22020"	"Alabama"	"01"	"2019"	"2019"	78	4907965	1.2	1.6
+	"Larynx"	"22020"	"Arizona"	"04"	"2017"	"2017"	70	7048088	0.7	1.0
+	"Larynx"	"22020"	"Arizona"	"04"	"2019"	"2019"	57	7291843	0.6	0.8
+	"Larynx"	"22020"	"Arkansas"	"05"	"2017"	"2017"	48	3003855	1.2	1.6
+	"Larynx"	"22020"	"Arkansas"	"05"	"2019"	"2019"	45	3020985	1.1	1.5
+	"Larynx"	"22020"	"California"	"06"	"2017"	"2017"	249	39337785	0.6	0.6
+	"Larynx"	"22020"	"California"	"06"	"2019"	"2019"	284	39437610	0.6	0.7
+	"Larynx"	"22020"	"Colorado"	"08"	"2017"	"2017"	35	5617421	0.6	0.6
+	"Larynx"	"22020"	"Colorado"	"08"	"2019"	"2019"	34	5758486	0.5	0.6
+	"Larynx"	"22020"	"Connecticut"	"09"	"2017"	"2017"	40	3575324	0.9	1.1
+	"Larynx"	"22020"	"Connecticut"	"09"	"2019"	"2019"	28	3566022	0.6	0.8
+	"Larynx"	"22020"	"Delaware"	"10"	"2019"	"2019"	17	976668	1.1	1.7
+	"Larynx"	"22020"	"Florida"	"12"	"2017"	"2017"	355	20977089	1.2	1.7
+	"Larynx"	"22020"	"Florida"	"12"	"2019"	"2019"	332	21492056	1.0	1.5
+	"Larynx"	"22020"	"Georgia"	"13"	"2017"	"2017"	122	10417031	1.1	1.2
+	"Larynx"	"22020"	"Georgia"	"13"	"2019"	"2019"	125	10628020	1.0	1.2
+	"Larynx"	"22020"	"Illinois"	"17"	"2017"	"2017"	152	12779893	1.0	1.2
+	"Larynx"	"22020"	"Illinois"	"17"	"2019"	"2019"	179	12667017	1.1	1.4
+	"Larynx"	"22020"	"Indiana"	"18"	"2017"	"2017"	79	6662068	1.0	1.2
+	"Larynx"	"22020"	"Indiana"	"18"	"2019"	"2019"	85	6731010	1.0	1.3
+	"Larynx"	"22020"	"Iowa"	"19"	"2017"	"2017"	42	3143734	1.0	1.3
+	"Larynx"	"22020"	"Iowa"	"19"	"2019"	"2019"	36	3159596	0.9	1.1
+	"Larynx"	"22020"	"Kansas"	"20"	"2017"	"2017"	20	2910892	0.6	0.7
+	"Larynx"	"22020"	"Kansas"	"20"	"2019"	"2019"	34	2912635	0.9	1.2
+	"Larynx"	"22020"	"Kentucky"	"21"	"2017"	"2017"	81	4455590	1.4	1.8
+	"Larynx"	"22020"	"Kentucky"	"21"	"2019"	"2019"	75	4472345	1.3	1.7
+	"Larynx"	"22020"	"Louisiana"	"22"	"2017"	"2017"	68	4673673	1.2	1.5
+	"Larynx"	"22020"	"Louisiana"	"22"	"2019"	"2019"	78	4658285	1.3	1.7
+	"Larynx"	"22020"	"Maine"	"23"	"2017"	"2017"	25	1335743	1.3	1.9
+	"Larynx"	"22020"	"Maryland"	"24"	"2017"	"2017"	58	6028186	0.8	1.0
+	"Larynx"	"22020"	"Maryland"	"24"	"2019"	"2019"	77	6054954	1.0	1.3
+	"Larynx"	"22020"	"Massachusetts"	"25"	"2017"	"2017"	70	6863560	0.8	1.0
+	"Larynx"	"22020"	"Massachusetts"	"25"	"2019"	"2019"	64	6894883	0.7	0.9
+	"Larynx"	"22020"	"Michigan"	"26"	"2017"	"2017"	159	9976752	1.2	1.6
+	"Larynx"	"22020"	"Michigan"	"26"	"2019"	"2019"	136	9984795	1.0	1.4
+	"Larynx"	"22020"	"Minnesota"	"27"	"2017"	"2017"	37	5569283	0.5	0.7
+	"Larynx"	"22020"	"Minnesota"	"27"	"2019"	"2019"	54	5640053	0.7	1.0
+	"Larynx"	"22020"	"Mississippi"	"28"	"2017"	"2017"	47	2990674	1.3	1.6
+	"Larynx"	"22020"	"Mississippi"	"28"	"2019"	"2019"	49	2978227	1.2	1.6
+	"Larynx"	"22020"	"Missouri"	"29"	"2017"	"2017"	89	6111382	1.1	1.5
+	"Larynx"	"22020"	"Missouri"	"29"	"2019"	"2019"	90	6140475	1.1	1.5
+	"Larynx"	"22020"	"Nebraska"	"31"	"2017"	"2017"	28	1916998	1.2	1.5
+	"Larynx"	"22020"	"Nebraska"	"31"	"2019"	"2019"	28	1932571	1.2	1.4
+	"Larynx"	"22020"	"Nevada"	"32"	"2017"	"2017"	23	2972097	0.6	0.8
+	"Larynx"	"22020"	"Nevada"	"32"	"2019"	"2019"	35	3090771	0.9	1.1
+	"Larynx"	"22020"	"New Hampshire"	"33"	"2019"	"2019"	18	1360783	0.9	1.3
+	"Larynx"	"22020"	"New Jersey"	"34"	"2017"	"2017"	88	8888147	0.8	1.0
+	"Larynx"	"22020"	"New Jersey"	"34"	"2019"	"2019"	118	8891258	1.0	1.3
+	"Larynx"	"22020"	"New Mexico"	"35"	"2017"	"2017"	20	2092844	0.8	1.0
+	"Larynx"	"22020"	"New Mexico"	"35"	"2019"	"2019"	28	2099634	1.0	1.3
+	"Larynx"	"22020"	"New York"	"36"	"2017"	"2017"	204	19593849	0.8	1.0
+	"Larynx"	"22020"	"New York"	"36"	"2019"	"2019"	194	19463131	0.7	1.0
+	"Larynx"	"22020"	"North Carolina"	"37"	"2017"	"2017"	137	10275758	1.1	1.3
+	"Larynx"	"22020"	"North Carolina"	"37"	"2019"	"2019"	127	10501384	0.9	1.2
+	"Larynx"	"22020"	"Ohio"	"39"	"2017"	"2017"	187	11665706	1.2	1.6
+	"Larynx"	"22020"	"Ohio"	"39"	"2019"	"2019"	179	11696507	1.1	1.5
+	"Larynx"	"22020"	"Oklahoma"	"40"	"2017"	"2017"	44	3933602	0.9	1.1
+	"Larynx"	"22020"	"Oklahoma"	"40"	"2019"	"2019"	53	3960676	1.1	1.3
+	"Larynx"	"22020"	"Oregon"	"41"	"2017"	"2017"	27	4147294	0.5	0.7
+	"Larynx"	"22020"	"Oregon"	"41"	"2019"	"2019"	31	4216116	0.5	0.7
+	"Larynx"	"22020"	"Pennsylvania"	"42"	"2017"	"2017"	183	12794679	1.0	1.4
+	"Larynx"	"22020"	"Pennsylvania"	"42"	"2019"	"2019"	185	12798883	1.0	1.4
+	"Larynx"	"22020"	"South Carolina"	"45"	"2017"	"2017"	95	5027102	1.4	1.9
+	"Larynx"	"22020"	"South Carolina"	"45"	"2019"	"2019"	71	5157702	1.0	1.4
+	"Larynx"	"22020"	"Tennessee"	"47"	"2017"	"2017"	106	6714748	1.2	1.6
+	"Larynx"	"22020"	"Tennessee"	"47"	"2019"	"2019"	122	6830325	1.4	1.8
+	"Larynx"	"22020"	"Texas"	"48"	"2017"	"2017"	237	28291024	0.8	0.8
+	"Larynx"	"22020"	"Texas"	"48"	"2019"	"2019"	285	28986794	0.9	1.0
+	"Larynx"	"22020"	"Virginia"	"51"	"2017"	"2017"	101	8471011	1.0	1.2
+	"Larynx"	"22020"	"Virginia"	"51"	"2019"	"2019"	81	8556642	0.7	0.9
+	"Larynx"	"22020"	"Washington"	"53"	"2017"	"2017"	60	7427951	0.7	0.8
+	"Larynx"	"22020"	"Washington"	"53"	"2019"	"2019"	60	7614024	0.6	0.8
+	"Larynx"	"22020"	"West Virginia"	"54"	"2017"	"2017"	51	1818683	1.9	2.8
+	"Larynx"	"22020"	"West Virginia"	"54"	"2019"	"2019"	42	1795263	1.5	2.3
+	"Larynx"	"22020"	"Wisconsin"	"55"	"2017"	"2017"	77	5793147	1.0	1.3
+	"Larynx"	"22020"	"Wisconsin"	"55"	"2019"	"2019"	71	5824581	0.9	1.2
+	"Leukemias"	"35011-35043"	"Alabama"	"01"	"2017"	"2017"	354	4877989	6.0	7.3
+	"Leukemias"	"35011-35043"	"Alabama"	"01"	"2019"	"2019"	348	4907965	5.7	7.1
+	"Leukemias"	"35011-35043"	"Alaska"	"02"	"2017"	"2017"	30	740983	4.6	4.0
+	"Leukemias"	"35011-35043"	"Alaska"	"02"	"2019"	"2019"	35	733603	5.4	4.8
+	"Leukemias"	"35011-35043"	"Arizona"	"04"	"2017"	"2017"	501	7048088	5.9	7.1
+	"Leukemias"	"35011-35043"	"Arizona"	"04"	"2019"	"2019"	548	7291843	5.9	7.5
+	"Leukemias"	"35011-35043"	"Arkansas"	"05"	"2017"	"2017"	236	3003855	6.4	7.9
+	"Leukemias"	"35011-35043"	"Arkansas"	"05"	"2019"	"2019"	211	3020985	5.6	7.0
+	"Leukemias"	"35011-35043"	"California"	"06"	"2017"	"2017"	2379	39337785	5.7	6.0
+	"Leukemias"	"35011-35043"	"California"	"06"	"2019"	"2019"	2361	39437610	5.4	6.0
+	"Leukemias"	"35011-35043"	"Colorado"	"08"	"2017"	"2017"	318	5617421	5.4	5.7
+	"Leukemias"	"35011-35043"	"Colorado"	"08"	"2019"	"2019"	345	5758486	5.6	6.0
+	"Leukemias"	"35011-35043"	"Connecticut"	"09"	"2017"	"2017"	270	3575324	5.9	7.6
+	"Leukemias"	"35011-35043"	"Connecticut"	"09"	"2019"	"2019"	285	3566022	6.0	8.0
+	"Leukemias"	"35011-35043"	"Delaware"	"10"	"2017"	"2017"	88	957942	6.7	9.2
+	"Leukemias"	"35011-35043"	"Delaware"	"10"	"2019"	"2019"	84	976668	6.3	8.6
+	"Leukemias"	"35011-35043"	"District of Columbia"	"11"	"2017"	"2017"	37	697079	5.4	5.3
+	"Leukemias"	"35011-35043"	"District of Columbia"	"11"	"2019"	"2019"	21	708253	3.2	3.0
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2017"	"2017"	1876	20977089	6.2	8.9
+	"Leukemias"	"35011-35043"	"Florida"	"12"	"2019"	"2019"	1822	21492056	5.6	8.5
+	"Leukemias"	"35011-35043"	"Georgia"	"13"	"2017"	"2017"	633	10417031	6.0	6.1
+	"Leukemias"	"35011-35043"	"Georgia"	"13"	"2019"	"2019"	600	10628020	5.4	5.6
+	"Leukemias"	"35011-35043"	"Hawaii"	"15"	"2017"	"2017"	96	1425763	5.0	6.7
+	"Leukemias"	"35011-35043"	"Hawaii"	"15"	"2019"	"2019"	74	1415615	3.8	5.2
+	"Leukemias"	"35011-35043"	"Idaho"	"16"	"2017"	"2017"	131	1719745	6.9	7.6
+	"Leukemias"	"35011-35043"	"Idaho"	"16"	"2019"	"2019"	126	1789060	6.2	7.0
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"2017"	"2017"	939	12779893	6.4	7.3
+	"Leukemias"	"35011-35043"	"Illinois"	"17"	"2019"	"2019"	908	12667017	5.9	7.2
+	"Leukemias"	"35011-35043"	"Indiana"	"18"	"2017"	"2017"	513	6662068	6.6	7.7
+	"Leukemias"	"35011-35043"	"Indiana"	"18"	"2019"	"2019"	533	6731010	6.7	7.9
+	"Leukemias"	"35011-35043"	"Iowa"	"19"	"2017"	"2017"	277	3143734	7.0	8.8
+	"Leukemias"	"35011-35043"	"Iowa"	"19"	"2019"	"2019"	252	3159596	6.1	8.0
+	"Leukemias"	"35011-35043"	"Kansas"	"20"	"2017"	"2017"	247	2910892	7.2	8.5
+	"Leukemias"	"35011-35043"	"Kansas"	"20"	"2019"	"2019"	237	2912635	6.6	8.1
+	"Leukemias"	"35011-35043"	"Kentucky"	"21"	"2017"	"2017"	362	4455590	6.9	8.1
+	"Leukemias"	"35011-35043"	"Kentucky"	"21"	"2019"	"2019"	364	4472345	6.7	8.1
+	"Leukemias"	"35011-35043"	"Louisiana"	"22"	"2017"	"2017"	323	4673673	6.3	6.9
+	"Leukemias"	"35011-35043"	"Louisiana"	"22"	"2019"	"2019"	332	4658285	6.2	7.1
+	"Leukemias"	"35011-35043"	"Maine"	"23"	"2017"	"2017"	128	1335743	6.9	9.6
+	"Leukemias"	"35011-35043"	"Maine"	"23"	"2019"	"2019"	128	1345770	6.3	9.5
+	"Leukemias"	"35011-35043"	"Maryland"	"24"	"2017"	"2017"	420	6028186	6.1	7.0
+	"Leukemias"	"35011-35043"	"Maryland"	"24"	"2019"	"2019"	437	6054954	6.0	7.2
+	"Leukemias"	"35011-35043"	"Massachusetts"	"25"	"2017"	"2017"	510	6863560	6.0	7.4
+	"Leukemias"	"35011-35043"	"Massachusetts"	"25"	"2019"	"2019"	476	6894883	5.3	6.9
+	"Leukemias"	"35011-35043"	"Michigan"	"26"	"2017"	"2017"	816	9976752	6.6	8.2
+	"Leukemias"	"35011-35043"	"Michigan"	"26"	"2019"	"2019"	819	9984795	6.3	8.2
+	"Leukemias"	"35011-35043"	"Minnesota"	"27"	"2017"	"2017"	443	5569283	6.7	8.0
+	"Leukemias"	"35011-35043"	"Minnesota"	"27"	"2019"	"2019"	430	5640053	6.2	7.6
+	"Leukemias"	"35011-35043"	"Mississippi"	"28"	"2017"	"2017"	228	2990674	6.8	7.6
+	"Leukemias"	"35011-35043"	"Mississippi"	"28"	"2019"	"2019"	246	2978227	7.0	8.3
+	"Leukemias"	"35011-35043"	"Missouri"	"29"	"2017"	"2017"	489	6111382	6.6	8.0
+	"Leukemias"	"35011-35043"	"Missouri"	"29"	"2019"	"2019"	469	6140475	5.9	7.6
+	"Leukemias"	"35011-35043"	"Montana"	"30"	"2017"	"2017"	79	1053862	5.9	7.5
+	"Leukemias"	"35011-35043"	"Montana"	"30"	"2019"	"2019"	86	1070123	5.9	8.0
+	"Leukemias"	"35011-35043"	"Nebraska"	"31"	"2017"	"2017"	151	1916998	6.5	7.9
+	"Leukemias"	"35011-35043"	"Nebraska"	"31"	"2019"	"2019"	154	1932571	6.4	8.0
+	"Leukemias"	"35011-35043"	"Nevada"	"32"	"2017"	"2017"	188	2972097	5.8	6.3
+	"Leukemias"	"35011-35043"	"Nevada"	"32"	"2019"	"2019"	215	3090771	6.2	7.0
+	"Leukemias"	"35011-35043"	"New Hampshire"	"33"	"2017"	"2017"	97	1350395	5.5	7.2
+	"Leukemias"	"35011-35043"	"New Hampshire"	"33"	"2019"	"2019"	105	1360783	5.7	7.7
+	"Leukemias"	"35011-35043"	"New Jersey"	"34"	"2017"	"2017"	699	8888147	6.5	7.9
+	"Leukemias"	"35011-35043"	"New Jersey"	"34"	"2019"	"2019"	617	8891258	5.5	6.9
+	"Leukemias"	"35011-35043"	"New Mexico"	"35"	"2017"	"2017"	121	2092844	4.8	5.8
+	"Leukemias"	"35011-35043"	"New Mexico"	"35"	"2019"	"2019"	131	2099634	4.9	6.2
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2017"	"2017"	1407	19593849	5.8	7.2
+	"Leukemias"	"35011-35043"	"New York"	"36"	"2019"	"2019"	1349	19463131	5.5	6.9
+	"Leukemias"	"35011-35043"	"North Carolina"	"37"	"2017"	"2017"	684	10275758	5.8	6.7
+	"Leukemias"	"35011-35043"	"North Carolina"	"37"	"2019"	"2019"	796	10501384	6.3	7.6
+	"Leukemias"	"35011-35043"	"North Dakota"	"38"	"2017"	"2017"	65	756755	7.5	8.6
+	"Leukemias"	"35011-35043"	"North Dakota"	"38"	"2019"	"2019"	61	763724	6.6	8.0
+	"Leukemias"	"35011-35043"	"Ohio"	"39"	"2017"	"2017"	993	11665706	6.8	8.5
+	"Leukemias"	"35011-35043"	"Ohio"	"39"	"2019"	"2019"	992	11696507	6.6	8.5
+	"Leukemias"	"35011-35043"	"Oklahoma"	"40"	"2017"	"2017"	302	3933602	6.8	7.7
+	"Leukemias"	"35011-35043"	"Oklahoma"	"40"	"2019"	"2019"	322	3960676	6.8	8.1
+	"Leukemias"	"35011-35043"	"Oregon"	"41"	"2017"	"2017"	348	4147294	6.9	8.4
+	"Leukemias"	"35011-35043"	"Oregon"	"41"	"2019"	"2019"	320	4216116	6.0	7.6
+	"Leukemias"	"35011-35043"	"Pennsylvania"	"42"	"2017"	"2017"	1122	12794679	6.5	8.8
+	"Leukemias"	"35011-35043"	"Pennsylvania"	"42"	"2019"	"2019"	1117	12798883	6.3	8.7
+	"Leukemias"	"35011-35043"	"Rhode Island"	"44"	"2017"	"2017"	93	1056554	6.8	8.8
+	"Leukemias"	"35011-35043"	"Rhode Island"	"44"	"2019"	"2019"	79	1058158	5.7	7.5
+	"Leukemias"	"35011-35043"	"South Carolina"	"45"	"2017"	"2017"	375	5027102	6.2	7.5
+	"Leukemias"	"35011-35043"	"South Carolina"	"45"	"2019"	"2019"	387	5157702	6.0	7.5
+	"Leukemias"	"35011-35043"	"South Dakota"	"46"	"2017"	"2017"	62	873732	5.6	7.1
+	"Leukemias"	"35011-35043"	"South Dakota"	"46"	"2019"	"2019"	72	887127	6.6	8.1
+	"Leukemias"	"35011-35043"	"Tennessee"	"47"	"2017"	"2017"	515	6714748	6.5	7.7
+	"Leukemias"	"35011-35043"	"Tennessee"	"47"	"2019"	"2019"	497	6830325	6.0	7.3
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2017"	"2017"	1631	28291024	6.1	5.8
+	"Leukemias"	"35011-35043"	"Texas"	"48"	"2019"	"2019"	1535	28986794	5.4	5.3
+	"Leukemias"	"35011-35043"	"Utah"	"49"	"2017"	"2017"	160	3103540	6.2	5.2
+	"Leukemias"	"35011-35043"	"Utah"	"49"	"2019"	"2019"	166	3203383	6.2	5.2
+	"Leukemias"	"35011-35043"	"Vermont"	"50"	"2017"	"2017"	50	625132	5.7	8.0
+	"Leukemias"	"35011-35043"	"Vermont"	"50"	"2019"	"2019"	45	624046	5.1	7.2
+	"Leukemias"	"35011-35043"	"Virginia"	"51"	"2017"	"2017"	545	8471011	5.8	6.4
+	"Leukemias"	"35011-35043"	"Virginia"	"51"	"2019"	"2019"	597	8556642	6.0	7.0
+	"Leukemias"	"35011-35043"	"Washington"	"53"	"2017"	"2017"	502	7427951	6.1	6.8
+	"Leukemias"	"35011-35043"	"Washington"	"53"	"2019"	"2019"	503	7614024	5.7	6.6
+	"Leukemias"	"35011-35043"	"West Virginia"	"54"	"2017"	"2017"	176	1818683	7.0	9.7
+	"Leukemias"	"35011-35043"	"West Virginia"	"54"	"2019"	"2019"	172	1795263	6.7	9.6
+	"Leukemias"	"35011-35043"	"Wisconsin"	"55"	"2017"	"2017"	482	5793147	6.6	8.3
+	"Leukemias"	"35011-35043"	"Wisconsin"	"55"	"2019"	"2019"	478	5824581	6.4	8.2
+	"Leukemias"	"35011-35043"	"Wyoming"	"56"	"2017"	"2017"	36	579994	4.9	6.2
+	"Leukemias"	"35011-35043"	"Wyoming"	"56"	"2019"	"2019"	50	580116	7.4	8.6
+	"Liver"	"21071"	"Alabama"	"01"	"2017"	"2017"	355	4877989	5.5	7.3
+	"Liver"	"21071"	"Alabama"	"01"	"2019"	"2019"	391	4907965	5.9	8.0
+	"Liver"	"21071"	"Alaska"	"02"	"2017"	"2017"	29	740983	3.5	3.9
+	"Liver"	"21071"	"Alaska"	"02"	"2019"	"2019"	44	733603	5.8	6.0
+	"Liver"	"21071"	"Arizona"	"04"	"2017"	"2017"	458	7048088	5.0	6.5
+	"Liver"	"21071"	"Arizona"	"04"	"2019"	"2019"	507	7291843	5.1	7.0
+	"Liver"	"21071"	"Arkansas"	"05"	"2017"	"2017"	218	3003855	5.6	7.3
+	"Liver"	"21071"	"Arkansas"	"05"	"2019"	"2019"	251	3020985	6.2	8.3
+	"Liver"	"21071"	"California"	"06"	"2017"	"2017"	2657	39337785	5.9	6.8
+	"Liver"	"21071"	"California"	"06"	"2019"	"2019"	2614	39437610	5.6	6.6
+	"Liver"	"21071"	"Colorado"	"08"	"2017"	"2017"	252	5617421	3.8	4.5
+	"Liver"	"21071"	"Colorado"	"08"	"2019"	"2019"	256	5758486	3.7	4.4
+	"Liver"	"21071"	"Connecticut"	"09"	"2017"	"2017"	183	3575324	3.8	5.1
+	"Liver"	"21071"	"Connecticut"	"09"	"2019"	"2019"	166	3566022	3.2	4.7
+	"Liver"	"21071"	"Delaware"	"10"	"2017"	"2017"	82	957942	5.9	8.6
+	"Liver"	"21071"	"Delaware"	"10"	"2019"	"2019"	73	976668	4.9	7.5
+	"Liver"	"21071"	"District of Columbia"	"11"	"2017"	"2017"	40	697079	5.4	5.7
+	"Liver"	"21071"	"District of Columbia"	"11"	"2019"	"2019"	55	708253	7.5	7.8
+	"Liver"	"21071"	"Florida"	"12"	"2017"	"2017"	1491	20977089	4.7	7.1
+	"Liver"	"21071"	"Florida"	"12"	"2019"	"2019"	1599	21492056	4.7	7.4
+	"Liver"	"21071"	"Georgia"	"13"	"2017"	"2017"	599	10417031	5.1	5.8
+	"Liver"	"21071"	"Georgia"	"13"	"2019"	"2019"	641	10628020	5.2	6.0
+	"Liver"	"21071"	"Hawaii"	"15"	"2017"	"2017"	114	1425763	5.7	8.0
+	"Liver"	"21071"	"Hawaii"	"15"	"2019"	"2019"	116	1415615	5.9	8.2
+	"Liver"	"21071"	"Idaho"	"16"	"2017"	"2017"	84	1719745	4.1	4.9
+	"Liver"	"21071"	"Idaho"	"16"	"2019"	"2019"	84	1789060	3.5	4.7
+	"Liver"	"21071"	"Illinois"	"17"	"2017"	"2017"	648	12779893	4.1	5.1
+	"Liver"	"21071"	"Illinois"	"17"	"2019"	"2019"	667	12667017	4.1	5.3
+	"Liver"	"21071"	"Indiana"	"18"	"2017"	"2017"	360	6662068	4.3	5.4
+	"Liver"	"21071"	"Indiana"	"18"	"2019"	"2019"	400	6731010	4.6	5.9
+	"Liver"	"21071"	"Iowa"	"19"	"2017"	"2017"	137	3143734	3.4	4.4
+	"Liver"	"21071"	"Iowa"	"19"	"2019"	"2019"	164	3159596	3.9	5.2
+	"Liver"	"21071"	"Kansas"	"20"	"2017"	"2017"	139	2910892	3.8	4.8
+	"Liver"	"21071"	"Kansas"	"20"	"2019"	"2019"	170	2912635	4.5	5.8
+	"Liver"	"21071"	"Kentucky"	"21"	"2017"	"2017"	264	4455590	4.6	5.9
+	"Liver"	"21071"	"Kentucky"	"21"	"2019"	"2019"	247	4472345	4.1	5.5
+	"Liver"	"21071"	"Louisiana"	"22"	"2017"	"2017"	475	4673673	8.1	10.2
+	"Liver"	"21071"	"Louisiana"	"22"	"2019"	"2019"	471	4658285	7.7	10.1
+	"Liver"	"21071"	"Maine"	"23"	"2017"	"2017"	72	1335743	3.4	5.4
+	"Liver"	"21071"	"Maine"	"23"	"2019"	"2019"	73	1345770	3.2	5.4
+	"Liver"	"21071"	"Maryland"	"24"	"2017"	"2017"	370	6028186	4.8	6.1
+	"Liver"	"21071"	"Maryland"	"24"	"2019"	"2019"	345	6054954	4.4	5.7
+	"Liver"	"21071"	"Massachusetts"	"25"	"2017"	"2017"	355	6863560	4.0	5.2
+	"Liver"	"21071"	"Massachusetts"	"25"	"2019"	"2019"	330	6894883	3.5	4.8
+	"Liver"	"21071"	"Michigan"	"26"	"2017"	"2017"	612	9976752	4.4	6.1
+	"Liver"	"21071"	"Michigan"	"26"	"2019"	"2019"	578	9984795	4.2	5.8
+	"Liver"	"21071"	"Minnesota"	"27"	"2017"	"2017"	242	5569283	3.6	4.3
+	"Liver"	"21071"	"Minnesota"	"27"	"2019"	"2019"	233	5640053	3.2	4.1
+	"Liver"	"21071"	"Mississippi"	"28"	"2017"	"2017"	261	2990674	7.0	8.7
+	"Liver"	"21071"	"Mississippi"	"28"	"2019"	"2019"	273	2978227	7.1	9.2
+	"Liver"	"21071"	"Missouri"	"29"	"2017"	"2017"	387	6111382	4.8	6.3
+	"Liver"	"21071"	"Missouri"	"29"	"2019"	"2019"	393	6140475	4.7	6.4
+	"Liver"	"21071"	"Montana"	"30"	"2017"	"2017"	62	1053862	3.9	5.9
+	"Liver"	"21071"	"Montana"	"30"	"2019"	"2019"	58	1070123	3.4	5.4
+	"Liver"	"21071"	"Nebraska"	"31"	"2017"	"2017"	67	1916998	2.7	3.5
+	"Liver"	"21071"	"Nebraska"	"31"	"2019"	"2019"	68	1932571	2.8	3.5
+	"Liver"	"21071"	"Nevada"	"32"	"2017"	"2017"	182	2972097	5.0	6.1
+	"Liver"	"21071"	"Nevada"	"32"	"2019"	"2019"	186	3090771	4.9	6.0
+	"Liver"	"21071"	"New Hampshire"	"33"	"2017"	"2017"	66	1350395	3.5	4.9
+	"Liver"	"21071"	"New Hampshire"	"33"	"2019"	"2019"	62	1360783	3.0	4.6
+	"Liver"	"21071"	"New Jersey"	"34"	"2017"	"2017"	483	8888147	4.2	5.4
+	"Liver"	"21071"	"New Jersey"	"34"	"2019"	"2019"	477	8891258	4.0	5.4
+	"Liver"	"21071"	"New Mexico"	"35"	"2017"	"2017"	182	2092844	6.5	8.7
+	"Liver"	"21071"	"New Mexico"	"35"	"2019"	"2019"	193	2099634	6.9	9.2
+	"Liver"	"21071"	"New York"	"36"	"2017"	"2017"	1018	19593849	4.1	5.2
+	"Liver"	"21071"	"New York"	"36"	"2019"	"2019"	957	19463131	3.7	4.9
+	"Liver"	"21071"	"North Carolina"	"37"	"2017"	"2017"	581	10275758	4.4	5.7
+	"Liver"	"21071"	"North Carolina"	"37"	"2019"	"2019"	630	10501384	4.5	6.0
+	"Liver"	"21071"	"North Dakota"	"38"	"2017"	"2017"	32	756755	3.4	4.2
+	"Liver"	"21071"	"North Dakota"	"38"	"2019"	"2019"	38	763724	3.7	5.0
+	"Liver"	"21071"	"Ohio"	"39"	"2017"	"2017"	718	11665706	4.6	6.2
+	"Liver"	"21071"	"Ohio"	"39"	"2019"	"2019"	676	11696507	4.2	5.8
+	"Liver"	"21071"	"Oklahoma"	"40"	"2017"	"2017"	316	3933602	6.3	8.0
+	"Liver"	"21071"	"Oklahoma"	"40"	"2019"	"2019"	316	3960676	6.1	8.0
+	"Liver"	"21071"	"Oregon"	"41"	"2017"	"2017"	283	4147294	4.8	6.8
+	"Liver"	"21071"	"Oregon"	"41"	"2019"	"2019"	279	4216116	4.6	6.6
+	"Liver"	"21071"	"Pennsylvania"	"42"	"2017"	"2017"	837	12794679	4.6	6.5
+	"Liver"	"21071"	"Pennsylvania"	"42"	"2019"	"2019"	759	12798883	4.1	5.9
+	"Liver"	"21071"	"Rhode Island"	"44"	"2017"	"2017"	79	1056554	5.7	7.5
+	"Liver"	"21071"	"Rhode Island"	"44"	"2019"	"2019"	85	1058158	6.0	8.0
+	"Liver"	"21071"	"South Carolina"	"45"	"2017"	"2017"	332	5027102	4.9	6.6
+	"Liver"	"21071"	"South Carolina"	"45"	"2019"	"2019"	331	5157702	4.5	6.4
+	"Liver"	"21071"	"South Dakota"	"46"	"2017"	"2017"	38	873732	3.4	4.3
+	"Liver"	"21071"	"South Dakota"	"46"	"2019"	"2019"	43	887127	3.8	4.8
+	"Liver"	"21071"	"Tennessee"	"47"	"2017"	"2017"	502	6714748	5.8	7.5
+	"Liver"	"21071"	"Tennessee"	"47"	"2019"	"2019"	478	6830325	5.2	7.0
+	"Liver"	"21071"	"Texas"	"48"	"2017"	"2017"	1961	28291024	6.6	6.9
+	"Liver"	"21071"	"Texas"	"48"	"2019"	"2019"	1955	28986794	6.3	6.7
+	"Liver"	"21071"	"Utah"	"49"	"2017"	"2017"	96	3103540	3.6	3.1
+	"Liver"	"21071"	"Utah"	"49"	"2019"	"2019"	88	3203383	3.0	2.7
+	"Liver"	"21071"	"Vermont"	"50"	"2017"	"2017"	34	625132	3.9	5.4
+	"Liver"	"21071"	"Vermont"	"50"	"2019"	"2019"	35	624046	3.7	5.6
+	"Liver"	"21071"	"Virginia"	"51"	"2017"	"2017"	477	8471011	4.5	5.6
+	"Liver"	"21071"	"Virginia"	"51"	"2019"	"2019"	456	8556642	4.2	5.3
+	"Liver"	"21071"	"Washington"	"53"	"2017"	"2017"	429	7427951	4.6	5.8
+	"Liver"	"21071"	"Washington"	"53"	"2019"	"2019"	423	7614024	4.3	5.6
+	"Liver"	"21071"	"West Virginia"	"54"	"2017"	"2017"	142	1818683	5.3	7.8
+	"Liver"	"21071"	"West Virginia"	"54"	"2019"	"2019"	120	1795263	4.4	6.7
+	"Liver"	"21071"	"Wisconsin"	"55"	"2017"	"2017"	256	5793147	3.4	4.4
+	"Liver"	"21071"	"Wisconsin"	"55"	"2019"	"2019"	260	5824581	3.2	4.5
+	"Liver"	"21071"	"Wyoming"	"56"	"2017"	"2017"	33	579994	4.2	5.7
+	"Liver"	"21071"	"Wyoming"	"56"	"2019"	"2019"	30	580116	3.8	5.2
+	"Lung and Bronchus"	"22030"	"Alabama"	"01"	"2017"	"2017"	2946	4877989	46.6	60.4
+	"Lung and Bronchus"	"22030"	"Alabama"	"01"	"2019"	"2019"	2746	4907965	41.7	55.9
+	"Lung and Bronchus"	"22030"	"Alaska"	"02"	"2017"	"2017"	203	740983	31.2	27.4
+	"Lung and Bronchus"	"22030"	"Alaska"	"02"	"2019"	"2019"	222	733603	30.5	30.3
+	"Lung and Bronchus"	"22030"	"Arizona"	"04"	"2017"	"2017"	2768	7048088	30.3	39.3
+	"Lung and Bronchus"	"22030"	"Arizona"	"04"	"2019"	"2019"	2512	7291843	25.2	34.4
+	"Lung and Bronchus"	"22030"	"Arkansas"	"05"	"2017"	"2017"	1954	3003855	50.9	65.0
+	"Lung and Bronchus"	"22030"	"Arkansas"	"05"	"2019"	"2019"	1832	3020985	45.5	60.6
+	"Lung and Bronchus"	"22030"	"California"	"06"	"2017"	"2017"	11555	39337785	26.8	29.4
+	"Lung and Bronchus"	"22030"	"California"	"06"	"2019"	"2019"	10731	39437610	23.7	27.2
+	"Lung and Bronchus"	"22030"	"Colorado"	"08"	"2017"	"2017"	1495	5617421	24.8	26.6
+	"Lung and Bronchus"	"22030"	"Colorado"	"08"	"2019"	"2019"	1474	5758486	23.2	25.6
+	"Lung and Bronchus"	"22030"	"Connecticut"	"09"	"2017"	"2017"	1508	3575324	31.7	42.2
+	"Lung and Bronchus"	"22030"	"Connecticut"	"09"	"2019"	"2019"	1401	3566022	28.3	39.3
+	"Lung and Bronchus"	"22030"	"Delaware"	"10"	"2017"	"2017"	550	957942	41.2	57.4
+	"Lung and Bronchus"	"22030"	"Delaware"	"10"	"2019"	"2019"	504	976668	35.5	51.6
+	"Lung and Bronchus"	"22030"	"District of Columbia"	"11"	"2017"	"2017"	202	697079	30.3	29.0
+	"Lung and Bronchus"	"22030"	"District of Columbia"	"11"	"2019"	"2019"	191	708253	27.7	27.0
+	"Lung and Bronchus"	"22030"	"Florida"	"12"	"2017"	"2017"	11403	20977089	35.9	54.4
+	"Lung and Bronchus"	"22030"	"Florida"	"12"	"2019"	"2019"	10933	21492056	32.2	50.9
+	"Lung and Bronchus"	"22030"	"Georgia"	"13"	"2017"	"2017"	4392	10417031	39.0	42.2
+	"Lung and Bronchus"	"22030"	"Georgia"	"13"	"2019"	"2019"	4313	10628020	36.0	40.6
+	"Lung and Bronchus"	"22030"	"Hawaii"	"15"	"2017"	"2017"	545	1425763	28.3	38.2
+	"Lung and Bronchus"	"22030"	"Hawaii"	"15"	"2019"	"2019"	543	1415615	26.8	38.4
+	"Lung and Bronchus"	"22030"	"Idaho"	"16"	"2017"	"2017"	607	1719745	30.2	35.3
+	"Lung and Bronchus"	"22030"	"Idaho"	"16"	"2019"	"2019"	572	1789060	26.3	32.0
+	"Lung and Bronchus"	"22030"	"Illinois"	"17"	"2017"	"2017"	6009	12779893	39.1	47.0
+	"Lung and Bronchus"	"22030"	"Illinois"	"17"	"2019"	"2019"	5703	12667017	35.8	45.0
+	"Lung and Bronchus"	"22030"	"Indiana"	"18"	"2017"	"2017"	3792	6662068	47.4	56.9
+	"Lung and Bronchus"	"22030"	"Indiana"	"18"	"2019"	"2019"	3624	6731010	42.9	53.8
+	"Lung and Bronchus"	"22030"	"Iowa"	"19"	"2017"	"2017"	1620	3143734	39.5	51.5
+	"Lung and Bronchus"	"22030"	"Iowa"	"19"	"2019"	"2019"	1532	3159596	35.9	48.5
+	"Lung and Bronchus"	"22030"	"Kansas"	"20"	"2017"	"2017"	1390	2910892	39.4	47.8
+	"Lung and Bronchus"	"22030"	"Kansas"	"20"	"2019"	"2019"	1409	2912635	38.3	48.4
+	"Lung and Bronchus"	"22030"	"Kentucky"	"21"	"2017"	"2017"	3152	4455590	56.7	70.7
+	"Lung and Bronchus"	"22030"	"Kentucky"	"21"	"2019"	"2019"	3068	4472345	52.7	68.6
+	"Lung and Bronchus"	"22030"	"Louisiana"	"22"	"2017"	"2017"	2559	4673673	46.3	54.8
+	"Lung and Bronchus"	"22030"	"Louisiana"	"22"	"2019"	"2019"	2463	4658285	42.6	52.9
+	"Lung and Bronchus"	"22030"	"Maine"	"23"	"2017"	"2017"	919	1335743	44.7	68.8
+	"Lung and Bronchus"	"22030"	"Maine"	"23"	"2019"	"2019"	898	1345770	42.1	66.7
+	"Lung and Bronchus"	"22030"	"Maryland"	"24"	"2017"	"2017"	2575	6028186	36.1	42.7
+	"Lung and Bronchus"	"22030"	"Maryland"	"24"	"2019"	"2019"	2384	6054954	31.6	39.4
+	"Lung and Bronchus"	"22030"	"Massachusetts"	"25"	"2017"	"2017"	3074	6863560	35.4	44.8
+	"Lung and Bronchus"	"22030"	"Massachusetts"	"25"	"2019"	"2019"	2952	6894883	32.4	42.8
+	"Lung and Bronchus"	"22030"	"Michigan"	"26"	"2017"	"2017"	5502	9976752	42.4	55.1
+	"Lung and Bronchus"	"22030"	"Michigan"	"26"	"2019"	"2019"	5325	9984795	39.0	53.3
+	"Lung and Bronchus"	"22030"	"Minnesota"	"27"	"2017"	"2017"	2316	5569283	34.2	41.6
+	"Lung and Bronchus"	"22030"	"Minnesota"	"27"	"2019"	"2019"	2157	5640053	30.3	38.2
+	"Lung and Bronchus"	"22030"	"Mississippi"	"28"	"2017"	"2017"	1804	2990674	49.3	60.3
+	"Lung and Bronchus"	"22030"	"Mississippi"	"28"	"2019"	"2019"	1866	2978227	49.4	62.7
+	"Lung and Bronchus"	"22030"	"Missouri"	"29"	"2017"	"2017"	3690	6111382	46.7	60.4
+	"Lung and Bronchus"	"22030"	"Missouri"	"29"	"2019"	"2019"	3477	6140475	42.1	56.6
+	"Lung and Bronchus"	"22030"	"Montana"	"30"	"2017"	"2017"	465	1053862	32.6	44.1
+	"Lung and Bronchus"	"22030"	"Montana"	"30"	"2019"	"2019"	409	1070123	27.0	38.2
+	"Lung and Bronchus"	"22030"	"Nebraska"	"31"	"2017"	"2017"	815	1916998	35.9	42.5
+	"Lung and Bronchus"	"22030"	"Nebraska"	"31"	"2019"	"2019"	779	1932571	32.7	40.3
+	"Lung and Bronchus"	"22030"	"Nevada"	"32"	"2017"	"2017"	1312	2972097	38.4	44.1
+	"Lung and Bronchus"	"22030"	"Nevada"	"32"	"2019"	"2019"	1253	3090771	33.3	40.5
+	"Lung and Bronchus"	"22030"	"New Hampshire"	"33"	"2017"	"2017"	700	1350395	38.7	51.8
+	"Lung and Bronchus"	"22030"	"New Hampshire"	"33"	"2019"	"2019"	660	1360783	34.3	48.5
+	"Lung and Bronchus"	"22030"	"New Jersey"	"34"	"2017"	"2017"	3562	8888147	31.8	40.1
+	"Lung and Bronchus"	"22030"	"New Jersey"	"34"	"2019"	"2019"	3326	8891258	28.8	37.4
+	"Lung and Bronchus"	"22030"	"New Mexico"	"35"	"2017"	"2017"	678	2092844	25.7	32.4
+	"Lung and Bronchus"	"22030"	"New Mexico"	"35"	"2019"	"2019"	630	2099634	22.2	30.0
+	"Lung and Bronchus"	"22030"	"New York"	"36"	"2017"	"2017"	7821	19593849	31.5	39.9
+	"Lung and Bronchus"	"22030"	"New York"	"36"	"2019"	"2019"	7372	19463131	28.5	37.9
+	"Lung and Bronchus"	"22030"	"North Carolina"	"37"	"2017"	"2017"	5286	10275758	41.9	51.4
+	"Lung and Bronchus"	"22030"	"North Carolina"	"37"	"2019"	"2019"	5109	10501384	37.8	48.7
+	"Lung and Bronchus"	"22030"	"North Dakota"	"38"	"2017"	"2017"	310	756755	34.8	41.0
+	"Lung and Bronchus"	"22030"	"North Dakota"	"38"	"2019"	"2019"	317	763724	33.3	41.5
+	"Lung and Bronchus"	"22030"	"Ohio"	"39"	"2017"	"2017"	6796	11665706	44.7	58.3
+	"Lung and Bronchus"	"22030"	"Ohio"	"39"	"2019"	"2019"	6449	11696507	41.0	55.1
+	"Lung and Bronchus"	"22030"	"Oklahoma"	"40"	"2017"	"2017"	2210	3933602	46.7	56.2
+	"Lung and Bronchus"	"22030"	"Oklahoma"	"40"	"2019"	"2019"	2282	3960676	46.5	57.6
+	"Lung and Bronchus"	"22030"	"Oregon"	"41"	"2017"	"2017"	1865	4147294	35.1	45.0
+	"Lung and Bronchus"	"22030"	"Oregon"	"41"	"2019"	"2019"	1781	4216116	31.2	42.2
+	"Lung and Bronchus"	"22030"	"Pennsylvania"	"42"	"2017"	"2017"	6910	12794679	38.7	54.0
+	"Lung and Bronchus"	"22030"	"Pennsylvania"	"42"	"2019"	"2019"	6581	12798883	35.7	51.4
+	"Lung and Bronchus"	"22030"	"Rhode Island"	"44"	"2017"	"2017"	556	1056554	39.6	52.6
+	"Lung and Bronchus"	"22030"	"Rhode Island"	"44"	"2019"	"2019"	531	1058158	36.4	50.2
+	"Lung and Bronchus"	"22030"	"South Carolina"	"45"	"2017"	"2017"	2700	5027102	41.1	53.7
+	"Lung and Bronchus"	"22030"	"South Carolina"	"45"	"2019"	"2019"	2671	5157702	37.8	51.8
+	"Lung and Bronchus"	"22030"	"South Dakota"	"46"	"2017"	"2017"	422	873732	38.7	48.3
+	"Lung and Bronchus"	"22030"	"South Dakota"	"46"	"2019"	"2019"	430	887127	37.3	48.5
+	"Lung and Bronchus"	"22030"	"Tennessee"	"47"	"2017"	"2017"	4001	6714748	47.5	59.6
+	"Lung and Bronchus"	"22030"	"Tennessee"	"47"	"2019"	"2019"	4051	6830325	45.6	59.3
+	"Lung and Bronchus"	"22030"	"Texas"	"48"	"2017"	"2017"	9109	28291024	33.0	32.2
+	"Lung and Bronchus"	"22030"	"Texas"	"48"	"2019"	"2019"	8723	28986794	29.7	30.1
+	"Lung and Bronchus"	"22030"	"Utah"	"49"	"2017"	"2017"	451	3103540	17.3	14.5
+	"Lung and Bronchus"	"22030"	"Utah"	"49"	"2019"	"2019"	444	3203383	15.8	13.9
+	"Lung and Bronchus"	"22030"	"Vermont"	"50"	"2017"	"2017"	356	625132	39.7	56.9
+	"Lung and Bronchus"	"22030"	"Vermont"	"50"	"2019"	"2019"	306	624046	32.4	49.0
+	"Lung and Bronchus"	"22030"	"Virginia"	"51"	"2017"	"2017"	3710	8471011	36.8	43.8
+	"Lung and Bronchus"	"22030"	"Virginia"	"51"	"2019"	"2019"	3573	8556642	33.8	41.8
+	"Lung and Bronchus"	"22030"	"Washington"	"53"	"2017"	"2017"	2928	7427951	34.0	39.4
+	"Lung and Bronchus"	"22030"	"Washington"	"53"	"2019"	"2019"	2841	7614024	31.1	37.3
+	"Lung and Bronchus"	"22030"	"West Virginia"	"54"	"2017"	"2017"	1338	1818683	49.4	73.6
+	"Lung and Bronchus"	"22030"	"West Virginia"	"54"	"2019"	"2019"	1314	1795263	48.3	73.2
+	"Lung and Bronchus"	"22030"	"Wisconsin"	"55"	"2017"	"2017"	2802	5793147	37.6	48.4
+	"Lung and Bronchus"	"22030"	"Wisconsin"	"55"	"2019"	"2019"	2712	5824581	34.6	46.6
+	"Lung and Bronchus"	"22030"	"Wyoming"	"56"	"2017"	"2017"	216	579994	30.5	37.2
+	"Lung and Bronchus"	"22030"	"Wyoming"	"56"	"2019"	"2019"	225	580116	29.4	38.8
+	"Melanoma of the Skin"	"25010"	"Alabama"	"01"	"2017"	"2017"	135	4877989	2.3	2.8
+	"Melanoma of the Skin"	"25010"	"Alabama"	"01"	"2019"	"2019"	117	4907965	1.9	2.4
+	"Melanoma of the Skin"	"25010"	"Arizona"	"04"	"2017"	"2017"	190	7048088	2.2	2.7
+	"Melanoma of the Skin"	"25010"	"Arizona"	"04"	"2019"	"2019"	206	7291843	2.2	2.8
+	"Melanoma of the Skin"	"25010"	"Arkansas"	"05"	"2017"	"2017"	59	3003855	1.6	2.0
+	"Melanoma of the Skin"	"25010"	"Arkansas"	"05"	"2019"	"2019"	62	3020985	1.5	2.1
+	"Melanoma of the Skin"	"25010"	"California"	"06"	"2017"	"2017"	821	39337785	1.9	2.1
+	"Melanoma of the Skin"	"25010"	"California"	"06"	"2019"	"2019"	824	39437610	1.8	2.1
+	"Melanoma of the Skin"	"25010"	"Colorado"	"08"	"2017"	"2017"	162	5617421	2.7	2.9
+	"Melanoma of the Skin"	"25010"	"Colorado"	"08"	"2019"	"2019"	172	5758486	2.7	3.0
+	"Melanoma of the Skin"	"25010"	"Connecticut"	"09"	"2017"	"2017"	80	3575324	1.7	2.2
+	"Melanoma of the Skin"	"25010"	"Connecticut"	"09"	"2019"	"2019"	89	3566022	1.8	2.5
+	"Melanoma of the Skin"	"25010"	"Delaware"	"10"	"2017"	"2017"	29	957942	2.4	3.0
+	"Melanoma of the Skin"	"25010"	"Delaware"	"10"	"2019"	"2019"	29	976668	2.2	3.0
+	"Melanoma of the Skin"	"25010"	"Florida"	"12"	"2017"	"2017"	627	20977089	2.1	3.0
+	"Melanoma of the Skin"	"25010"	"Florida"	"12"	"2019"	"2019"	656	21492056	2.1	3.1
+	"Melanoma of the Skin"	"25010"	"Georgia"	"13"	"2017"	"2017"	201	10417031	1.9	1.9
+	"Melanoma of the Skin"	"25010"	"Georgia"	"13"	"2019"	"2019"	203	10628020	1.8	1.9
+	"Melanoma of the Skin"	"25010"	"Hawaii"	"15"	"2017"	"2017"	18	1425763	1.0	1.3
+	"Melanoma of the Skin"	"25010"	"Hawaii"	"15"	"2019"	"2019"	19	1415615	0.9	1.3
+	"Melanoma of the Skin"	"25010"	"Idaho"	"16"	"2017"	"2017"	48	1719745	2.4	2.8
+	"Melanoma of the Skin"	"25010"	"Idaho"	"16"	"2019"	"2019"	59	1789060	2.9	3.3
+	"Melanoma of the Skin"	"25010"	"Illinois"	"17"	"2017"	"2017"	300	12779893	2.0	2.3
+	"Melanoma of the Skin"	"25010"	"Illinois"	"17"	"2019"	"2019"	266	12667017	1.7	2.1
+	"Melanoma of the Skin"	"25010"	"Indiana"	"18"	"2017"	"2017"	184	6662068	2.4	2.8
+	"Melanoma of the Skin"	"25010"	"Indiana"	"18"	"2019"	"2019"	181	6731010	2.2	2.7
+	"Melanoma of the Skin"	"25010"	"Iowa"	"19"	"2017"	"2017"	107	3143734	2.7	3.4
+	"Melanoma of the Skin"	"25010"	"Iowa"	"19"	"2019"	"2019"	110	3159596	2.7	3.5
+	"Melanoma of the Skin"	"25010"	"Kansas"	"20"	"2017"	"2017"	77	2910892	2.2	2.6
+	"Melanoma of the Skin"	"25010"	"Kansas"	"20"	"2019"	"2019"	79	2912635	2.2	2.7
+	"Melanoma of the Skin"	"25010"	"Kentucky"	"21"	"2017"	"2017"	146	4455590	2.7	3.3
+	"Melanoma of the Skin"	"25010"	"Kentucky"	"21"	"2019"	"2019"	127	4472345	2.3	2.8
+	"Melanoma of the Skin"	"25010"	"Louisiana"	"22"	"2017"	"2017"	77	4673673	1.5	1.6
+	"Melanoma of the Skin"	"25010"	"Louisiana"	"22"	"2019"	"2019"	83	4658285	1.5	1.8
+	"Melanoma of the Skin"	"25010"	"Maine"	"23"	"2017"	"2017"	46	1335743	2.4	3.4
+	"Melanoma of the Skin"	"25010"	"Maine"	"23"	"2019"	"2019"	48	1345770	2.4	3.6
+	"Melanoma of the Skin"	"25010"	"Maryland"	"24"	"2017"	"2017"	112	6028186	1.6	1.9
+	"Melanoma of the Skin"	"25010"	"Maryland"	"24"	"2019"	"2019"	143	6054954	1.9	2.4
+	"Melanoma of the Skin"	"25010"	"Massachusetts"	"25"	"2017"	"2017"	200	6863560	2.3	2.9
+	"Melanoma of the Skin"	"25010"	"Massachusetts"	"25"	"2019"	"2019"	190	6894883	2.2	2.8
+	"Melanoma of the Skin"	"25010"	"Michigan"	"26"	"2017"	"2017"	257	9976752	2.1	2.6
+	"Melanoma of the Skin"	"25010"	"Michigan"	"26"	"2019"	"2019"	277	9984795	2.2	2.8
+	"Melanoma of the Skin"	"25010"	"Minnesota"	"27"	"2017"	"2017"	122	5569283	1.8	2.2
+	"Melanoma of the Skin"	"25010"	"Minnesota"	"27"	"2019"	"2019"	164	5640053	2.3	2.9
+	"Melanoma of the Skin"	"25010"	"Mississippi"	"28"	"2017"	"2017"	68	2990674	1.9	2.3
+	"Melanoma of the Skin"	"25010"	"Mississippi"	"28"	"2019"	"2019"	72	2978227	1.9	2.4
+	"Melanoma of the Skin"	"25010"	"Missouri"	"29"	"2017"	"2017"	174	6111382	2.4	2.8
+	"Melanoma of the Skin"	"25010"	"Missouri"	"29"	"2019"	"2019"	195	6140475	2.5	3.2
+	"Melanoma of the Skin"	"25010"	"Montana"	"30"	"2017"	"2017"	35	1053862	2.5	3.3
+	"Melanoma of the Skin"	"25010"	"Montana"	"30"	"2019"	"2019"	31	1070123	2.2	2.9
+	"Melanoma of the Skin"	"25010"	"Nebraska"	"31"	"2017"	"2017"	50	1916998	2.2	2.6
+	"Melanoma of the Skin"	"25010"	"Nebraska"	"31"	"2019"	"2019"	56	1932571	2.4	2.9
+	"Melanoma of the Skin"	"25010"	"Nevada"	"32"	"2017"	"2017"	82	2972097	2.6	2.8
+	"Melanoma of the Skin"	"25010"	"Nevada"	"32"	"2019"	"2019"	69	3090771	2.0	2.2
+	"Melanoma of the Skin"	"25010"	"New Hampshire"	"33"	"2017"	"2017"	54	1350395	3.4	4.0
+	"Melanoma of the Skin"	"25010"	"New Hampshire"	"33"	"2019"	"2019"	45	1360783	2.4	3.3
+	"Melanoma of the Skin"	"25010"	"New Jersey"	"34"	"2017"	"2017"	210	8888147	1.9	2.4
+	"Melanoma of the Skin"	"25010"	"New Jersey"	"34"	"2019"	"2019"	193	8891258	1.7	2.2
+	"Melanoma of the Skin"	"25010"	"New Mexico"	"35"	"2017"	"2017"	50	2092844	2.0	2.4
+	"Melanoma of the Skin"	"25010"	"New Mexico"	"35"	"2019"	"2019"	52	2099634	1.9	2.5
+	"Melanoma of the Skin"	"25010"	"New York"	"36"	"2017"	"2017"	401	19593849	1.6	2.0
+	"Melanoma of the Skin"	"25010"	"New York"	"36"	"2019"	"2019"	362	19463131	1.5	1.9
+	"Melanoma of the Skin"	"25010"	"North Carolina"	"37"	"2017"	"2017"	252	10275758	2.1	2.5
+	"Melanoma of the Skin"	"25010"	"North Carolina"	"37"	"2019"	"2019"	290	10501384	2.3	2.8
+	"Melanoma of the Skin"	"25010"	"North Dakota"	"38"	"2017"	"2017"	21	756755	2.4	2.8
+	"Melanoma of the Skin"	"25010"	"North Dakota"	"38"	"2019"	"2019"	16	763724	1.8	2.1
+	"Melanoma of the Skin"	"25010"	"Ohio"	"39"	"2017"	"2017"	384	11665706	2.7	3.3
+	"Melanoma of the Skin"	"25010"	"Ohio"	"39"	"2019"	"2019"	351	11696507	2.4	3.0
+	"Melanoma of the Skin"	"25010"	"Oklahoma"	"40"	"2017"	"2017"	118	3933602	2.7	3.0
+	"Melanoma of the Skin"	"25010"	"Oklahoma"	"40"	"2019"	"2019"	103	3960676	2.3	2.6
+	"Melanoma of the Skin"	"25010"	"Oregon"	"41"	"2017"	"2017"	133	4147294	2.6	3.2
+	"Melanoma of the Skin"	"25010"	"Oregon"	"41"	"2019"	"2019"	109	4216116	2.0	2.6
+	"Melanoma of the Skin"	"25010"	"Pennsylvania"	"42"	"2017"	"2017"	405	12794679	2.4	3.2
+	"Melanoma of the Skin"	"25010"	"Pennsylvania"	"42"	"2019"	"2019"	388	12798883	2.2	3.0
+	"Melanoma of the Skin"	"25010"	"Rhode Island"	"44"	"2017"	"2017"	29	1056554	2.3	2.7
+	"Melanoma of the Skin"	"25010"	"Rhode Island"	"44"	"2019"	"2019"	35	1058158	2.4	3.3
+	"Melanoma of the Skin"	"25010"	"South Carolina"	"45"	"2017"	"2017"	127	5027102	2.1	2.5
+	"Melanoma of the Skin"	"25010"	"South Carolina"	"45"	"2019"	"2019"	127	5157702	1.9	2.5
+	"Melanoma of the Skin"	"25010"	"South Dakota"	"46"	"2017"	"2017"	26	873732	2.5	3.0
+	"Melanoma of the Skin"	"25010"	"South Dakota"	"46"	"2019"	"2019"	18	887127	1.5	2.0
+	"Melanoma of the Skin"	"25010"	"Tennessee"	"47"	"2017"	"2017"	213	6714748	2.6	3.2
+	"Melanoma of the Skin"	"25010"	"Tennessee"	"47"	"2019"	"2019"	218	6830325	2.7	3.2
+	"Melanoma of the Skin"	"25010"	"Texas"	"48"	"2017"	"2017"	495	28291024	1.8	1.7
+	"Melanoma of the Skin"	"25010"	"Texas"	"48"	"2019"	"2019"	484	28986794	1.7	1.7
+	"Melanoma of the Skin"	"25010"	"Utah"	"49"	"2017"	"2017"	68	3103540	2.5	2.2
+	"Melanoma of the Skin"	"25010"	"Utah"	"49"	"2019"	"2019"	76	3203383	2.8	2.4
+	"Melanoma of the Skin"	"25010"	"Vermont"	"50"	"2017"	"2017"	17	625132	2.0	2.7
+	"Melanoma of the Skin"	"25010"	"Vermont"	"50"	"2019"	"2019"	18	624046	2.2	2.9
+	"Melanoma of the Skin"	"25010"	"Virginia"	"51"	"2017"	"2017"	190	8471011	2.0	2.2
+	"Melanoma of the Skin"	"25010"	"Virginia"	"51"	"2019"	"2019"	210	8556642	2.0	2.5
+	"Melanoma of the Skin"	"25010"	"Washington"	"53"	"2017"	"2017"	192	7427951	2.2	2.6
+	"Melanoma of the Skin"	"25010"	"Washington"	"53"	"2019"	"2019"	205	7614024	2.3	2.7
+	"Melanoma of the Skin"	"25010"	"West Virginia"	"54"	"2017"	"2017"	71	1818683	2.9	3.9
+	"Melanoma of the Skin"	"25010"	"West Virginia"	"54"	"2019"	"2019"	62	1795263	2.5	3.5
+	"Melanoma of the Skin"	"25010"	"Wisconsin"	"55"	"2017"	"2017"	153	5793147	2.1	2.6
+	"Melanoma of the Skin"	"25010"	"Wisconsin"	"55"	"2019"	"2019"	171	5824581	2.2	2.9
+	"Melanoma of the Skin"	"25010"	"Wyoming"	"56"	"2017"	"2017"	24	579994	3.8	4.1
+	"Melanoma of the Skin"	"25010"	"Wyoming"	"56"	"2019"	"2019"	17	580116	2.3	2.9
+	"Myeloma"	"34000"	"Alabama"	"01"	"2017"	"2017"	208	4877989	3.4	4.3
+	"Myeloma"	"34000"	"Alabama"	"01"	"2019"	"2019"	224	4907965	3.5	4.6
+	"Myeloma"	"34000"	"Alaska"	"02"	"2019"	"2019"	18	733603	2.7	2.5
+	"Myeloma"	"34000"	"Arizona"	"04"	"2017"	"2017"	260	7048088	2.9	3.7
+	"Myeloma"	"34000"	"Arizona"	"04"	"2019"	"2019"	243	7291843	2.5	3.3
+	"Myeloma"	"34000"	"Arkansas"	"05"	"2017"	"2017"	120	3003855	3.2	4.0
+	"Myeloma"	"34000"	"Arkansas"	"05"	"2019"	"2019"	126	3020985	3.2	4.2
+	"Myeloma"	"34000"	"California"	"06"	"2017"	"2017"	1212	39337785	2.8	3.1
+	"Myeloma"	"34000"	"California"	"06"	"2019"	"2019"	1264	39437610	2.8	3.2
+	"Myeloma"	"34000"	"Colorado"	"08"	"2017"	"2017"	178	5617421	3.1	3.2
+	"Myeloma"	"34000"	"Colorado"	"08"	"2019"	"2019"	188	5758486	3.1	3.3
+	"Myeloma"	"34000"	"Connecticut"	"09"	"2017"	"2017"	120	3575324	2.6	3.4
+	"Myeloma"	"34000"	"Connecticut"	"09"	"2019"	"2019"	124	3566022	2.5	3.5
+	"Myeloma"	"34000"	"Delaware"	"10"	"2017"	"2017"	46	957942	3.4	4.8
+	"Myeloma"	"34000"	"Delaware"	"10"	"2019"	"2019"	46	976668	3.4	4.7
+	"Myeloma"	"34000"	"District of Columbia"	"11"	"2017"	"2017"	30	697079	4.6	4.3
+	"Myeloma"	"34000"	"District of Columbia"	"11"	"2019"	"2019"	26	708253	3.9	3.7
+	"Myeloma"	"34000"	"Florida"	"12"	"2017"	"2017"	879	20977089	2.8	4.2
+	"Myeloma"	"34000"	"Florida"	"12"	"2019"	"2019"	946	21492056	2.8	4.4
+	"Myeloma"	"34000"	"Georgia"	"13"	"2017"	"2017"	383	10417031	3.6	3.7
+	"Myeloma"	"34000"	"Georgia"	"13"	"2019"	"2019"	390	10628020	3.4	3.7
+	"Myeloma"	"34000"	"Hawaii"	"15"	"2017"	"2017"	46	1425763	2.2	3.2
+	"Myeloma"	"34000"	"Hawaii"	"15"	"2019"	"2019"	37	1415615	1.8	2.6
+	"Myeloma"	"34000"	"Idaho"	"16"	"2017"	"2017"	78	1719745	4.1	4.5
+	"Myeloma"	"34000"	"Idaho"	"16"	"2019"	"2019"	56	1789060	2.7	3.1
+	"Myeloma"	"34000"	"Illinois"	"17"	"2017"	"2017"	479	12779893	3.2	3.7
+	"Myeloma"	"34000"	"Illinois"	"17"	"2019"	"2019"	483	12667017	3.1	3.8
+	"Myeloma"	"34000"	"Indiana"	"18"	"2017"	"2017"	259	6662068	3.3	3.9
+	"Myeloma"	"34000"	"Indiana"	"18"	"2019"	"2019"	282	6731010	3.5	4.2
+	"Myeloma"	"34000"	"Iowa"	"19"	"2017"	"2017"	163	3143734	4.0	5.2
+	"Myeloma"	"34000"	"Iowa"	"19"	"2019"	"2019"	118	3159596	2.8	3.7
+	"Myeloma"	"34000"	"Kansas"	"20"	"2017"	"2017"	102	2910892	3.1	3.5
+	"Myeloma"	"34000"	"Kansas"	"20"	"2019"	"2019"	117	2912635	3.2	4.0
+	"Myeloma"	"34000"	"Kentucky"	"21"	"2017"	"2017"	175	4455590	3.2	3.9
+	"Myeloma"	"34000"	"Kentucky"	"21"	"2019"	"2019"	183	4472345	3.3	4.1
+	"Myeloma"	"34000"	"Louisiana"	"22"	"2017"	"2017"	202	4673673	3.8	4.3
+	"Myeloma"	"34000"	"Louisiana"	"22"	"2019"	"2019"	201	4658285	3.6	4.3
+	"Myeloma"	"34000"	"Maine"	"23"	"2017"	"2017"	68	1335743	3.4	5.1
+	"Myeloma"	"34000"	"Maine"	"23"	"2019"	"2019"	67	1345770	3.1	5.0
+	"Myeloma"	"34000"	"Maryland"	"24"	"2017"	"2017"	258	6028186	3.6	4.3
+	"Myeloma"	"34000"	"Maryland"	"24"	"2019"	"2019"	267	6054954	3.6	4.4
+	"Myeloma"	"34000"	"Massachusetts"	"25"	"2017"	"2017"	250	6863560	2.9	3.6
+	"Myeloma"	"34000"	"Massachusetts"	"25"	"2019"	"2019"	244	6894883	2.7	3.5
+	"Myeloma"	"34000"	"Michigan"	"26"	"2017"	"2017"	467	9976752	3.7	4.7
+	"Myeloma"	"34000"	"Michigan"	"26"	"2019"	"2019"	456	9984795	3.4	4.6
+	"Myeloma"	"34000"	"Minnesota"	"27"	"2017"	"2017"	189	5569283	2.9	3.4
+	"Myeloma"	"34000"	"Minnesota"	"27"	"2019"	"2019"	195	5640053	2.8	3.5
+	"Myeloma"	"34000"	"Mississippi"	"28"	"2017"	"2017"	145	2990674	4.2	4.8
+	"Myeloma"	"34000"	"Mississippi"	"28"	"2019"	"2019"	120	2978227	3.3	4.0
+	"Myeloma"	"34000"	"Missouri"	"29"	"2017"	"2017"	240	6111382	3.1	3.9
+	"Myeloma"	"34000"	"Missouri"	"29"	"2019"	"2019"	261	6140475	3.2	4.3
+	"Myeloma"	"34000"	"Montana"	"30"	"2017"	"2017"	44	1053862	3.1	4.2
+	"Myeloma"	"34000"	"Montana"	"30"	"2019"	"2019"	45	1070123	3.1	4.2
+	"Myeloma"	"34000"	"Nebraska"	"31"	"2017"	"2017"	69	1916998	3.0	3.6
+	"Myeloma"	"34000"	"Nebraska"	"31"	"2019"	"2019"	73	1932571	3.0	3.8
+	"Myeloma"	"34000"	"Nevada"	"32"	"2017"	"2017"	78	2972097	2.4	2.6
+	"Myeloma"	"34000"	"Nevada"	"32"	"2019"	"2019"	102	3090771	2.8	3.3
+	"Myeloma"	"34000"	"New Hampshire"	"33"	"2017"	"2017"	54	1350395	3.1	4.0
+	"Myeloma"	"34000"	"New Hampshire"	"33"	"2019"	"2019"	57	1360783	2.9	4.2
+	"Myeloma"	"34000"	"New Jersey"	"34"	"2017"	"2017"	324	8888147	3.0	3.6
+	"Myeloma"	"34000"	"New Jersey"	"34"	"2019"	"2019"	340	8891258	2.9	3.8
+	"Myeloma"	"34000"	"New Mexico"	"35"	"2017"	"2017"	78	2092844	2.9	3.7
+	"Myeloma"	"34000"	"New Mexico"	"35"	"2019"	"2019"	85	2099634	3.0	4.0
+	"Myeloma"	"34000"	"New York"	"36"	"2017"	"2017"	728	19593849	2.9	3.7
+	"Myeloma"	"34000"	"New York"	"36"	"2019"	"2019"	660	19463131	2.5	3.4
+	"Myeloma"	"34000"	"North Carolina"	"37"	"2017"	"2017"	431	10275758	3.5	4.2
+	"Myeloma"	"34000"	"North Carolina"	"37"	"2019"	"2019"	477	10501384	3.6	4.5
+	"Myeloma"	"34000"	"North Dakota"	"38"	"2017"	"2017"	25	756755	2.7	3.3
+	"Myeloma"	"34000"	"North Dakota"	"38"	"2019"	"2019"	25	763724	2.5	3.3
+	"Myeloma"	"34000"	"Ohio"	"39"	"2017"	"2017"	533	11665706	3.6	4.6
+	"Myeloma"	"34000"	"Ohio"	"39"	"2019"	"2019"	497	11696507	3.2	4.2
+	"Myeloma"	"34000"	"Oklahoma"	"40"	"2017"	"2017"	142	3933602	3.1	3.6
+	"Myeloma"	"34000"	"Oklahoma"	"40"	"2019"	"2019"	169	3960676	3.6	4.3
+	"Myeloma"	"34000"	"Oregon"	"41"	"2017"	"2017"	167	4147294	3.2	4.0
+	"Myeloma"	"34000"	"Oregon"	"41"	"2019"	"2019"	159	4216116	2.9	3.8
+	"Myeloma"	"34000"	"Pennsylvania"	"42"	"2017"	"2017"	567	12794679	3.3	4.4
+	"Myeloma"	"34000"	"Pennsylvania"	"42"	"2019"	"2019"	569	12798883	3.1	4.4
+	"Myeloma"	"34000"	"Rhode Island"	"44"	"2017"	"2017"	40	1056554	2.7	3.8
+	"Myeloma"	"34000"	"Rhode Island"	"44"	"2019"	"2019"	44	1058158	3.0	4.2
+	"Myeloma"	"34000"	"South Carolina"	"45"	"2017"	"2017"	253	5027102	4.0	5.0
+	"Myeloma"	"34000"	"South Carolina"	"45"	"2019"	"2019"	253	5157702	3.7	4.9
+	"Myeloma"	"34000"	"South Dakota"	"46"	"2017"	"2017"	43	873732	3.9	4.9
+	"Myeloma"	"34000"	"South Dakota"	"46"	"2019"	"2019"	35	887127	3.0	3.9
+	"Myeloma"	"34000"	"Tennessee"	"47"	"2017"	"2017"	273	6714748	3.4	4.1
+	"Myeloma"	"34000"	"Tennessee"	"47"	"2019"	"2019"	287	6830325	3.3	4.2
+	"Myeloma"	"34000"	"Texas"	"48"	"2017"	"2017"	915	28291024	3.4	3.2
+	"Myeloma"	"34000"	"Texas"	"48"	"2019"	"2019"	856	28986794	3.0	3.0
+	"Myeloma"	"34000"	"Utah"	"49"	"2017"	"2017"	75	3103540	2.9	2.4
+	"Myeloma"	"34000"	"Utah"	"49"	"2019"	"2019"	82	3203383	3.0	2.6
+	"Myeloma"	"34000"	"Vermont"	"50"	"2017"	"2017"	21	625132	2.3	3.4
+	"Myeloma"	"34000"	"Vermont"	"50"	"2019"	"2019"	30	624046	3.2	4.8
+	"Myeloma"	"34000"	"Virginia"	"51"	"2017"	"2017"	328	8471011	3.3	3.9
+	"Myeloma"	"34000"	"Virginia"	"51"	"2019"	"2019"	325	8556642	3.2	3.8
+	"Myeloma"	"34000"	"Washington"	"53"	"2017"	"2017"	244	7427951	3.0	3.3
+	"Myeloma"	"34000"	"Washington"	"53"	"2019"	"2019"	270	7614024	3.0	3.5
+	"Myeloma"	"34000"	"West Virginia"	"54"	"2017"	"2017"	81	1818683	3.1	4.5
+	"Myeloma"	"34000"	"West Virginia"	"54"	"2019"	"2019"	78	1795263	3.0	4.3
+	"Myeloma"	"34000"	"Wisconsin"	"55"	"2017"	"2017"	223	5793147	3.0	3.8
+	"Myeloma"	"34000"	"Wisconsin"	"55"	"2019"	"2019"	236	5824581	3.1	4.1
+	"Myeloma"	"34000"	"Wyoming"	"56"	"2017"	"2017"	16	579994	2.4	2.8
+	"Myeloma"	"34000"	"Wyoming"	"56"	"2019"	"2019"	19	580116	2.7	3.3
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Alabama"	"01"	"2017"	"2017"	302	4877989	5.1	6.2
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Alabama"	"01"	"2019"	"2019"	295	4907965	4.7	6.0
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Alaska"	"02"	"2017"	"2017"	33	740983	5.3	4.5
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Alaska"	"02"	"2019"	"2019"	35	733603	5.8	4.8
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Arizona"	"04"	"2017"	"2017"	389	7048088	4.4	5.5
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Arizona"	"04"	"2019"	"2019"	409	7291843	4.3	5.6
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Arkansas"	"05"	"2017"	"2017"	194	3003855	5.3	6.5
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Arkansas"	"05"	"2019"	"2019"	198	3020985	5.2	6.6
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"California"	"06"	"2017"	"2017"	2222	39337785	5.2	5.6
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"California"	"06"	"2019"	"2019"	2165	39437610	4.8	5.5
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Colorado"	"08"	"2017"	"2017"	267	5617421	4.6	4.8
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Colorado"	"08"	"2019"	"2019"	270	5758486	4.4	4.7
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Connecticut"	"09"	"2017"	"2017"	238	3575324	5.1	6.7
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Connecticut"	"09"	"2019"	"2019"	221	3566022	4.5	6.2
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Delaware"	"10"	"2017"	"2017"	67	957942	5.5	7.0
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Delaware"	"10"	"2019"	"2019"	70	976668	5.1	7.2
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"District of Columbia"	"11"	"2017"	"2017"	35	697079	5.5	5.0
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"District of Columbia"	"11"	"2019"	"2019"	22	708253	3.1	3.1
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Florida"	"12"	"2017"	"2017"	1550	20977089	4.9	7.4
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Florida"	"12"	"2019"	"2019"	1552	21492056	4.7	7.2
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Georgia"	"13"	"2017"	"2017"	515	10417031	5.0	4.9
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Georgia"	"13"	"2019"	"2019"	520	10628020	4.7	4.9
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Hawaii"	"15"	"2017"	"2017"	86	1425763	4.5	6.0
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Hawaii"	"15"	"2019"	"2019"	111	1415615	5.6	7.8
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Idaho"	"16"	"2017"	"2017"	119	1719745	6.1	6.9
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Idaho"	"16"	"2019"	"2019"	105	1789060	5.0	5.9
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Illinois"	"17"	"2017"	"2017"	784	12779893	5.2	6.1
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Illinois"	"17"	"2019"	"2019"	834	12667017	5.4	6.6
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Indiana"	"18"	"2017"	"2017"	446	6662068	5.7	6.7
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Indiana"	"18"	"2019"	"2019"	464	6731010	5.7	6.9
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Iowa"	"19"	"2017"	"2017"	241	3143734	5.9	7.7
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Iowa"	"19"	"2019"	"2019"	241	3159596	5.6	7.6
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Kansas"	"20"	"2017"	"2017"	177	2910892	5.1	6.1
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Kansas"	"20"	"2019"	"2019"	213	2912635	5.8	7.3
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Kentucky"	"21"	"2017"	"2017"	340	4455590	6.3	7.6
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Kentucky"	"21"	"2019"	"2019"	321	4472345	5.9	7.2
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Louisiana"	"22"	"2017"	"2017"	277	4673673	5.3	5.9
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Louisiana"	"22"	"2019"	"2019"	299	4658285	5.4	6.4
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Maine"	"23"	"2017"	"2017"	120	1335743	6.1	9.0
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Maine"	"23"	"2019"	"2019"	117	1345770	5.5	8.7
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Maryland"	"24"	"2017"	"2017"	349	6028186	5.0	5.8
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Maryland"	"24"	"2019"	"2019"	331	6054954	4.6	5.5
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Massachusetts"	"25"	"2017"	"2017"	454	6863560	5.4	6.6
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Massachusetts"	"25"	"2019"	"2019"	390	6894883	4.5	5.7
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Michigan"	"26"	"2017"	"2017"	687	9976752	5.5	6.9
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Michigan"	"26"	"2019"	"2019"	776	9984795	6.0	7.8
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Minnesota"	"27"	"2017"	"2017"	420	5569283	6.2	7.5
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Minnesota"	"27"	"2019"	"2019"	418	5640053	6.0	7.4
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Mississippi"	"28"	"2017"	"2017"	161	2990674	4.7	5.4
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Mississippi"	"28"	"2019"	"2019"	170	2978227	4.9	5.7
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Missouri"	"29"	"2017"	"2017"	446	6111382	5.8	7.3
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Missouri"	"29"	"2019"	"2019"	423	6140475	5.2	6.9
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Montana"	"30"	"2017"	"2017"	85	1053862	6.3	8.1
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Montana"	"30"	"2019"	"2019"	58	1070123	4.0	5.4
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Nebraska"	"31"	"2017"	"2017"	135	1916998	6.0	7.0
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Nebraska"	"31"	"2019"	"2019"	120	1932571	5.1	6.2
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Nevada"	"32"	"2017"	"2017"	174	2972097	5.4	5.9
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Nevada"	"32"	"2019"	"2019"	201	3090771	5.6	6.5
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"New Hampshire"	"33"	"2017"	"2017"	92	1350395	5.4	6.8
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"New Hampshire"	"33"	"2019"	"2019"	94	1360783	4.8	6.9
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"New Jersey"	"34"	"2017"	"2017"	574	8888147	5.2	6.5
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"New Jersey"	"34"	"2019"	"2019"	501	8891258	4.4	5.6
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"New Mexico"	"35"	"2017"	"2017"	118	2092844	4.6	5.6
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"New Mexico"	"35"	"2019"	"2019"	104	2099634	3.8	5.0
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"New York"	"36"	"2017"	"2017"	1317	19593849	5.4	6.7
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"New York"	"36"	"2019"	"2019"	1171	19463131	4.6	6.0
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"North Carolina"	"37"	"2017"	"2017"	597	10275758	5.0	5.8
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"North Carolina"	"37"	"2019"	"2019"	620	10501384	4.9	5.9
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"North Dakota"	"38"	"2017"	"2017"	42	756755	4.7	5.6
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"North Dakota"	"38"	"2019"	"2019"	37	763724	3.9	4.8
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Ohio"	"39"	"2017"	"2017"	859	11665706	5.8	7.4
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Ohio"	"39"	"2019"	"2019"	837	11696507	5.5	7.2
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Oklahoma"	"40"	"2017"	"2017"	284	3933602	6.2	7.2
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Oklahoma"	"40"	"2019"	"2019"	283	3960676	5.9	7.1
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Oregon"	"41"	"2017"	"2017"	280	4147294	5.4	6.8
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Oregon"	"41"	"2019"	"2019"	273	4216116	5.0	6.5
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Pennsylvania"	"42"	"2017"	"2017"	1031	12794679	5.9	8.1
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Pennsylvania"	"42"	"2019"	"2019"	954	12798883	5.3	7.5
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Rhode Island"	"44"	"2017"	"2017"	78	1056554	5.3	7.4
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Rhode Island"	"44"	"2019"	"2019"	73	1058158	5.0	6.9
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"South Carolina"	"45"	"2017"	"2017"	295	5027102	4.8	5.9
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"South Carolina"	"45"	"2019"	"2019"	289	5157702	4.4	5.6
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"South Dakota"	"46"	"2017"	"2017"	70	873732	6.3	8.0
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"South Dakota"	"46"	"2019"	"2019"	69	887127	6.3	7.8
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tennessee"	"47"	"2017"	"2017"	445	6714748	5.5	6.6
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Tennessee"	"47"	"2019"	"2019"	450	6830325	5.3	6.6
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Texas"	"48"	"2017"	"2017"	1347	28291024	5.1	4.8
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Texas"	"48"	"2019"	"2019"	1393	28986794	5.0	4.8
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Utah"	"49"	"2017"	"2017"	132	3103540	5.3	4.3
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Utah"	"49"	"2019"	"2019"	115	3203383	4.2	3.6
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Vermont"	"50"	"2017"	"2017"	44	625132	5.4	7.0
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Vermont"	"50"	"2019"	"2019"	42	624046	4.6	6.7
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Virginia"	"51"	"2017"	"2017"	460	8471011	4.8	5.4
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Virginia"	"51"	"2019"	"2019"	470	8556642	4.7	5.5
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington"	"53"	"2017"	"2017"	449	7427951	5.3	6.0
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Washington"	"53"	"2019"	"2019"	496	7614024	5.6	6.5
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"West Virginia"	"54"	"2017"	"2017"	162	1818683	6.3	8.9
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"West Virginia"	"54"	"2019"	"2019"	170	1795263	6.6	9.5
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Wisconsin"	"55"	"2017"	"2017"	444	5793147	6.0	7.7
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Wisconsin"	"55"	"2019"	"2019"	442	5824581	5.9	7.6
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Wyoming"	"56"	"2017"	"2017"	26	579994	4.1	4.5
+	"Non-Hodgkin Lymphoma"	"33041-33042"	"Wyoming"	"56"	"2019"	"2019"	38	580116	5.3	6.6
+	"Oral Cavity and Pharynx"	"20010-20100"	"Alabama"	"01"	"2017"	"2017"	178	4877989	2.8	3.6
+	"Oral Cavity and Pharynx"	"20010-20100"	"Alabama"	"01"	"2019"	"2019"	206	4907965	3.1	4.2
+	"Oral Cavity and Pharynx"	"20010-20100"	"Alaska"	"02"	"2017"	"2017"	18	740983	2.3	2.4
+	"Oral Cavity and Pharynx"	"20010-20100"	"Alaska"	"02"	"2019"	"2019"	20	733603	2.6	2.7
+	"Oral Cavity and Pharynx"	"20010-20100"	"Arizona"	"04"	"2017"	"2017"	181	7048088	2.0	2.6
+	"Oral Cavity and Pharynx"	"20010-20100"	"Arizona"	"04"	"2019"	"2019"	186	7291843	1.9	2.6
+	"Oral Cavity and Pharynx"	"20010-20100"	"Arkansas"	"05"	"2017"	"2017"	107	3003855	2.9	3.6
+	"Oral Cavity and Pharynx"	"20010-20100"	"Arkansas"	"05"	"2019"	"2019"	110	3020985	2.8	3.6
+	"Oral Cavity and Pharynx"	"20010-20100"	"California"	"06"	"2017"	"2017"	1050	39337785	2.4	2.7
+	"Oral Cavity and Pharynx"	"20010-20100"	"California"	"06"	"2019"	"2019"	1092	39437610	2.4	2.8
+	"Oral Cavity and Pharynx"	"20010-20100"	"Colorado"	"08"	"2017"	"2017"	144	5617421	2.2	2.6
+	"Oral Cavity and Pharynx"	"20010-20100"	"Colorado"	"08"	"2019"	"2019"	121	5758486	1.9	2.1
+	"Oral Cavity and Pharynx"	"20010-20100"	"Connecticut"	"09"	"2017"	"2017"	99	3575324	2.1	2.8
+	"Oral Cavity and Pharynx"	"20010-20100"	"Connecticut"	"09"	"2019"	"2019"	68	3566022	1.4	1.9
+	"Oral Cavity and Pharynx"	"20010-20100"	"Delaware"	"10"	"2017"	"2017"	38	957942	2.8	4.0
+	"Oral Cavity and Pharynx"	"20010-20100"	"Delaware"	"10"	"2019"	"2019"	30	976668	2.1	3.1
+	"Oral Cavity and Pharynx"	"20010-20100"	"District of Columbia"	"11"	"2019"	"2019"	18	708253	2.5	2.5
+	"Oral Cavity and Pharynx"	"20010-20100"	"Florida"	"12"	"2017"	"2017"	829	20977089	2.7	4.0
+	"Oral Cavity and Pharynx"	"20010-20100"	"Florida"	"12"	"2019"	"2019"	842	21492056	2.6	3.9
+	"Oral Cavity and Pharynx"	"20010-20100"	"Georgia"	"13"	"2017"	"2017"	313	10417031	2.7	3.0
+	"Oral Cavity and Pharynx"	"20010-20100"	"Georgia"	"13"	"2019"	"2019"	318	10628020	2.6	3.0
+	"Oral Cavity and Pharynx"	"20010-20100"	"Hawaii"	"15"	"2017"	"2017"	53	1425763	2.7	3.7
+	"Oral Cavity and Pharynx"	"20010-20100"	"Hawaii"	"15"	"2019"	"2019"	52	1415615	2.7	3.7
+	"Oral Cavity and Pharynx"	"20010-20100"	"Idaho"	"16"	"2017"	"2017"	46	1719745	2.3	2.7
+	"Oral Cavity and Pharynx"	"20010-20100"	"Idaho"	"16"	"2019"	"2019"	55	1789060	2.5	3.1
+	"Oral Cavity and Pharynx"	"20010-20100"	"Illinois"	"17"	"2017"	"2017"	412	12779893	2.6	3.2
+	"Oral Cavity and Pharynx"	"20010-20100"	"Illinois"	"17"	"2019"	"2019"	409	12667017	2.5	3.2
+	"Oral Cavity and Pharynx"	"20010-20100"	"Indiana"	"18"	"2017"	"2017"	226	6662068	2.8	3.4
+	"Oral Cavity and Pharynx"	"20010-20100"	"Indiana"	"18"	"2019"	"2019"	230	6731010	2.8	3.4
+	"Oral Cavity and Pharynx"	"20010-20100"	"Iowa"	"19"	"2017"	"2017"	119	3143734	2.9	3.8
+	"Oral Cavity and Pharynx"	"20010-20100"	"Iowa"	"19"	"2019"	"2019"	107	3159596	2.6	3.4
+	"Oral Cavity and Pharynx"	"20010-20100"	"Kansas"	"20"	"2017"	"2017"	97	2910892	2.7	3.3
+	"Oral Cavity and Pharynx"	"20010-20100"	"Kansas"	"20"	"2019"	"2019"	86	2912635	2.4	3.0
+	"Oral Cavity and Pharynx"	"20010-20100"	"Kentucky"	"21"	"2017"	"2017"	163	4455590	2.9	3.7
+	"Oral Cavity and Pharynx"	"20010-20100"	"Kentucky"	"21"	"2019"	"2019"	170	4472345	2.9	3.8
+	"Oral Cavity and Pharynx"	"20010-20100"	"Louisiana"	"22"	"2017"	"2017"	176	4673673	3.1	3.8
+	"Oral Cavity and Pharynx"	"20010-20100"	"Louisiana"	"22"	"2019"	"2019"	172	4658285	3.0	3.7
+	"Oral Cavity and Pharynx"	"20010-20100"	"Maine"	"23"	"2017"	"2017"	46	1335743	2.1	3.4
+	"Oral Cavity and Pharynx"	"20010-20100"	"Maine"	"23"	"2019"	"2019"	64	1345770	2.9	4.8
+	"Oral Cavity and Pharynx"	"20010-20100"	"Maryland"	"24"	"2017"	"2017"	177	6028186	2.4	2.9
+	"Oral Cavity and Pharynx"	"20010-20100"	"Maryland"	"24"	"2019"	"2019"	182	6054954	2.4	3.0
+	"Oral Cavity and Pharynx"	"20010-20100"	"Massachusetts"	"25"	"2017"	"2017"	209	6863560	2.4	3.0
+	"Oral Cavity and Pharynx"	"20010-20100"	"Massachusetts"	"25"	"2019"	"2019"	206	6894883	2.2	3.0
+	"Oral Cavity and Pharynx"	"20010-20100"	"Michigan"	"26"	"2017"	"2017"	340	9976752	2.6	3.4
+	"Oral Cavity and Pharynx"	"20010-20100"	"Michigan"	"26"	"2019"	"2019"	347	9984795	2.6	3.5
+	"Oral Cavity and Pharynx"	"20010-20100"	"Minnesota"	"27"	"2017"	"2017"	167	5569283	2.4	3.0
+	"Oral Cavity and Pharynx"	"20010-20100"	"Minnesota"	"27"	"2019"	"2019"	180	5640053	2.5	3.2
+	"Oral Cavity and Pharynx"	"20010-20100"	"Mississippi"	"28"	"2017"	"2017"	110	2990674	3.0	3.7
+	"Oral Cavity and Pharynx"	"20010-20100"	"Mississippi"	"28"	"2019"	"2019"	121	2978227	3.2	4.1
+	"Oral Cavity and Pharynx"	"20010-20100"	"Missouri"	"29"	"2017"	"2017"	211	6111382	2.7	3.5
+	"Oral Cavity and Pharynx"	"20010-20100"	"Missouri"	"29"	"2019"	"2019"	241	6140475	2.9	3.9
+	"Oral Cavity and Pharynx"	"20010-20100"	"Montana"	"30"	"2017"	"2017"	44	1053862	3.0	4.2
+	"Oral Cavity and Pharynx"	"20010-20100"	"Montana"	"30"	"2019"	"2019"	39	1070123	2.6	3.6
+	"Oral Cavity and Pharynx"	"20010-20100"	"Nebraska"	"31"	"2017"	"2017"	57	1916998	2.4	3.0
+	"Oral Cavity and Pharynx"	"20010-20100"	"Nebraska"	"31"	"2019"	"2019"	51	1932571	2.3	2.6
+	"Oral Cavity and Pharynx"	"20010-20100"	"Nevada"	"32"	"2017"	"2017"	87	2972097	2.5	2.9
+	"Oral Cavity and Pharynx"	"20010-20100"	"Nevada"	"32"	"2019"	"2019"	81	3090771	2.1	2.6
+	"Oral Cavity and Pharynx"	"20010-20100"	"New Hampshire"	"33"	"2017"	"2017"	53	1350395	2.9	3.9
+	"Oral Cavity and Pharynx"	"20010-20100"	"New Hampshire"	"33"	"2019"	"2019"	51	1360783	2.6	3.7
+	"Oral Cavity and Pharynx"	"20010-20100"	"New Jersey"	"34"	"2017"	"2017"	209	8888147	1.8	2.4
+	"Oral Cavity and Pharynx"	"20010-20100"	"New Jersey"	"34"	"2019"	"2019"	247	8891258	2.2	2.8
+	"Oral Cavity and Pharynx"	"20010-20100"	"New Mexico"	"35"	"2017"	"2017"	70	2092844	2.6	3.3
+	"Oral Cavity and Pharynx"	"20010-20100"	"New Mexico"	"35"	"2019"	"2019"	68	2099634	2.4	3.2
+	"Oral Cavity and Pharynx"	"20010-20100"	"New York"	"36"	"2017"	"2017"	542	19593849	2.2	2.8
+	"Oral Cavity and Pharynx"	"20010-20100"	"New York"	"36"	"2019"	"2019"	555	19463131	2.2	2.9
+	"Oral Cavity and Pharynx"	"20010-20100"	"North Carolina"	"37"	"2017"	"2017"	328	10275758	2.6	3.2
+	"Oral Cavity and Pharynx"	"20010-20100"	"North Carolina"	"37"	"2019"	"2019"	362	10501384	2.7	3.4
+	"Oral Cavity and Pharynx"	"20010-20100"	"North Dakota"	"38"	"2019"	"2019"	20	763724	2.2	2.6
+	"Oral Cavity and Pharynx"	"20010-20100"	"Ohio"	"39"	"2017"	"2017"	422	11665706	2.8	3.6
+	"Oral Cavity and Pharynx"	"20010-20100"	"Ohio"	"39"	"2019"	"2019"	448	11696507	2.9	3.8
+	"Oral Cavity and Pharynx"	"20010-20100"	"Oklahoma"	"40"	"2017"	"2017"	142	3933602	3.1	3.6
+	"Oral Cavity and Pharynx"	"20010-20100"	"Oklahoma"	"40"	"2019"	"2019"	133	3960676	2.7	3.4
+	"Oral Cavity and Pharynx"	"20010-20100"	"Oregon"	"41"	"2017"	"2017"	145	4147294	2.6	3.5
+	"Oral Cavity and Pharynx"	"20010-20100"	"Oregon"	"41"	"2019"	"2019"	169	4216116	3.0	4.0
+	"Oral Cavity and Pharynx"	"20010-20100"	"Pennsylvania"	"42"	"2017"	"2017"	436	12794679	2.5	3.4
+	"Oral Cavity and Pharynx"	"20010-20100"	"Pennsylvania"	"42"	"2019"	"2019"	438	12798883	2.4	3.4
+	"Oral Cavity and Pharynx"	"20010-20100"	"Rhode Island"	"44"	"2017"	"2017"	31	1056554	2.4	2.9
+	"Oral Cavity and Pharynx"	"20010-20100"	"Rhode Island"	"44"	"2019"	"2019"	26	1058158	1.8	2.5
+	"Oral Cavity and Pharynx"	"20010-20100"	"South Carolina"	"45"	"2017"	"2017"	194	5027102	3.0	3.9
+	"Oral Cavity and Pharynx"	"20010-20100"	"South Carolina"	"45"	"2019"	"2019"	200	5157702	2.9	3.9
+	"Oral Cavity and Pharynx"	"20010-20100"	"South Dakota"	"46"	"2017"	"2017"	29	873732	2.8	3.3
+	"Oral Cavity and Pharynx"	"20010-20100"	"South Dakota"	"46"	"2019"	"2019"	23	887127	2.0	2.6
+	"Oral Cavity and Pharynx"	"20010-20100"	"Tennessee"	"47"	"2017"	"2017"	221	6714748	2.7	3.3
+	"Oral Cavity and Pharynx"	"20010-20100"	"Tennessee"	"47"	"2019"	"2019"	270	6830325	3.1	4.0
+	"Oral Cavity and Pharynx"	"20010-20100"	"Texas"	"48"	"2017"	"2017"	719	28291024	2.5	2.5
+	"Oral Cavity and Pharynx"	"20010-20100"	"Texas"	"48"	"2019"	"2019"	836	28986794	2.8	2.9
+	"Oral Cavity and Pharynx"	"20010-20100"	"Utah"	"49"	"2017"	"2017"	45	3103540	1.7	1.4
+	"Oral Cavity and Pharynx"	"20010-20100"	"Utah"	"49"	"2019"	"2019"	49	3203383	1.7	1.5
+	"Oral Cavity and Pharynx"	"20010-20100"	"Vermont"	"50"	"2017"	"2017"	16	625132	1.8	2.6
+	"Oral Cavity and Pharynx"	"20010-20100"	"Vermont"	"50"	"2019"	"2019"	26	624046	2.8	4.2
+	"Oral Cavity and Pharynx"	"20010-20100"	"Virginia"	"51"	"2017"	"2017"	259	8471011	2.6	3.1
+	"Oral Cavity and Pharynx"	"20010-20100"	"Virginia"	"51"	"2019"	"2019"	239	8556642	2.3	2.8
+	"Oral Cavity and Pharynx"	"20010-20100"	"Washington"	"53"	"2017"	"2017"	244	7427951	2.7	3.3
+	"Oral Cavity and Pharynx"	"20010-20100"	"Washington"	"53"	"2019"	"2019"	245	7614024	2.7	3.2
+	"Oral Cavity and Pharynx"	"20010-20100"	"West Virginia"	"54"	"2017"	"2017"	74	1818683	3.0	4.1
+	"Oral Cavity and Pharynx"	"20010-20100"	"West Virginia"	"54"	"2019"	"2019"	68	1795263	2.5	3.8
+	"Oral Cavity and Pharynx"	"20010-20100"	"Wisconsin"	"55"	"2017"	"2017"	202	5793147	2.6	3.5
+	"Oral Cavity and Pharynx"	"20010-20100"	"Wisconsin"	"55"	"2019"	"2019"	206	5824581	2.6	3.5
+	"Oral Cavity and Pharynx"	"20010-20100"	"Wyoming"	"56"	"2017"	"2017"	19	579994	2.6	3.3
+	"Ovary"	"27040"	"Alabama"	"01"	"2017"	"2017"	233	2517486	6.8	9.3
+	"Ovary"	"27040"	"Alabama"	"01"	"2019"	"2019"	220	2536133	6.3	8.7
+	"Ovary"	"27040"	"Alaska"	"02"	"2017"	"2017"	17	353997	4.4	4.8
+	"Ovary"	"27040"	"Alaska"	"02"	"2019"	"2019"	19	350790	5.2	5.4
+	"Ovary"	"27040"	"Arizona"	"04"	"2017"	"2017"	311	3545316	6.6	8.8
+	"Ovary"	"27040"	"Arizona"	"04"	"2019"	"2019"	305	3669041	6.0	8.3
+	"Ovary"	"27040"	"Arkansas"	"05"	"2017"	"2017"	155	1527948	7.7	10.1
+	"Ovary"	"27040"	"Arkansas"	"05"	"2019"	"2019"	108	1538076	5.3	7.0
+	"Ovary"	"27040"	"California"	"06"	"2017"	"2017"	1635	19783962	6.8	8.3
+	"Ovary"	"27040"	"California"	"06"	"2019"	"2019"	1523	19829085	6.2	7.7
+	"Ovary"	"27040"	"Colorado"	"08"	"2017"	"2017"	192	2789649	5.9	6.9
+	"Ovary"	"27040"	"Colorado"	"08"	"2019"	"2019"	216	2857610	6.2	7.6
+	"Ovary"	"27040"	"Connecticut"	"09"	"2017"	"2017"	155	1831503	5.8	8.5
+	"Ovary"	"27040"	"Connecticut"	"09"	"2019"	"2019"	160	1826990	5.9	8.8
+	"Ovary"	"27040"	"Delaware"	"10"	"2017"	"2017"	46	494606	6.3	9.3
+	"Ovary"	"27040"	"Delaware"	"10"	"2019"	"2019"	43	504571	5.7	8.5
+	"Ovary"	"27040"	"District of Columbia"	"11"	"2017"	"2017"	24	366336	6.3	6.6
+	"Ovary"	"27040"	"District of Columbia"	"11"	"2019"	"2019"	26	372393	6.8	7.0
+	"Ovary"	"27040"	"Florida"	"12"	"2017"	"2017"	1022	10720663	6.2	9.5
+	"Ovary"	"27040"	"Florida"	"12"	"2019"	"2019"	1054	10987074	6.0	9.6
+	"Ovary"	"27040"	"Georgia"	"13"	"2017"	"2017"	388	5349075	6.3	7.3
+	"Ovary"	"27040"	"Georgia"	"13"	"2019"	"2019"	433	5462335	6.6	7.9
+	"Ovary"	"27040"	"Hawaii"	"15"	"2017"	"2017"	43	710227	4.2	6.1
+	"Ovary"	"27040"	"Hawaii"	"15"	"2019"	"2019"	49	706419	4.4	6.9
+	"Ovary"	"27040"	"Idaho"	"16"	"2017"	"2017"	68	858030	6.3	7.9
+	"Ovary"	"27040"	"Idaho"	"16"	"2019"	"2019"	65	891995	5.8	7.3
+	"Ovary"	"27040"	"Illinois"	"17"	"2017"	"2017"	597	6501339	7.1	9.2
+	"Ovary"	"27040"	"Illinois"	"17"	"2019"	"2019"	556	6443120	6.3	8.6
+	"Ovary"	"27040"	"Indiana"	"18"	"2017"	"2017"	308	3378096	7.0	9.1
+	"Ovary"	"27040"	"Indiana"	"18"	"2019"	"2019"	230	3411571	5.1	6.7
+	"Ovary"	"27040"	"Iowa"	"19"	"2017"	"2017"	159	1579862	7.2	10.1
+	"Ovary"	"27040"	"Iowa"	"19"	"2019"	"2019"	149	1586636	6.6	9.4
+	"Ovary"	"27040"	"Kansas"	"20"	"2017"	"2017"	139	1460476	7.1	9.5
+	"Ovary"	"27040"	"Kansas"	"20"	"2019"	"2019"	126	1462080	6.4	8.6
+	"Ovary"	"27040"	"Kentucky"	"21"	"2017"	"2017"	171	2260311	5.9	7.6
+	"Ovary"	"27040"	"Kentucky"	"21"	"2019"	"2019"	165	2269036	5.3	7.3
+	"Ovary"	"27040"	"Louisiana"	"22"	"2017"	"2017"	181	2390634	6.0	7.6
+	"Ovary"	"27040"	"Louisiana"	"22"	"2019"	"2019"	165	2385969	5.4	6.9
+	"Ovary"	"27040"	"Maine"	"23"	"2017"	"2017"	82	681559	7.5	12.0
+	"Ovary"	"27040"	"Maine"	"23"	"2019"	"2019"	59	686674	5.2	8.6
+	"Ovary"	"27040"	"Maryland"	"24"	"2017"	"2017"	245	3106751	6.1	7.9
+	"Ovary"	"27040"	"Maryland"	"24"	"2019"	"2019"	249	3122480	5.8	8.0
+	"Ovary"	"27040"	"Massachusetts"	"25"	"2017"	"2017"	337	3532606	7.1	9.5
+	"Ovary"	"27040"	"Massachusetts"	"25"	"2019"	"2019"	291	3548380	5.9	8.2
+	"Ovary"	"27040"	"Michigan"	"26"	"2017"	"2017"	441	5064544	6.3	8.7
+	"Ovary"	"27040"	"Michigan"	"26"	"2019"	"2019"	469	5066743	6.4	9.3
+	"Ovary"	"27040"	"Minnesota"	"27"	"2017"	"2017"	217	2796520	5.8	7.8
+	"Ovary"	"27040"	"Minnesota"	"27"	"2019"	"2019"	234	2830663	6.3	8.3
+	"Ovary"	"27040"	"Mississippi"	"28"	"2017"	"2017"	141	1539672	7.0	9.2
+	"Ovary"	"27040"	"Mississippi"	"28"	"2019"	"2019"	106	1534587	5.0	6.9
+	"Ovary"	"27040"	"Missouri"	"29"	"2017"	"2017"	252	3111381	6.0	8.1
+	"Ovary"	"27040"	"Missouri"	"29"	"2019"	"2019"	257	3127846	5.9	8.2
+	"Ovary"	"27040"	"Montana"	"30"	"2017"	"2017"	45	523400	6.1	8.6
+	"Ovary"	"27040"	"Montana"	"30"	"2019"	"2019"	50	531486	6.2	9.4
+	"Ovary"	"27040"	"Nebraska"	"31"	"2017"	"2017"	89	960422	7.3	9.3
+	"Ovary"	"27040"	"Nebraska"	"31"	"2019"	"2019"	58	967601	4.5	6.0
+	"Ovary"	"27040"	"Nevada"	"32"	"2017"	"2017"	130	1480860	7.2	8.8
+	"Ovary"	"27040"	"Nevada"	"32"	"2019"	"2019"	119	1541266	6.2	7.7
+	"Ovary"	"27040"	"New Hampshire"	"33"	"2017"	"2017"	72	681670	7.4	10.6
+	"Ovary"	"27040"	"New Hampshire"	"33"	"2019"	"2019"	46	686814	4.3	6.7
+	"Ovary"	"27040"	"New Jersey"	"34"	"2017"	"2017"	418	4547537	6.7	9.2
+	"Ovary"	"27040"	"New Jersey"	"34"	"2019"	"2019"	366	4545698	5.7	8.1
+	"Ovary"	"27040"	"New Mexico"	"35"	"2017"	"2017"	97	1056754	6.8	9.2
+	"Ovary"	"27040"	"New Mexico"	"35"	"2019"	"2019"	83	1060654	5.5	7.8
+	"Ovary"	"27040"	"New York"	"36"	"2017"	"2017"	890	10080806	6.5	8.8
+	"Ovary"	"27040"	"New York"	"36"	"2019"	"2019"	872	10012065	6.2	8.7
+	"Ovary"	"27040"	"North Carolina"	"37"	"2017"	"2017"	440	5274812	6.3	8.3
+	"Ovary"	"27040"	"North Carolina"	"37"	"2019"	"2019"	382	5393755	5.3	7.1
+	"Ovary"	"27040"	"North Dakota"	"38"	"2017"	"2017"	26	369032	5.3	7.0
+	"Ovary"	"27040"	"North Dakota"	"38"	"2019"	"2019"	18	372678	3.6	4.8
+	"Ovary"	"27040"	"Ohio"	"39"	"2017"	"2017"	547	5949075	6.5	9.2
+	"Ovary"	"27040"	"Ohio"	"39"	"2019"	"2019"	505	5962634	6.0	8.5
+	"Ovary"	"27040"	"Oklahoma"	"40"	"2017"	"2017"	204	1984912	8.1	10.3
+	"Ovary"	"27040"	"Oklahoma"	"40"	"2019"	"2019"	189	1999160	7.6	9.5
+	"Ovary"	"27040"	"Oregon"	"41"	"2017"	"2017"	238	2091485	8.4	11.4
+	"Ovary"	"27040"	"Oregon"	"41"	"2019"	"2019"	202	2126006	6.7	9.5
+	"Ovary"	"27040"	"Pennsylvania"	"42"	"2017"	"2017"	678	6528507	7.0	10.4
+	"Ovary"	"27040"	"Pennsylvania"	"42"	"2019"	"2019"	656	6526489	6.7	10.1
+	"Ovary"	"27040"	"Rhode Island"	"44"	"2017"	"2017"	55	542884	7.1	10.1
+	"Ovary"	"27040"	"Rhode Island"	"44"	"2019"	"2019"	49	543197	5.9	9.0
+	"Ovary"	"27040"	"South Carolina"	"45"	"2017"	"2017"	188	2588374	5.4	7.3
+	"Ovary"	"27040"	"South Carolina"	"45"	"2019"	"2019"	190	2659704	5.1	7.1
+	"Ovary"	"27040"	"South Dakota"	"46"	"2017"	"2017"	51	432891	9.5	11.8
+	"Ovary"	"27040"	"South Dakota"	"46"	"2019"	"2019"	35	439553	5.8	8.0
+	"Ovary"	"27040"	"Tennessee"	"47"	"2017"	"2017"	321	3438006	7.0	9.3
+	"Ovary"	"27040"	"Tennessee"	"47"	"2019"	"2019"	286	3498429	6.1	8.2
+	"Ovary"	"27040"	"Texas"	"48"	"2017"	"2017"	927	14238026	6.1	6.5
+	"Ovary"	"27040"	"Texas"	"48"	"2019"	"2019"	919	14591903	5.7	6.3
+	"Ovary"	"27040"	"Utah"	"49"	"2017"	"2017"	101	1540562	7.3	6.6
+	"Ovary"	"27040"	"Utah"	"49"	"2019"	"2019"	93	1589845	6.1	5.8
+	"Ovary"	"27040"	"Vermont"	"50"	"2017"	"2017"	28	316438	6.3	8.8
+	"Ovary"	"27040"	"Vermont"	"50"	"2019"	"2019"	23	315738	4.7	7.3
+	"Ovary"	"27040"	"Virginia"	"51"	"2017"	"2017"	392	4302531	7.1	9.1
+	"Ovary"	"27040"	"Virginia"	"51"	"2019"	"2019"	355	4345858	6.3	8.2
+	"Ovary"	"27040"	"Washington"	"53"	"2017"	"2017"	311	3712553	6.8	8.4
+	"Ovary"	"27040"	"Washington"	"53"	"2019"	"2019"	306	3802546	6.3	8.0
+	"Ovary"	"27040"	"West Virginia"	"54"	"2017"	"2017"	97	918498	7.1	10.6
+	"Ovary"	"27040"	"West Virginia"	"54"	"2019"	"2019"	90	906103	6.4	9.9
+	"Ovary"	"27040"	"Wisconsin"	"55"	"2017"	"2017"	258	2911984	6.4	8.9
+	"Ovary"	"27040"	"Wisconsin"	"55"	"2019"	"2019"	250	2925732	6.0	8.5
+	"Ovary"	"27040"	"Wyoming"	"56"	"2017"	"2017"	31	284115	8.3	10.9
+	"Ovary"	"27040"	"Wyoming"	"56"	"2019"	"2019"	26	284406	6.8	9.1
+	"Pancreas"	"21100"	"Alabama"	"01"	"2017"	"2017"	714	4877989	11.6	14.6
+	"Pancreas"	"21100"	"Alabama"	"01"	"2019"	"2019"	743	4907965	11.5	15.1
+	"Pancreas"	"21100"	"Alaska"	"02"	"2017"	"2017"	61	740983	9.2	8.2
+	"Pancreas"	"21100"	"Alaska"	"02"	"2019"	"2019"	70	733603	9.3	9.5
+	"Pancreas"	"21100"	"Arizona"	"04"	"2017"	"2017"	923	7048088	10.2	13.1
+	"Pancreas"	"21100"	"Arizona"	"04"	"2019"	"2019"	1022	7291843	10.5	14.0
+	"Pancreas"	"21100"	"Arkansas"	"05"	"2017"	"2017"	423	3003855	11.2	14.1
+	"Pancreas"	"21100"	"Arkansas"	"05"	"2019"	"2019"	419	3020985	10.5	13.9
+	"Pancreas"	"21100"	"California"	"06"	"2017"	"2017"	4526	39337785	10.4	11.5
+	"Pancreas"	"21100"	"California"	"06"	"2019"	"2019"	4714	39437610	10.4	12.0
+	"Pancreas"	"21100"	"Colorado"	"08"	"2017"	"2017"	551	5617421	8.9	9.8
+	"Pancreas"	"21100"	"Colorado"	"08"	"2019"	"2019"	618	5758486	9.5	10.7
+	"Pancreas"	"21100"	"Connecticut"	"09"	"2017"	"2017"	519	3575324	10.8	14.5
+	"Pancreas"	"21100"	"Connecticut"	"09"	"2019"	"2019"	513	3566022	10.3	14.4
+	"Pancreas"	"21100"	"Delaware"	"10"	"2017"	"2017"	161	957942	12.0	16.8
+	"Pancreas"	"21100"	"Delaware"	"10"	"2019"	"2019"	166	976668	11.9	17.0
+	"Pancreas"	"21100"	"District of Columbia"	"11"	"2017"	"2017"	76	697079	11.1	10.9
+	"Pancreas"	"21100"	"District of Columbia"	"11"	"2019"	"2019"	94	708253	13.5	13.3
+	"Pancreas"	"21100"	"Florida"	"12"	"2017"	"2017"	3289	20977089	10.4	15.7
+	"Pancreas"	"21100"	"Florida"	"12"	"2019"	"2019"	3490	21492056	10.4	16.2
+	"Pancreas"	"21100"	"Georgia"	"13"	"2017"	"2017"	1156	10417031	10.4	11.1
+	"Pancreas"	"21100"	"Georgia"	"13"	"2019"	"2019"	1319	10628020	11.1	12.4
+	"Pancreas"	"21100"	"Hawaii"	"15"	"2017"	"2017"	225	1425763	11.8	15.8
+	"Pancreas"	"21100"	"Hawaii"	"15"	"2019"	"2019"	210	1415615	10.6	14.8
+	"Pancreas"	"21100"	"Idaho"	"16"	"2017"	"2017"	244	1719745	12.3	14.2
+	"Pancreas"	"21100"	"Idaho"	"16"	"2019"	"2019"	225	1789060	10.2	12.6
+	"Pancreas"	"21100"	"Illinois"	"17"	"2017"	"2017"	1734	12779893	11.3	13.6
+	"Pancreas"	"21100"	"Illinois"	"17"	"2019"	"2019"	1823	12667017	11.5	14.4
+	"Pancreas"	"21100"	"Indiana"	"18"	"2017"	"2017"	955	6662068	12.1	14.3
+	"Pancreas"	"21100"	"Indiana"	"18"	"2019"	"2019"	999	6731010	11.8	14.8
+	"Pancreas"	"21100"	"Iowa"	"19"	"2017"	"2017"	462	3143734	11.2	14.7
+	"Pancreas"	"21100"	"Iowa"	"19"	"2019"	"2019"	477	3159596	11.3	15.1
+	"Pancreas"	"21100"	"Kansas"	"20"	"2017"	"2017"	372	2910892	10.4	12.8
+	"Pancreas"	"21100"	"Kansas"	"20"	"2019"	"2019"	417	2912635	11.2	14.3
+	"Pancreas"	"21100"	"Kentucky"	"21"	"2017"	"2017"	593	4455590	10.7	13.3
+	"Pancreas"	"21100"	"Kentucky"	"21"	"2019"	"2019"	648	4472345	11.1	14.5
+	"Pancreas"	"21100"	"Louisiana"	"22"	"2017"	"2017"	672	4673673	12.3	14.4
+	"Pancreas"	"21100"	"Louisiana"	"22"	"2019"	"2019"	757	4658285	13.3	16.3
+	"Pancreas"	"21100"	"Maine"	"23"	"2017"	"2017"	240	1335743	11.8	18.0
+	"Pancreas"	"21100"	"Maine"	"23"	"2019"	"2019"	234	1345770	11.2	17.4
+	"Pancreas"	"21100"	"Maryland"	"24"	"2017"	"2017"	802	6028186	11.2	13.3
+	"Pancreas"	"21100"	"Maryland"	"24"	"2019"	"2019"	855	6054954	11.3	14.1
+	"Pancreas"	"21100"	"Massachusetts"	"25"	"2017"	"2017"	1003	6863560	11.5	14.6
+	"Pancreas"	"21100"	"Massachusetts"	"25"	"2019"	"2019"	1057	6894883	11.7	15.3
+	"Pancreas"	"21100"	"Michigan"	"26"	"2017"	"2017"	1661	9976752	12.8	16.6
+	"Pancreas"	"21100"	"Michigan"	"26"	"2019"	"2019"	1657	9984795	12.2	16.6
+	"Pancreas"	"21100"	"Minnesota"	"27"	"2017"	"2017"	777	5569283	11.6	14.0
+	"Pancreas"	"21100"	"Minnesota"	"27"	"2019"	"2019"	782	5640053	11.0	13.9
+	"Pancreas"	"21100"	"Mississippi"	"28"	"2017"	"2017"	477	2990674	13.3	15.9
+	"Pancreas"	"21100"	"Mississippi"	"28"	"2019"	"2019"	437	2978227	11.8	14.7
+	"Pancreas"	"21100"	"Missouri"	"29"	"2017"	"2017"	904	6111382	11.5	14.8
+	"Pancreas"	"21100"	"Missouri"	"29"	"2019"	"2019"	965	6140475	11.9	15.7
+	"Pancreas"	"21100"	"Montana"	"30"	"2017"	"2017"	153	1053862	10.3	14.5
+	"Pancreas"	"21100"	"Montana"	"30"	"2019"	"2019"	164	1070123	10.9	15.3
+	"Pancreas"	"21100"	"Nebraska"	"31"	"2017"	"2017"	274	1916998	12.1	14.3
+	"Pancreas"	"21100"	"Nebraska"	"31"	"2019"	"2019"	263	1932571	11.1	13.6
+	"Pancreas"	"21100"	"Nevada"	"32"	"2017"	"2017"	380	2972097	11.0	12.8
+	"Pancreas"	"21100"	"Nevada"	"32"	"2019"	"2019"	380	3090771	10.1	12.3
+	"Pancreas"	"21100"	"New Hampshire"	"33"	"2017"	"2017"	189	1350395	10.3	14.0
+	"Pancreas"	"21100"	"New Hampshire"	"33"	"2019"	"2019"	252	1360783	12.9	18.5
+	"Pancreas"	"21100"	"New Jersey"	"34"	"2017"	"2017"	1336	8888147	11.9	15.0
+	"Pancreas"	"21100"	"New Jersey"	"34"	"2019"	"2019"	1302	8891258	11.1	14.6
+	"Pancreas"	"21100"	"New Mexico"	"35"	"2017"	"2017"	268	2092844	9.9	12.8
+	"Pancreas"	"21100"	"New Mexico"	"35"	"2019"	"2019"	275	2099634	9.9	13.1
+	"Pancreas"	"21100"	"New York"	"36"	"2017"	"2017"	2785	19593849	11.2	14.2
+	"Pancreas"	"21100"	"New York"	"36"	"2019"	"2019"	2769	19463131	10.8	14.2
+	"Pancreas"	"21100"	"North Carolina"	"37"	"2017"	"2017"	1365	10275758	10.8	13.3
+	"Pancreas"	"21100"	"North Carolina"	"37"	"2019"	"2019"	1438	10501384	10.7	13.7
+	"Pancreas"	"21100"	"North Dakota"	"38"	"2017"	"2017"	104	756755	11.9	13.7
+	"Pancreas"	"21100"	"North Dakota"	"38"	"2019"	"2019"	84	763724	9.0	11.0
+	"Pancreas"	"21100"	"Ohio"	"39"	"2017"	"2017"	1854	11665706	12.2	15.9
+	"Pancreas"	"21100"	"Ohio"	"39"	"2019"	"2019"	2005	11696507	12.7	17.1
+	"Pancreas"	"21100"	"Oklahoma"	"40"	"2017"	"2017"	518	3933602	11.1	13.2
+	"Pancreas"	"21100"	"Oklahoma"	"40"	"2019"	"2019"	540	3960676	10.9	13.6
+	"Pancreas"	"21100"	"Oregon"	"41"	"2017"	"2017"	640	4147294	12.2	15.4
+	"Pancreas"	"21100"	"Oregon"	"41"	"2019"	"2019"	608	4216116	10.7	14.4
+	"Pancreas"	"21100"	"Pennsylvania"	"42"	"2017"	"2017"	2203	12794679	12.3	17.2
+	"Pancreas"	"21100"	"Pennsylvania"	"42"	"2019"	"2019"	2124	12798883	11.7	16.6
+	"Pancreas"	"21100"	"Rhode Island"	"44"	"2017"	"2017"	154	1056554	11.0	14.6
+	"Pancreas"	"21100"	"Rhode Island"	"44"	"2019"	"2019"	182	1058158	12.7	17.2
+	"Pancreas"	"21100"	"South Carolina"	"45"	"2017"	"2017"	768	5027102	11.8	15.3
+	"Pancreas"	"21100"	"South Carolina"	"45"	"2019"	"2019"	775	5157702	11.2	15.0
+	"Pancreas"	"21100"	"South Dakota"	"46"	"2017"	"2017"	124	873732	11.6	14.2
+	"Pancreas"	"21100"	"South Dakota"	"46"	"2019"	"2019"	142	887127	12.3	16.0
+	"Pancreas"	"21100"	"Tennessee"	"47"	"2017"	"2017"	935	6714748	11.2	13.9
+	"Pancreas"	"21100"	"Tennessee"	"47"	"2019"	"2019"	944	6830325	10.9	13.8
+	"Pancreas"	"21100"	"Texas"	"48"	"2017"	"2017"	2815	28291024	10.2	10.0
+	"Pancreas"	"21100"	"Texas"	"48"	"2019"	"2019"	3130	28986794	10.6	10.8
+	"Pancreas"	"21100"	"Utah"	"49"	"2017"	"2017"	232	3103540	8.7	7.5
+	"Pancreas"	"21100"	"Utah"	"49"	"2019"	"2019"	273	3203383	9.7	8.5
+	"Pancreas"	"21100"	"Vermont"	"50"	"2017"	"2017"	101	625132	11.0	16.2
+	"Pancreas"	"21100"	"Vermont"	"50"	"2019"	"2019"	112	624046	12.1	17.9
+	"Pancreas"	"21100"	"Virginia"	"51"	"2017"	"2017"	1139	8471011	11.4	13.4
+	"Pancreas"	"21100"	"Virginia"	"51"	"2019"	"2019"	1132	8556642	10.7	13.2
+	"Pancreas"	"21100"	"Washington"	"53"	"2017"	"2017"	945	7427951	11.0	12.7
+	"Pancreas"	"21100"	"Washington"	"53"	"2019"	"2019"	980	7614024	10.7	12.9
+	"Pancreas"	"21100"	"West Virginia"	"54"	"2017"	"2017"	277	1818683	10.6	15.2
+	"Pancreas"	"21100"	"West Virginia"	"54"	"2019"	"2019"	316	1795263	11.9	17.6
+	"Pancreas"	"21100"	"Wisconsin"	"55"	"2017"	"2017"	858	5793147	11.5	14.8
+	"Pancreas"	"21100"	"Wisconsin"	"55"	"2019"	"2019"	902	5824581	11.5	15.5
+	"Pancreas"	"21100"	"Wyoming"	"56"	"2017"	"2017"	74	579994	10.4	12.8
+	"Pancreas"	"21100"	"Wyoming"	"56"	"2019"	"2019"	82	580116	11.3	14.1
+	"Prostate"	"28010"	"Alabama"	"01"	"2017"	"2017"	464	2360503	19.2	19.7
+	"Prostate"	"28010"	"Alabama"	"01"	"2019"	"2019"	507	2371832	19.4	21.4
+	"Prostate"	"28010"	"Alaska"	"02"	"2017"	"2017"	39	386986	17.0	10.1
+	"Prostate"	"28010"	"Alaska"	"02"	"2019"	"2019"	65	382813	24.2	17.0
+	"Prostate"	"28010"	"Arizona"	"04"	"2017"	"2017"	663	3502772	16.5	18.9
+	"Prostate"	"28010"	"Arizona"	"04"	"2019"	"2019"	735	3622802	16.7	20.3
+	"Prostate"	"28010"	"Arkansas"	"05"	"2017"	"2017"	267	1475907	17.2	18.1
+	"Prostate"	"28010"	"Arkansas"	"05"	"2019"	"2019"	341	1482909	20.6	23.0
+	"Prostate"	"28010"	"California"	"06"	"2017"	"2017"	3468	19553823	19.3	17.7
+	"Prostate"	"28010"	"California"	"06"	"2019"	"2019"	3623	19608525	19.1	18.5
+	"Prostate"	"28010"	"Colorado"	"08"	"2017"	"2017"	509	2827772	21.8	18.0
+	"Prostate"	"28010"	"Colorado"	"08"	"2019"	"2019"	528	2900876	20.3	18.2
+	"Prostate"	"28010"	"Connecticut"	"09"	"2017"	"2017"	373	1743821	19.1	21.4
+	"Prostate"	"28010"	"Connecticut"	"09"	"2019"	"2019"	385	1739032	18.8	22.1
+	"Prostate"	"28010"	"Delaware"	"10"	"2017"	"2017"	82	463336	14.8	17.7
+	"Prostate"	"28010"	"Delaware"	"10"	"2019"	"2019"	108	472097	18.3	22.9
+	"Prostate"	"28010"	"District of Columbia"	"11"	"2017"	"2017"	57	330743	22.3	17.2
+	"Prostate"	"28010"	"District of Columbia"	"11"	"2019"	"2019"	61	335860	22.1	18.2
+	"Prostate"	"28010"	"Florida"	"12"	"2017"	"2017"	2409	10256426	16.8	23.5
+	"Prostate"	"28010"	"Florida"	"12"	"2019"	"2019"	2446	10504982	15.8	23.3
+	"Prostate"	"28010"	"Georgia"	"13"	"2017"	"2017"	895	5067956	21.5	17.7
+	"Prostate"	"28010"	"Georgia"	"13"	"2019"	"2019"	960	5165685	20.9	18.6
+	"Prostate"	"28010"	"Hawaii"	"15"	"2017"	"2017"	128	715536	14.4	17.9
+	"Prostate"	"28010"	"Hawaii"	"15"	"2019"	"2019"	109	709196	12.0	15.4
+	"Prostate"	"28010"	"Idaho"	"16"	"2017"	"2017"	164	861715	20.0	19.0
+	"Prostate"	"28010"	"Idaho"	"16"	"2019"	"2019"	182	897065	19.6	20.3
+	"Prostate"	"28010"	"Illinois"	"17"	"2017"	"2017"	1273	6278554	20.6	20.3
+	"Prostate"	"28010"	"Illinois"	"17"	"2019"	"2019"	1208	6223897	18.7	19.4
+	"Prostate"	"28010"	"Indiana"	"18"	"2017"	"2017"	594	3283972	18.9	18.1
+	"Prostate"	"28010"	"Indiana"	"18"	"2019"	"2019"	655	3319439	19.6	19.7
+	"Prostate"	"28010"	"Iowa"	"19"	"2017"	"2017"	348	1563872	20.0	22.3
+	"Prostate"	"28010"	"Iowa"	"19"	"2019"	"2019"	361	1572960	20.2	23.0
+	"Prostate"	"28010"	"Kansas"	"20"	"2017"	"2017"	273	1450416	18.3	18.8
+	"Prostate"	"28010"	"Kansas"	"20"	"2019"	"2019"	286	1450555	18.4	19.7
+	"Prostate"	"28010"	"Kentucky"	"21"	"2017"	"2017"	404	2195279	19.2	18.4
+	"Prostate"	"28010"	"Kentucky"	"21"	"2019"	"2019"	365	2203309	16.1	16.6
+	"Prostate"	"28010"	"Louisiana"	"22"	"2017"	"2017"	461	2283039	21.3	20.2
+	"Prostate"	"28010"	"Louisiana"	"22"	"2019"	"2019"	431	2272316	18.9	19.0
+	"Prostate"	"28010"	"Maine"	"23"	"2017"	"2017"	167	654184	19.7	25.5
+	"Prostate"	"28010"	"Maine"	"23"	"2019"	"2019"	162	659096	17.9	24.6
+	"Prostate"	"28010"	"Maryland"	"24"	"2017"	"2017"	555	2921435	19.6	19.0
+	"Prostate"	"28010"	"Maryland"	"24"	"2019"	"2019"	622	2932474	20.9	21.2
+	"Prostate"	"28010"	"Massachusetts"	"25"	"2017"	"2017"	640	3330954	18.2	19.2
+	"Prostate"	"28010"	"Massachusetts"	"25"	"2019"	"2019"	653	3346503	18.1	19.5
+	"Prostate"	"28010"	"Michigan"	"26"	"2017"	"2017"	924	4912208	17.6	18.8
+	"Prostate"	"28010"	"Michigan"	"26"	"2019"	"2019"	985	4918052	17.9	20.0
+	"Prostate"	"28010"	"Minnesota"	"27"	"2017"	"2017"	582	2772763	20.5	21.0
+	"Prostate"	"28010"	"Minnesota"	"27"	"2019"	"2019"	592	2809390	19.6	21.1
+	"Prostate"	"28010"	"Mississippi"	"28"	"2017"	"2017"	373	1451002	26.4	25.7
+	"Prostate"	"28010"	"Mississippi"	"28"	"2019"	"2019"	363	1443640	24.3	25.1
+	"Prostate"	"28010"	"Missouri"	"29"	"2017"	"2017"	537	3000001	16.8	17.9
+	"Prostate"	"28010"	"Missouri"	"29"	"2019"	"2019"	623	3012629	18.6	20.7
+	"Prostate"	"28010"	"Montana"	"30"	"2017"	"2017"	160	530462	26.3	30.2
+	"Prostate"	"28010"	"Montana"	"30"	"2019"	"2019"	138	538637	20.9	25.6
+	"Prostate"	"28010"	"Nebraska"	"31"	"2017"	"2017"	179	956576	18.4	18.7
+	"Prostate"	"28010"	"Nebraska"	"31"	"2019"	"2019"	179	964970	17.5	18.5
+	"Prostate"	"28010"	"Nevada"	"32"	"2017"	"2017"	259	1491237	17.7	17.4
+	"Prostate"	"28010"	"Nevada"	"32"	"2019"	"2019"	318	1549505	20.2	20.5
+	"Prostate"	"28010"	"New Hampshire"	"33"	"2017"	"2017"	147	668725	20.0	22.0
+	"Prostate"	"28010"	"New Hampshire"	"33"	"2019"	"2019"	174	673969	22.6	25.8
+	"Prostate"	"28010"	"New Jersey"	"34"	"2017"	"2017"	767	4340610	17.2	17.7
+	"Prostate"	"28010"	"New Jersey"	"34"	"2019"	"2019"	735	4345560	15.6	16.9
+	"Prostate"	"28010"	"New Mexico"	"35"	"2017"	"2017"	218	1036090	19.4	21.0
+	"Prostate"	"28010"	"New Mexico"	"35"	"2019"	"2019"	222	1038980	18.6	21.4
+	"Prostate"	"28010"	"New York"	"36"	"2017"	"2017"	1812	9513043	18.1	19.0
+	"Prostate"	"28010"	"New York"	"36"	"2019"	"2019"	1660	9451066	15.8	17.6
+	"Prostate"	"28010"	"North Carolina"	"37"	"2017"	"2017"	910	5000946	18.7	18.2
+	"Prostate"	"28010"	"North Carolina"	"37"	"2019"	"2019"	1033	5107629	19.7	20.2
+	"Prostate"	"28010"	"North Dakota"	"38"	"2017"	"2017"	79	387723	20.1	20.4
+	"Prostate"	"28010"	"North Dakota"	"38"	"2019"	"2019"	68	391046	16.5	17.4
+	"Prostate"	"28010"	"Ohio"	"39"	"2017"	"2017"	1211	5716631	19.5	21.2
+	"Prostate"	"28010"	"Ohio"	"39"	"2019"	"2019"	1213	5733873	18.9	21.2
+	"Prostate"	"28010"	"Oklahoma"	"40"	"2017"	"2017"	388	1948690	20.1	19.9
+	"Prostate"	"28010"	"Oklahoma"	"40"	"2019"	"2019"	414	1961516	20.1	21.1
+	"Prostate"	"28010"	"Oregon"	"41"	"2017"	"2017"	441	2055809	19.8	21.5
+	"Prostate"	"28010"	"Oregon"	"41"	"2019"	"2019"	470	2090110	20.0	22.5
+	"Prostate"	"28010"	"Pennsylvania"	"42"	"2017"	"2017"	1347	6266172	18.3	21.5
+	"Prostate"	"28010"	"Pennsylvania"	"42"	"2019"	"2019"	1350	6272394	17.7	21.5
+	"Prostate"	"28010"	"Rhode Island"	"44"	"2017"	"2017"	116	513670	20.4	22.6
+	"Prostate"	"28010"	"Rhode Island"	"44"	"2019"	"2019"	105	514961	17.7	20.4
+	"Prostate"	"28010"	"South Carolina"	"45"	"2017"	"2017"	557	2438728	21.6	22.8
+	"Prostate"	"28010"	"South Carolina"	"45"	"2019"	"2019"	569	2497998	20.0	22.8
+	"Prostate"	"28010"	"South Dakota"	"46"	"2017"	"2017"	71	440841	15.7	16.1
+	"Prostate"	"28010"	"South Dakota"	"46"	"2019"	"2019"	86	447574	17.7	19.2
+	"Prostate"	"28010"	"Tennessee"	"47"	"2017"	"2017"	644	3276742	20.1	19.7
+	"Prostate"	"28010"	"Tennessee"	"47"	"2019"	"2019"	685	3331896	19.5	20.6
+	"Prostate"	"28010"	"Texas"	"48"	"2017"	"2017"	1938	14052998	17.9	13.8
+	"Prostate"	"28010"	"Texas"	"48"	"2019"	"2019"	2063	14394891	17.6	14.3
+	"Prostate"	"28010"	"Utah"	"49"	"2017"	"2017"	212	1562978	19.7	13.6
+	"Prostate"	"28010"	"Utah"	"49"	"2019"	"2019"	276	1613538	23.4	17.1
+	"Prostate"	"28010"	"Vermont"	"50"	"2017"	"2017"	70	308694	19.4	22.7
+	"Prostate"	"28010"	"Vermont"	"50"	"2019"	"2019"	72	308308	18.9	23.4
+	"Prostate"	"28010"	"Virginia"	"51"	"2017"	"2017"	775	4168480	19.8	18.6
+	"Prostate"	"28010"	"Virginia"	"51"	"2019"	"2019"	796	4210784	19.2	18.9
+	"Prostate"	"28010"	"Washington"	"53"	"2017"	"2017"	677	3715398	19.3	18.2
+	"Prostate"	"28010"	"Washington"	"53"	"2019"	"2019"	727	3811478	19.5	19.1
+	"Prostate"	"28010"	"West Virginia"	"54"	"2017"	"2017"	177	900185	16.4	19.7
+	"Prostate"	"28010"	"West Virginia"	"54"	"2019"	"2019"	198	889160	17.1	22.3
+	"Prostate"	"28010"	"Wisconsin"	"55"	"2017"	"2017"	641	2881163	20.9	22.2
+	"Prostate"	"28010"	"Wisconsin"	"55"	"2019"	"2019"	672	2898849	20.9	23.2
+	"Prostate"	"28010"	"Wyoming"	"56"	"2017"	"2017"	41	295879	13.1	13.9
+	"Prostate"	"28010"	"Wyoming"	"56"	"2019"	"2019"	57	295710	17.6	19.3
+	"Stomach"	"21020"	"Alabama"	"01"	"2017"	"2017"	177	4877989	2.9	3.6
+	"Stomach"	"21020"	"Alabama"	"01"	"2019"	"2019"	203	4907965	3.2	4.1
+	"Stomach"	"21020"	"Alaska"	"02"	"2017"	"2017"	26	740983	3.7	3.5
+	"Stomach"	"21020"	"Alaska"	"02"	"2019"	"2019"	23	733603	3.2	3.1
+	"Stomach"	"21020"	"Arizona"	"04"	"2017"	"2017"	204	7048088	2.4	2.9
+	"Stomach"	"21020"	"Arizona"	"04"	"2019"	"2019"	227	7291843	2.5	3.1
+	"Stomach"	"21020"	"Arkansas"	"05"	"2017"	"2017"	102	3003855	2.8	3.4
+	"Stomach"	"21020"	"Arkansas"	"05"	"2019"	"2019"	106	3020985	2.8	3.5
+	"Stomach"	"21020"	"California"	"06"	"2017"	"2017"	1640	39337785	3.8	4.2
+	"Stomach"	"21020"	"California"	"06"	"2019"	"2019"	1640	39437610	3.7	4.2
+	"Stomach"	"21020"	"Colorado"	"08"	"2017"	"2017"	141	5617421	2.4	2.5
+	"Stomach"	"21020"	"Colorado"	"08"	"2019"	"2019"	140	5758486	2.3	2.4
+	"Stomach"	"21020"	"Connecticut"	"09"	"2017"	"2017"	159	3575324	3.3	4.4
+	"Stomach"	"21020"	"Connecticut"	"09"	"2019"	"2019"	121	3566022	2.5	3.4
+	"Stomach"	"21020"	"Delaware"	"10"	"2017"	"2017"	40	957942	3.1	4.2
+	"Stomach"	"21020"	"Delaware"	"10"	"2019"	"2019"	36	976668	2.8	3.7
+	"Stomach"	"21020"	"District of Columbia"	"11"	"2017"	"2017"	22	697079	3.3	3.2
+	"Stomach"	"21020"	"District of Columbia"	"11"	"2019"	"2019"	24	708253	3.6	3.4
+	"Stomach"	"21020"	"Florida"	"12"	"2017"	"2017"	789	20977089	2.7	3.8
+	"Stomach"	"21020"	"Florida"	"12"	"2019"	"2019"	795	21492056	2.5	3.7
+	"Stomach"	"21020"	"Georgia"	"13"	"2017"	"2017"	302	10417031	2.7	2.9
+	"Stomach"	"21020"	"Georgia"	"13"	"2019"	"2019"	328	10628020	2.8	3.1
+	"Stomach"	"21020"	"Hawaii"	"15"	"2017"	"2017"	69	1425763	3.4	4.8
+	"Stomach"	"21020"	"Hawaii"	"15"	"2019"	"2019"	77	1415615	4.0	5.4
+	"Stomach"	"21020"	"Idaho"	"16"	"2017"	"2017"	40	1719745	2.0	2.3
+	"Stomach"	"21020"	"Idaho"	"16"	"2019"	"2019"	35	1789060	1.7	2.0
+	"Stomach"	"21020"	"Illinois"	"17"	"2017"	"2017"	486	12779893	3.2	3.8
+	"Stomach"	"21020"	"Illinois"	"17"	"2019"	"2019"	443	12667017	2.9	3.5
+	"Stomach"	"21020"	"Indiana"	"18"	"2017"	"2017"	166	6662068	2.1	2.5
+	"Stomach"	"21020"	"Indiana"	"18"	"2019"	"2019"	188	6731010	2.4	2.8
+	"Stomach"	"21020"	"Iowa"	"19"	"2017"	"2017"	79	3143734	2.0	2.5
+	"Stomach"	"21020"	"Iowa"	"19"	"2019"	"2019"	80	3159596	2.0	2.5
+	"Stomach"	"21020"	"Kansas"	"20"	"2017"	"2017"	70	2910892	2.1	2.4
+	"Stomach"	"21020"	"Kansas"	"20"	"2019"	"2019"	85	2912635	2.4	2.9
+	"Stomach"	"21020"	"Kentucky"	"21"	"2017"	"2017"	153	4455590	2.8	3.4
+	"Stomach"	"21020"	"Kentucky"	"21"	"2019"	"2019"	163	4472345	3.1	3.6
+	"Stomach"	"21020"	"Louisiana"	"22"	"2017"	"2017"	174	4673673	3.2	3.7
+	"Stomach"	"21020"	"Louisiana"	"22"	"2019"	"2019"	167	4658285	3.0	3.6
+	"Stomach"	"21020"	"Maine"	"23"	"2017"	"2017"	30	1335743	1.5	2.2
+	"Stomach"	"21020"	"Maine"	"23"	"2019"	"2019"	47	1345770	2.3	3.5
+	"Stomach"	"21020"	"Maryland"	"24"	"2017"	"2017"	190	6028186	2.7	3.2
+	"Stomach"	"21020"	"Maryland"	"24"	"2019"	"2019"	210	6054954	2.8	3.5
+	"Stomach"	"21020"	"Massachusetts"	"25"	"2017"	"2017"	269	6863560	3.2	3.9
+	"Stomach"	"21020"	"Massachusetts"	"25"	"2019"	"2019"	225	6894883	2.6	3.3
+	"Stomach"	"21020"	"Michigan"	"26"	"2017"	"2017"	292	9976752	2.3	2.9
+	"Stomach"	"21020"	"Michigan"	"26"	"2019"	"2019"	295	9984795	2.2	3.0
+	"Stomach"	"21020"	"Minnesota"	"27"	"2017"	"2017"	144	5569283	2.2	2.6
+	"Stomach"	"21020"	"Minnesota"	"27"	"2019"	"2019"	181	5640053	2.6	3.2
+	"Stomach"	"21020"	"Mississippi"	"28"	"2017"	"2017"	105	2990674	3.0	3.5
+	"Stomach"	"21020"	"Mississippi"	"28"	"2019"	"2019"	122	2978227	3.3	4.1
+	"Stomach"	"21020"	"Missouri"	"29"	"2017"	"2017"	164	6111382	2.2	2.7
+	"Stomach"	"21020"	"Missouri"	"29"	"2019"	"2019"	192	6140475	2.4	3.1
+	"Stomach"	"21020"	"Montana"	"30"	"2017"	"2017"	26	1053862	2.0	2.5
+	"Stomach"	"21020"	"Montana"	"30"	"2019"	"2019"	34	1070123	2.2	3.2
+	"Stomach"	"21020"	"Nebraska"	"31"	"2017"	"2017"	56	1916998	2.6	2.9
+	"Stomach"	"21020"	"Nebraska"	"31"	"2019"	"2019"	52	1932571	2.3	2.7
+	"Stomach"	"21020"	"Nevada"	"32"	"2017"	"2017"	85	2972097	2.5	2.9
+	"Stomach"	"21020"	"Nevada"	"32"	"2019"	"2019"	79	3090771	2.2	2.6
+	"Stomach"	"21020"	"New Hampshire"	"33"	"2017"	"2017"	37	1350395	2.1	2.7
+	"Stomach"	"21020"	"New Hampshire"	"33"	"2019"	"2019"	37	1360783	2.1	2.7
+	"Stomach"	"21020"	"New Jersey"	"34"	"2017"	"2017"	338	8888147	3.1	3.8
+	"Stomach"	"21020"	"New Jersey"	"34"	"2019"	"2019"	325	8891258	2.9	3.7
+	"Stomach"	"21020"	"New Mexico"	"35"	"2017"	"2017"	101	2092844	3.9	4.8
+	"Stomach"	"21020"	"New Mexico"	"35"	"2019"	"2019"	86	2099634	3.1	4.1
+	"Stomach"	"21020"	"New York"	"36"	"2017"	"2017"	805	19593849	3.3	4.1
+	"Stomach"	"21020"	"New York"	"36"	"2019"	"2019"	821	19463131	3.4	4.2
+	"Stomach"	"21020"	"North Carolina"	"37"	"2017"	"2017"	349	10275758	2.9	3.4
+	"Stomach"	"21020"	"North Carolina"	"37"	"2019"	"2019"	327	10501384	2.6	3.1
+	"Stomach"	"21020"	"North Dakota"	"38"	"2017"	"2017"	21	756755	2.4	2.8
+	"Stomach"	"21020"	"Ohio"	"39"	"2017"	"2017"	364	11665706	2.5	3.1
+	"Stomach"	"21020"	"Ohio"	"39"	"2019"	"2019"	331	11696507	2.2	2.8
+	"Stomach"	"21020"	"Oklahoma"	"40"	"2017"	"2017"	114	3933602	2.5	2.9
+	"Stomach"	"21020"	"Oklahoma"	"40"	"2019"	"2019"	114	3960676	2.5	2.9
+	"Stomach"	"21020"	"Oregon"	"41"	"2017"	"2017"	97	4147294	1.9	2.3
+	"Stomach"	"21020"	"Oregon"	"41"	"2019"	"2019"	126	4216116	2.4	3.0
+	"Stomach"	"21020"	"Pennsylvania"	"42"	"2017"	"2017"	455	12794679	2.7	3.6
+	"Stomach"	"21020"	"Pennsylvania"	"42"	"2019"	"2019"	444	12798883	2.5	3.5
+	"Stomach"	"21020"	"Rhode Island"	"44"	"2017"	"2017"	33	1056554	2.5	3.1
+	"Stomach"	"21020"	"Rhode Island"	"44"	"2019"	"2019"	41	1058158	2.8	3.9
+	"Stomach"	"21020"	"South Carolina"	"45"	"2017"	"2017"	207	5027102	3.3	4.1
+	"Stomach"	"21020"	"South Carolina"	"45"	"2019"	"2019"	187	5157702	2.8	3.6
+	"Stomach"	"21020"	"South Dakota"	"46"	"2017"	"2017"	20	873732	2.0	2.3
+	"Stomach"	"21020"	"South Dakota"	"46"	"2019"	"2019"	23	887127	2.4	2.6
+	"Stomach"	"21020"	"Tennessee"	"47"	"2017"	"2017"	199	6714748	2.5	3.0
+	"Stomach"	"21020"	"Tennessee"	"47"	"2019"	"2019"	189	6830325	2.3	2.8
+	"Stomach"	"21020"	"Texas"	"48"	"2017"	"2017"	956	28291024	3.5	3.4
+	"Stomach"	"21020"	"Texas"	"48"	"2019"	"2019"	915	28986794	3.1	3.2
+	"Stomach"	"21020"	"Utah"	"49"	"2017"	"2017"	62	3103540	2.5	2.0
+	"Stomach"	"21020"	"Utah"	"49"	"2019"	"2019"	59	3203383	2.1	1.8
+	"Stomach"	"21020"	"Vermont"	"50"	"2017"	"2017"	23	625132	2.7	3.7
+	"Stomach"	"21020"	"Vermont"	"50"	"2019"	"2019"	20	624046	2.5	3.2
+	"Stomach"	"21020"	"Virginia"	"51"	"2017"	"2017"	298	8471011	3.1	3.5
+	"Stomach"	"21020"	"Virginia"	"51"	"2019"	"2019"	273	8556642	2.7	3.2
+	"Stomach"	"21020"	"Washington"	"53"	"2017"	"2017"	240	7427951	2.8	3.2
+	"Stomach"	"21020"	"Washington"	"53"	"2019"	"2019"	192	7614024	2.2	2.5
+	"Stomach"	"21020"	"West Virginia"	"54"	"2017"	"2017"	60	1818683	2.4	3.3
+	"Stomach"	"21020"	"West Virginia"	"54"	"2019"	"2019"	46	1795263	1.8	2.6
+	"Stomach"	"21020"	"Wisconsin"	"55"	"2017"	"2017"	169	5793147	2.3	2.9
+	"Stomach"	"21020"	"Wisconsin"	"55"	"2019"	"2019"	192	5824581	2.6	3.3
+	"Thyroid"	"32010"	"Alabama"	"01"	"2017"	"2017"	20	4877989	0.3	0.4
+	"Thyroid"	"32010"	"Alabama"	"01"	"2019"	"2019"	28	4907965	0.5	0.6
+	"Thyroid"	"32010"	"Arizona"	"04"	"2017"	"2017"	38	7048088	0.4	0.5
+	"Thyroid"	"32010"	"Arizona"	"04"	"2019"	"2019"	42	7291843	0.5	0.6
+	"Thyroid"	"32010"	"Arkansas"	"05"	"2017"	"2017"	16	3003855	0.4	0.5
+	"Thyroid"	"32010"	"Arkansas"	"05"	"2019"	"2019"	16	3020985	0.4	0.5
+	"Thyroid"	"32010"	"California"	"06"	"2017"	"2017"	246	39337785	0.6	0.6
+	"Thyroid"	"32010"	"California"	"06"	"2019"	"2019"	273	39437610	0.6	0.7
+	"Thyroid"	"32010"	"Colorado"	"08"	"2017"	"2017"	38	5617421	0.7	0.7
+	"Thyroid"	"32010"	"Colorado"	"08"	"2019"	"2019"	23	5758486	0.4	0.4
+	"Thyroid"	"32010"	"Connecticut"	"09"	"2017"	"2017"	22	3575324	0.5	0.6
+	"Thyroid"	"32010"	"Connecticut"	"09"	"2019"	"2019"	24	3566022	0.5	0.7
+	"Thyroid"	"32010"	"Florida"	"12"	"2017"	"2017"	132	20977089	0.4	0.6
+	"Thyroid"	"32010"	"Florida"	"12"	"2019"	"2019"	138	21492056	0.4	0.6
+	"Thyroid"	"32010"	"Georgia"	"13"	"2017"	"2017"	47	10417031	0.4	0.5
+	"Thyroid"	"32010"	"Georgia"	"13"	"2019"	"2019"	59	10628020	0.5	0.6
+	"Thyroid"	"32010"	"Hawaii"	"15"	"2017"	"2017"	19	1425763	1.0	1.3
+	"Thyroid"	"32010"	"Illinois"	"17"	"2017"	"2017"	75	12779893	0.5	0.6
+	"Thyroid"	"32010"	"Illinois"	"17"	"2019"	"2019"	90	12667017	0.6	0.7
+	"Thyroid"	"32010"	"Indiana"	"18"	"2017"	"2017"	38	6662068	0.5	0.6
+	"Thyroid"	"32010"	"Indiana"	"18"	"2019"	"2019"	40	6731010	0.5	0.6
+	"Thyroid"	"32010"	"Iowa"	"19"	"2017"	"2017"	21	3143734	0.5	0.7
+	"Thyroid"	"32010"	"Iowa"	"19"	"2019"	"2019"	25	3159596	0.6	0.8
+	"Thyroid"	"32010"	"Kansas"	"20"	"2019"	"2019"	26	2912635	0.7	0.9
+	"Thyroid"	"32010"	"Kentucky"	"21"	"2017"	"2017"	25	4455590	0.4	0.6
+	"Thyroid"	"32010"	"Kentucky"	"21"	"2019"	"2019"	17	4472345	0.3	0.4
+	"Thyroid"	"32010"	"Louisiana"	"22"	"2017"	"2017"	29	4673673	0.5	0.6
+	"Thyroid"	"32010"	"Louisiana"	"22"	"2019"	"2019"	22	4658285	0.4	0.5
+	"Thyroid"	"32010"	"Maryland"	"24"	"2017"	"2017"	31	6028186	0.4	0.5
+	"Thyroid"	"32010"	"Maryland"	"24"	"2019"	"2019"	30	6054954	0.4	0.5
+	"Thyroid"	"32010"	"Massachusetts"	"25"	"2017"	"2017"	47	6863560	0.6	0.7
+	"Thyroid"	"32010"	"Massachusetts"	"25"	"2019"	"2019"	54	6894883	0.6	0.8
+	"Thyroid"	"32010"	"Michigan"	"26"	"2017"	"2017"	49	9976752	0.4	0.5
+	"Thyroid"	"32010"	"Michigan"	"26"	"2019"	"2019"	66	9984795	0.5	0.7
+	"Thyroid"	"32010"	"Minnesota"	"27"	"2017"	"2017"	28	5569283	0.4	0.5
+	"Thyroid"	"32010"	"Minnesota"	"27"	"2019"	"2019"	33	5640053	0.5	0.6
+	"Thyroid"	"32010"	"Mississippi"	"28"	"2019"	"2019"	17	2978227	0.5	0.6
+	"Thyroid"	"32010"	"Missouri"	"29"	"2017"	"2017"	33	6111382	0.4	0.5
+	"Thyroid"	"32010"	"Missouri"	"29"	"2019"	"2019"	40	6140475	0.5	0.7
+	"Thyroid"	"32010"	"Nebraska"	"31"	"2019"	"2019"	18	1932571	0.8	0.9
+	"Thyroid"	"32010"	"Nevada"	"32"	"2019"	"2019"	19	3090771	0.5	0.6
+	"Thyroid"	"32010"	"New Jersey"	"34"	"2017"	"2017"	59	8888147	0.5	0.7
+	"Thyroid"	"32010"	"New Jersey"	"34"	"2019"	"2019"	58	8891258	0.5	0.7
+	"Thyroid"	"32010"	"New Mexico"	"35"	"2019"	"2019"	18	2099634	0.7	0.9
+	"Thyroid"	"32010"	"New York"	"36"	"2017"	"2017"	128	19593849	0.5	0.7
+	"Thyroid"	"32010"	"New York"	"36"	"2019"	"2019"	136	19463131	0.5	0.7
+	"Thyroid"	"32010"	"North Carolina"	"37"	"2017"	"2017"	66	10275758	0.5	0.6
+	"Thyroid"	"32010"	"North Carolina"	"37"	"2019"	"2019"	56	10501384	0.4	0.5
+	"Thyroid"	"32010"	"Ohio"	"39"	"2017"	"2017"	62	11665706	0.4	0.5
+	"Thyroid"	"32010"	"Ohio"	"39"	"2019"	"2019"	73	11696507	0.5	0.6
+	"Thyroid"	"32010"	"Oklahoma"	"40"	"2017"	"2017"	19	3933602	0.4	0.5
+	"Thyroid"	"32010"	"Oklahoma"	"40"	"2019"	"2019"	31	3960676	0.7	0.8
+	"Thyroid"	"32010"	"Oregon"	"41"	"2017"	"2017"	30	4147294	0.5	0.7
+	"Thyroid"	"32010"	"Oregon"	"41"	"2019"	"2019"	26	4216116	0.5	0.6
+	"Thyroid"	"32010"	"Pennsylvania"	"42"	"2017"	"2017"	85	12794679	0.5	0.7
+	"Thyroid"	"32010"	"Pennsylvania"	"42"	"2019"	"2019"	100	12798883	0.5	0.8
+	"Thyroid"	"32010"	"South Carolina"	"45"	"2017"	"2017"	25	5027102	0.4	0.5
+	"Thyroid"	"32010"	"South Carolina"	"45"	"2019"	"2019"	30	5157702	0.5	0.6
+	"Thyroid"	"32010"	"Tennessee"	"47"	"2017"	"2017"	49	6714748	0.6	0.7
+	"Thyroid"	"32010"	"Tennessee"	"47"	"2019"	"2019"	36	6830325	0.4	0.5
+	"Thyroid"	"32010"	"Texas"	"48"	"2017"	"2017"	134	28291024	0.5	0.5
+	"Thyroid"	"32010"	"Texas"	"48"	"2019"	"2019"	138	28986794	0.5	0.5
+	"Thyroid"	"32010"	"Utah"	"49"	"2017"	"2017"	17	3103540	0.6	0.5
+	"Thyroid"	"32010"	"Virginia"	"51"	"2017"	"2017"	42	8471011	0.4	0.5
+	"Thyroid"	"32010"	"Virginia"	"51"	"2019"	"2019"	53	8556642	0.5	0.6
+	"Thyroid"	"32010"	"Washington"	"53"	"2017"	"2017"	37	7427951	0.4	0.5
+	"Thyroid"	"32010"	"Washington"	"53"	"2019"	"2019"	44	7614024	0.5	0.6
+	"Thyroid"	"32010"	"Wisconsin"	"55"	"2017"	"2017"	49	5793147	0.7	0.8
+	"Thyroid"	"32010"	"Wisconsin"	"55"	"2019"	"2019"	46	5824581	0.6	0.8
+	"Urinary Bladder"	"29010"	"Alabama"	"01"	"2017"	"2017"	242	4877989	4.1	5.0
+	"Urinary Bladder"	"29010"	"Alabama"	"01"	"2019"	"2019"	262	4907965	4.2	5.3
+	"Urinary Bladder"	"29010"	"Alaska"	"02"	"2017"	"2017"	27	740983	4.5	3.6
+	"Urinary Bladder"	"29010"	"Alaska"	"02"	"2019"	"2019"	19	733603	2.8	2.6
+	"Urinary Bladder"	"29010"	"Arizona"	"04"	"2017"	"2017"	365	7048088	4.1	5.2
+	"Urinary Bladder"	"29010"	"Arizona"	"04"	"2019"	"2019"	362	7291843	3.7	5.0
+	"Urinary Bladder"	"29010"	"Arkansas"	"05"	"2017"	"2017"	159	3003855	4.2	5.3
+	"Urinary Bladder"	"29010"	"Arkansas"	"05"	"2019"	"2019"	151	3020985	3.8	5.0
+	"Urinary Bladder"	"29010"	"California"	"06"	"2017"	"2017"	1649	39337785	3.9	4.2
+	"Urinary Bladder"	"29010"	"California"	"06"	"2019"	"2019"	1695	39437610	3.8	4.3
+	"Urinary Bladder"	"29010"	"Colorado"	"08"	"2017"	"2017"	225	5617421	4.0	4.0
+	"Urinary Bladder"	"29010"	"Colorado"	"08"	"2019"	"2019"	217	5758486	3.6	3.8
+	"Urinary Bladder"	"29010"	"Connecticut"	"09"	"2017"	"2017"	209	3575324	4.2	5.8
+	"Urinary Bladder"	"29010"	"Connecticut"	"09"	"2019"	"2019"	219	3566022	4.4	6.1
+	"Urinary Bladder"	"29010"	"Delaware"	"10"	"2017"	"2017"	47	957942	3.9	4.9
+	"Urinary Bladder"	"29010"	"Delaware"	"10"	"2019"	"2019"	77	976668	5.6	7.9
+	"Urinary Bladder"	"29010"	"District of Columbia"	"11"	"2017"	"2017"	30	697079	4.5	4.3
+	"Urinary Bladder"	"29010"	"District of Columbia"	"11"	"2019"	"2019"	25	708253	3.6	3.5
+	"Urinary Bladder"	"29010"	"Florida"	"12"	"2017"	"2017"	1436	20977089	4.4	6.8
+	"Urinary Bladder"	"29010"	"Florida"	"12"	"2019"	"2019"	1422	21492056	4.1	6.6
+	"Urinary Bladder"	"29010"	"Georgia"	"13"	"2017"	"2017"	459	10417031	4.4	4.4
+	"Urinary Bladder"	"29010"	"Georgia"	"13"	"2019"	"2019"	474	10628020	4.3	4.5
+	"Urinary Bladder"	"29010"	"Hawaii"	"15"	"2017"	"2017"	53	1425763	2.8	3.7
+	"Urinary Bladder"	"29010"	"Hawaii"	"15"	"2019"	"2019"	55	1415615	2.7	3.9
+	"Urinary Bladder"	"29010"	"Idaho"	"16"	"2017"	"2017"	96	1719745	5.1	5.6
+	"Urinary Bladder"	"29010"	"Idaho"	"16"	"2019"	"2019"	108	1789060	5.3	6.0
+	"Urinary Bladder"	"29010"	"Illinois"	"17"	"2017"	"2017"	672	12779893	4.4	5.3
+	"Urinary Bladder"	"29010"	"Illinois"	"17"	"2019"	"2019"	677	12667017	4.3	5.3
+	"Urinary Bladder"	"29010"	"Indiana"	"18"	"2017"	"2017"	357	6662068	4.5	5.4
+	"Urinary Bladder"	"29010"	"Indiana"	"18"	"2019"	"2019"	386	6731010	4.7	5.7
+	"Urinary Bladder"	"29010"	"Iowa"	"19"	"2017"	"2017"	172	3143734	4.2	5.5
+	"Urinary Bladder"	"29010"	"Iowa"	"19"	"2019"	"2019"	174	3159596	4.0	5.5
+	"Urinary Bladder"	"29010"	"Kansas"	"20"	"2017"	"2017"	143	2910892	4.0	4.9
+	"Urinary Bladder"	"29010"	"Kansas"	"20"	"2019"	"2019"	151	2912635	4.1	5.2
+	"Urinary Bladder"	"29010"	"Kentucky"	"21"	"2017"	"2017"	267	4455590	4.9	6.0
+	"Urinary Bladder"	"29010"	"Kentucky"	"21"	"2019"	"2019"	273	4472345	4.9	6.1
+	"Urinary Bladder"	"29010"	"Louisiana"	"22"	"2017"	"2017"	203	4673673	3.8	4.3
+	"Urinary Bladder"	"29010"	"Louisiana"	"22"	"2019"	"2019"	231	4658285	4.2	5.0
+	"Urinary Bladder"	"29010"	"Maine"	"23"	"2017"	"2017"	124	1335743	6.2	9.3
+	"Urinary Bladder"	"29010"	"Maine"	"23"	"2019"	"2019"	127	1345770	5.8	9.4
+	"Urinary Bladder"	"29010"	"Maryland"	"24"	"2017"	"2017"	298	6028186	4.2	4.9
+	"Urinary Bladder"	"29010"	"Maryland"	"24"	"2019"	"2019"	320	6054954	4.4	5.3
+	"Urinary Bladder"	"29010"	"Massachusetts"	"25"	"2017"	"2017"	430	6863560	4.9	6.3
+	"Urinary Bladder"	"29010"	"Massachusetts"	"25"	"2019"	"2019"	388	6894883	4.2	5.6
+	"Urinary Bladder"	"29010"	"Michigan"	"26"	"2017"	"2017"	616	9976752	4.8	6.2
+	"Urinary Bladder"	"29010"	"Michigan"	"26"	"2019"	"2019"	592	9984795	4.5	5.9
+	"Urinary Bladder"	"29010"	"Minnesota"	"27"	"2017"	"2017"	259	5569283	3.8	4.7
+	"Urinary Bladder"	"29010"	"Minnesota"	"27"	"2019"	"2019"	268	5640053	3.8	4.8
+	"Urinary Bladder"	"29010"	"Mississippi"	"28"	"2017"	"2017"	129	2990674	3.8	4.3
+	"Urinary Bladder"	"29010"	"Mississippi"	"28"	"2019"	"2019"	130	2978227	3.6	4.4
+	"Urinary Bladder"	"29010"	"Missouri"	"29"	"2017"	"2017"	337	6111382	4.3	5.5
+	"Urinary Bladder"	"29010"	"Missouri"	"29"	"2019"	"2019"	331	6140475	4.1	5.4
+	"Urinary Bladder"	"29010"	"Montana"	"30"	"2017"	"2017"	71	1053862	5.0	6.7
+	"Urinary Bladder"	"29010"	"Montana"	"30"	"2019"	"2019"	61	1070123	4.1	5.7
+	"Urinary Bladder"	"29010"	"Nebraska"	"31"	"2017"	"2017"	88	1916998	3.7	4.6
+	"Urinary Bladder"	"29010"	"Nebraska"	"31"	"2019"	"2019"	95	1932571	4.0	4.9
+	"Urinary Bladder"	"29010"	"Nevada"	"32"	"2017"	"2017"	161	2972097	5.0	5.4
+	"Urinary Bladder"	"29010"	"Nevada"	"32"	"2019"	"2019"	175	3090771	4.9	5.7
+	"Urinary Bladder"	"29010"	"New Hampshire"	"33"	"2017"	"2017"	96	1350395	5.4	7.1
+	"Urinary Bladder"	"29010"	"New Hampshire"	"33"	"2019"	"2019"	82	1360783	4.4	6.0
+	"Urinary Bladder"	"29010"	"New Jersey"	"34"	"2017"	"2017"	530	8888147	4.6	6.0
+	"Urinary Bladder"	"29010"	"New Jersey"	"34"	"2019"	"2019"	523	8891258	4.5	5.9
+	"Urinary Bladder"	"29010"	"New Mexico"	"35"	"2017"	"2017"	89	2092844	3.5	4.3
+	"Urinary Bladder"	"29010"	"New Mexico"	"35"	"2019"	"2019"	100	2099634	3.6	4.8
+	"Urinary Bladder"	"29010"	"New York"	"36"	"2017"	"2017"	1001	19593849	4.0	5.1
+	"Urinary Bladder"	"29010"	"New York"	"36"	"2019"	"2019"	927	19463131	3.5	4.8
+	"Urinary Bladder"	"29010"	"North Carolina"	"37"	"2017"	"2017"	464	10275758	3.8	4.5
+	"Urinary Bladder"	"29010"	"North Carolina"	"37"	"2019"	"2019"	522	10501384	4.1	5.0
+	"Urinary Bladder"	"29010"	"North Dakota"	"38"	"2017"	"2017"	26	756755	2.7	3.4
+	"Urinary Bladder"	"29010"	"North Dakota"	"38"	"2019"	"2019"	38	763724	3.8	5.0
+	"Urinary Bladder"	"29010"	"Ohio"	"39"	"2017"	"2017"	725	11665706	4.8	6.2
+	"Urinary Bladder"	"29010"	"Ohio"	"39"	"2019"	"2019"	731	11696507	4.7	6.2
+	"Urinary Bladder"	"29010"	"Oklahoma"	"40"	"2017"	"2017"	215	3933602	4.6	5.5
+	"Urinary Bladder"	"29010"	"Oklahoma"	"40"	"2019"	"2019"	220	3960676	4.5	5.6
+	"Urinary Bladder"	"29010"	"Oregon"	"41"	"2017"	"2017"	254	4147294	4.9	6.1
+	"Urinary Bladder"	"29010"	"Oregon"	"41"	"2019"	"2019"	248	4216116	4.4	5.9
+	"Urinary Bladder"	"29010"	"Pennsylvania"	"42"	"2017"	"2017"	832	12794679	4.5	6.5
+	"Urinary Bladder"	"29010"	"Pennsylvania"	"42"	"2019"	"2019"	835	12798883	4.4	6.5
+	"Urinary Bladder"	"29010"	"Rhode Island"	"44"	"2017"	"2017"	75	1056554	5.2	7.1
+	"Urinary Bladder"	"29010"	"Rhode Island"	"44"	"2019"	"2019"	59	1058158	3.9	5.6
+	"Urinary Bladder"	"29010"	"South Carolina"	"45"	"2017"	"2017"	258	5027102	4.3	5.1
+	"Urinary Bladder"	"29010"	"South Carolina"	"45"	"2019"	"2019"	256	5157702	3.8	5.0
+	"Urinary Bladder"	"29010"	"South Dakota"	"46"	"2017"	"2017"	48	873732	4.3	5.5
+	"Urinary Bladder"	"29010"	"South Dakota"	"46"	"2019"	"2019"	43	887127	3.9	4.8
+	"Urinary Bladder"	"29010"	"Tennessee"	"47"	"2017"	"2017"	345	6714748	4.4	5.1
+	"Urinary Bladder"	"29010"	"Tennessee"	"47"	"2019"	"2019"	349	6830325	4.2	5.1
+	"Urinary Bladder"	"29010"	"Texas"	"48"	"2017"	"2017"	966	28291024	3.7	3.4
+	"Urinary Bladder"	"29010"	"Texas"	"48"	"2019"	"2019"	1000	28986794	3.6	3.4
+	"Urinary Bladder"	"29010"	"Utah"	"49"	"2017"	"2017"	84	3103540	3.3	2.7
+	"Urinary Bladder"	"29010"	"Utah"	"49"	"2019"	"2019"	93	3203383	3.6	2.9
+	"Urinary Bladder"	"29010"	"Vermont"	"50"	"2017"	"2017"	41	625132	4.6	6.6
+	"Urinary Bladder"	"29010"	"Vermont"	"50"	"2019"	"2019"	32	624046	3.5	5.1
+	"Urinary Bladder"	"29010"	"Virginia"	"51"	"2017"	"2017"	440	8471011	4.6	5.2
+	"Urinary Bladder"	"29010"	"Virginia"	"51"	"2019"	"2019"	421	8556642	4.1	4.9
+	"Urinary Bladder"	"29010"	"Washington"	"53"	"2017"	"2017"	379	7427951	4.5	5.1
+	"Urinary Bladder"	"29010"	"Washington"	"53"	"2019"	"2019"	387	7614024	4.4	5.1
+	"Urinary Bladder"	"29010"	"West Virginia"	"54"	"2017"	"2017"	125	1818683	4.8	6.9
+	"Urinary Bladder"	"29010"	"West Virginia"	"54"	"2019"	"2019"	121	1795263	4.5	6.7
+	"Urinary Bladder"	"29010"	"Wisconsin"	"55"	"2017"	"2017"	322	5793147	4.3	5.6
+	"Urinary Bladder"	"29010"	"Wisconsin"	"55"	"2019"	"2019"	312	5824581	4.0	5.4
+	"Urinary Bladder"	"29010"	"Wyoming"	"56"	"2017"	"2017"	18	579994	2.6	3.1
+	"Urinary Bladder"	"29010"	"Wyoming"	"56"	"2019"	"2019"	32	580116	4.3	5.5
+"---"
+"Dataset: United States and Puerto Rico Cancer Statistics, 1999-2020 Mortality Archive"
+"Query Parameters:"
+"Leading Cancer Sites: All Leading Sites"
+"Year: 2017; 2019"
+"Group By: Leading Cancer Sites; State; Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/CancerMort-v2020.html for more information."
+"---"
+"Query Date: Aug 18, 2024 11:29:27 AM"
+"---"
+"Suggested Citation: United States Cancer Statistics - Mortality: 1999 - 2020, WONDER Online Database. United States Department"
+"of Health and Human Services, Centers for Disease Control and Prevention; 2023. Accessed at"
+"http://wonder.cdc.gov/CancerMort-v2020.html on Aug 18, 2024 11:29:27 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' is displayed for data values when they must not be provided in order to protect personal privacy. Data is"
+"suppressed if fewer than 16 cases are reported in any one line of the results table. Data for the ""Asian / Pacific Islander"""
+"and ""American Indian or Alaska Native"" race categories are suppressed at the Metropolitan Statistical Area level for"
+"populations less than 50,000 persons. More information: http://wonder.cdc.gov/wonder/help/CancerMort-v2020.html#Suppressed."
+"2. 'Not Applicable' is displayed for all data values when sex-specific cancers are combined with the wrong sex. More"
+"information: http://wonder.cdc.gov/wonder/help/CancerMort-v2020.html#Genital Cancers List."
+"3. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"4. About rate comparisons: <ul><li> For consistency with the data on cancer incidence, the cancer sites in mortality data were"
+"grouped according to the revised SEER recodes dated March 1, 2018 (see SEER Cause of Death Recodes:"
+"http://seer.cancer.gov/codrecode/.). Because NCHS uses different groupings for some sites, the death rates in this report may"
+"differ slightly from those published by NCHS. In addition, under the ICD, there are differences in mortality and incidence"
+"coding. For example, there are several codes for mesothelioma in ICD-10 (depending on the primary site). However in ICD-O-3, one"
+"code captures all of the primary sites that mesothelioma affects. Note that Kaposi sarcoma deaths included in this dataset are"
+"only those deaths with underlying cause of death attributed to Kaposi Sarcoma, and do not include deaths where the condition was"
+"a contributing cause of death, or subsequent to another underlying condition. </li><li> The population used to age-adjust the"
+"rates in this report is the 2000 U.S. standard population, which is in accordance with a 1998 recommendation of the US."
+"Department of Health and Human Services. The 2000 U.S. standard population is based on the proportion of the 2000 population in"
+"specific age groups (younger than 1 year, 1-4 years, 5-9 years, 10-14 years, 15-19 years, . . . 85 years or older); the"
+"proportions of the 2000 population in these age groups serve as weights for calculating age-adjusted incidence and death rates."
+"NCHS, however, uses a different set of age groups in its age adjustment of death rates, and thus the cancer death rates in this"
+"report may differ slightly from those published by NCHS. </li><li> Deaths of persons of unknown age are not included in this"
+"data set. Death rates may differ slightly from other reports where deaths of persons of unknown age are included. </li></ul>"
+"5. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
