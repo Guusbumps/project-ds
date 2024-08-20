@@ -12,6 +12,7 @@ app = Dash(__name__, external_stylesheets=external_stylesheets)
 
 server = app.server
 
+# define layout of dashboard
 app.layout = html.Div([
     html.H2('Project Data Science - Nutrition and Cancer Dashboard'),
     html.Div('Guus Spenkelink - 2056061 - 2023/2024'),
@@ -82,7 +83,7 @@ app.layout = html.Div([
         ])
     ])
 
-
+# callbacks and update function for graph in first tab (population stratification, all cancer sites combined)
 @callback(
     Output('stratification-graph-content', 'figure'),
     Input('dropdown-selection-year', 'value'),
@@ -119,6 +120,7 @@ def update_stratification_graph(dropdown_year, dropdown_strat, checkbox_value, c
     return fig
 
 
+# callbacks and update function for graph in second tab (data per cancer site)
 @callback(
     Output('cancersites-graph-content', 'figure'),
     Input('dropdown-selection-year2', 'value'),
