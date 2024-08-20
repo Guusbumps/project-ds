@@ -75,14 +75,14 @@ def _getCombinedCancerDeathsData():
     df_sex['StratificationCategory1'] = 'Gender'
     df_sex['Stratification1'] = df_sex['Sex']
     df_combined = pd.concat([df_total, df_race, df_age, df_sex])
-    df_combined = df_combined[df_combined['Age-Adjusted Rate']!='Not Applicable']
+    df_combined = df_combined[df_combined['Age-Adjusted Rate'] != 'Not Applicable']
     df_combined['Age-Adjusted Rate'] = df_combined['Age-Adjusted Rate'].astype(float)
 
     # select useful columns
     df_combined = df_combined[
         ['Cancer Sites', 'State', 'Year', 'Deaths', 'Population', 'Age-Adjusted Rate',
-         'StratificationCategory1', 'Stratification1', 'Crude Rate', 'Race/Ethnicity',
-         'Sex', 'Age Group']]
+         'StratificationCategory1', 'Stratification1', 'Crude Rate'
+         ]]
 
     return df_combined
 

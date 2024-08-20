@@ -73,7 +73,7 @@ app.layout = html.Div([
                 ),
                 dcc.Checklist(
                     df_sites[df_sites['StratificationCategory1'] == "Total"].groupby('Leading Cancer Sites')['Age-Adjusted Rate'].mean().sort_values(ascending=False).index.tolist(),
-                    ['Lung and Bronchus', 'Prostate', 'Colon and Rectum'],
+                    ['Lung and Bronchus', 'Prostate', 'Colon and Rectum', 'Stomach'],
                     inline=True,
                     id='checklist_sites'
                 ),
