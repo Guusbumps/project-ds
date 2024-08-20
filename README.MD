@@ -5,8 +5,8 @@ The application code has the following structure
 * .gitignore – text-file that specifies intentionally untracked files to ignore by git
 * app.py – python script where the interactive dashboard is defined
 * data_wrangling.py – python script for importing and then processing data.
-* Procfile – this file is used for the deployment of the dashboard, in Heroku
-* requirements.txt –  text file specifying which modules
+* Procfile – this file is used for the deployment of the dashboard in Heroku
+* requirements.txt –  text file specifying which modules are needed in the project
 
 #### data_wrangling.py
 The script has two functions that are meant to be called from the dashboard script: getJoinedNutritionCancerData() 
