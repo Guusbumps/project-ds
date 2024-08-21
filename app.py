@@ -80,7 +80,18 @@ app.layout = html.Div([
             ]),
             dcc.Graph(id='cancersites-graph-content')
             ])
-        ])
+        ]),
+    html.Div(
+        dcc.Markdown('''
+        **data sources:**
+        - Centers for Disease Control and Prevention. Nutrition, Physical Activity, and Obesity - 
+        Behavioral Risk Factor Surveillance System. Retrieved from 
+        https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/Nutrition-Physical-Activity-and-Obesity-Behavioral/hn4x-zwk7
+        - Centers for Disease Control and Prevention. United States and Puerto Rico Cancer Statistics, 
+        1999-2020 Mortality Archive Request. Retrieved from http://wonder.cdc.gov/CancerMort-v2020.html 
+        '''),
+        style={'fontSize': 10}
+    )
     ])
 
 # callbacks and update function for graph in first tab (population stratification, all cancer sites combined)
