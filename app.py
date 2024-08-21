@@ -69,7 +69,7 @@ app.layout = html.Div([
             html.Br(),
             html.Details([
                 html.Summary(
-                    html.B('Click here to select cancer sites, listed in descending order by associated death rate')
+                    html.B('Click here to select cancer sites, listed in descending order by associated mortality rate')
                 ),
                 dcc.Checklist(
                     df_sites[df_sites['StratificationCategory1'] == "Total"].groupby('Leading Cancer Sites')['Age-Adjusted Rate'].mean().sort_values(ascending=False).index.tolist(),
@@ -112,7 +112,7 @@ def update_stratification_graph(dropdown_year, dropdown_strat, checkbox_value, c
                          "Age-Adjusted Rate": "Age-Adjusted Death Rate",
                          "Stratification1": "Stratification"
                      },
-                     title='Death rate (per 100,000) caused by cancer per US state <br>versus fruit and vegetable consumption, all cancer sites combined'
+                     title='Mortality rate (per 100,000) caused by cancer per US state <br>versus fruit and vegetable consumption, all cancer sites combined'
                      )
     fig.update_traces(textposition='top center')
     if checkbox_yaxis_value != ['Fix Y-axis']:
@@ -149,7 +149,7 @@ def update_cancersites_graph(dropdown_year, checkbox_value, checkbox_yaxis_value
                          "Age-Adjusted Rate": "Age-Adjusted Death Rate",
                          "Leading Cancer Sites": "Cancer site"
                      },
-                     title='Death rate (per 100,000) per (leading) cancer site per US state versus fruit and vegetable consumption'
+                     title='Mortality rate (per 100,000) per (leading) cancer site per US state versus fruit and vegetable consumption'
                      )
     fig.update_traces(textposition='top center')
     if checkbox_yaxis_value != ['Fix Y-axis']:
